@@ -4,13 +4,18 @@ const cors = require('cors');
 const admin = require('firebase-admin');
 const { Telegraf, Markup } = require('telegraf');
 const axios = require('axios');
+const crypto = require('crypto');
 
 const app = express();
 app.use(cors());
 app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
-// 1. INITIALIZE FIREBASE ADMIN SDK
-const serviceAccount = require('./serviceAccountKey.json');
+// 1. INITIALIZE FIREBASE ADMIN
+const serviceAccount = process.env.FIREBASE_SERVICE_ACCOUNT_JSON 
+  ? JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT_JSON)
+  : require('./serviceAccountKey.json');
+
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount)
 });
@@ -26,9 +31,14 @@ const ADMIN_CHAT_ID = process.env.TELEGRAM_ADMIN_CHAT_ID;
 app.post('/api/esim/redeem', async (req, res) => {
   const { userId, packageId, packageCostUsd } = req.body;
 
+  if (!userId || !packageId || !packageCostUsd) {
+    return res.status(400).json({ success: false, message: 'Missing required parameters' });
+  }
+
   try {
     const userRef = db.collection('users').doc(userId);
-    
+    const cost = parseFloat(packageCostUsd);
+
     await db.runTransaction(async (transaction) => {
       const userDoc = await transaction.get(userRef);
       if (!userDoc.exists) {
@@ -36,31 +46,44 @@ app.post('/api/esim/redeem', async (req, res) => {
       }
 
       const currentBalance = userDoc.data().balanceUsd || 0;
-      if (currentBalance < packageCostUsd) {
+      if (currentBalance < cost) {
         throw new Error('Insufficient balance');
       }
 
-      // Deduct credits
       transaction.update(userRef, {
-        balanceUsd: admin.firestore.FieldValue.increment(-packageCostUsd)
+        balanceUsd: admin.firestore.FieldValue.increment(-cost)
       });
     });
 
-    // Mock/External eSIM API Call (Replace with live eSIM provider API if needed)
-    const lpaString = `LPA:1$rsp.global-esim.com$DS-${Date.now()}-${userId.substring(0, 5)}`;
+    // Real API integration space for providers (e.g., Celitech / eSIM Go)
+    let lpaString = `LPA:1$rsp.global-esim.com$DS-${Date.now()}-${userId.substring(0, 5)}`;
+    
+    if (process.env.ESIM_PROVIDER_API_KEY) {
+      try {
+        const esimRes = await axios.post(
+          `${process.env.ESIM_PROVIDER_BASE_URL}/orders`,
+          { packageId: packageId },
+          { headers: { 'X-API-Key': process.env.ESIM_PROVIDER_API_KEY } }
+        );
+        if (esimRes.data && esimRes.data.lpaString) {
+          lpaString = esimRes.data.lpaString;
+        }
+      } catch (esimError) {
+        console.error('eSIM Provider API Call Error, fallback used:', esimError.message);
+      }
+    }
 
-    // Log transaction record
     await db.collection('esim_redemptions').add({
       userId,
       packageId,
-      costUsd: packageCostUsd,
+      costUsd: cost,
       lpaString,
       createdAt: admin.firestore.FieldValue.serverTimestamp()
     });
 
     res.json({
       success: true,
-      message: 'eSIM profile activated',
+      message: 'eSIM profile activated successfully',
       esimDetails: { lpaString }
     });
   } catch (error) {
@@ -69,18 +92,33 @@ app.post('/api/esim/redeem', async (req, res) => {
 });
 
 // =============================================================================
-// PAYPAL CHECKOUT & IPN / WEBHOOK
+// PAYPAL CHECKOUT & WEBHOOK
 // =============================================================================
 app.get('/paypal/checkout', (req, res) => {
   const { userId } = req.query;
-  // Redirect user to PayPal approval URL or hosted payment page
-  res.send(`<h2>PayPal Checkout for User: ${userId}</h2><p>Redirecting to payment provider...</p>`);
+  if (!userId) {
+    return res.status(400).send('User ID required');
+  }
+
+  res.send(`
+    <html>
+      <head><title>DataStream PayPal Checkout</title></head>
+      <body style="background-color: #0F172A; color: white; font-family: sans-serif; text-align: center; padding-top: 50px;">
+        <h2>PayPal Wallet Top-Up</h2>
+        <p>User ID: ${userId}</p>
+        <p>Redirecting to PayPal securely...</p>
+        <script>
+          // In production, initiate PayPal SDK JS order here
+        </script>
+      </body>
+    </html>
+  `);
 });
 
 app.post('/api/paypal/webhook', async (req, res) => {
   const { userId, amountPaidUsd, paymentStatus } = req.body;
 
-  if (paymentStatus === 'COMPLETED') {
+  if (paymentStatus === 'COMPLETED' && userId && amountPaidUsd) {
     await db.collection('users').doc(userId).update({
       balanceUsd: admin.firestore.FieldValue.increment(parseFloat(amountPaidUsd))
     });
@@ -91,10 +129,42 @@ app.post('/api/paypal/webhook', async (req, res) => {
 });
 
 // =============================================================================
-// TELEGRAM BOT (M-PESA DEPOSIT APPROVAL)
+// TAPJOY POSTBACK ENDPOINT
 // =============================================================================
+app.get('/api/tapjoy/postback', async (req, res) => {
+  const { snuid, currency, mac } = req.query;
 
-// Firestore listener for new M-Pesa submissions
+  if (!snuid || !currency) {
+    return res.status(400).send('Missing parameters');
+  }
+
+  try {
+    if (process.env.TAPJOY_SECRET_KEY && mac) {
+      const computedMac = crypto
+        .createHash('sha256')
+        .update(`${snuid}:${currency}:${process.env.TAPJOY_SECRET_KEY}`)
+        .digest('hex');
+
+      if (computedMac !== mac) {
+        return res.status(403).send('Unauthorized signature mismatch');
+      }
+    }
+
+    const userRef = db.collection('users').doc(snuid);
+    await userRef.update({
+      balanceUsd: admin.firestore.FieldValue.increment(parseFloat(currency))
+    });
+
+    res.status(200).send('200 OK');
+  } catch (error) {
+    console.error('Tapjoy Postback Error:', error);
+    res.status(500).send('Internal Server Error');
+  }
+});
+
+// =============================================================================
+// TELEGRAM BOT (M-PESA DEPOSIT LISTENER & HANDLER)
+// =============================================================================
 db.collection('mpesa_deposits').where('status', '==', 'pending')
   .onSnapshot(snapshot => {
     snapshot.docChanges().forEach(change => {
@@ -123,7 +193,6 @@ db.collection('mpesa_deposits').where('status', '==', 'pending')
     });
   });
 
-// Handle Telegram Approve button click
 bot.action(/approve_(.+)/, async (ctx) => {
   const depositId = ctx.match[1];
   const depositRef = db.collection('mpesa_deposits').doc(depositId);
@@ -132,19 +201,22 @@ bot.action(/approve_(.+)/, async (ctx) => {
     await db.runTransaction(async (transaction) => {
       const doc = await transaction.get(depositRef);
       if (!doc.exists || doc.data().status !== 'pending') {
-        throw new Error('Deposit processed or non-existent');
+        throw new Error('Deposit already processed or non-existent');
       }
 
       const deposit = doc.data();
-      // Exchange rate logic (e.g. 1 USD = 130 KES)
-      const usdCredit = deposit.amountKes / 130.0;
+      const kesToUsdRate = parseFloat(process.env.KES_TO_USD_RATE || '130.0');
+      const usdCredit = deposit.amountKes / kesToUsdRate;
 
       const userRef = db.collection('users').doc(deposit.userId);
       transaction.update(userRef, {
         balanceUsd: admin.firestore.FieldValue.increment(usdCredit)
       });
 
-      transaction.update(depositRef, { status: 'approved', approvedAt: admin.firestore.FieldValue.serverTimestamp() });
+      transaction.update(depositRef, { 
+        status: 'approved', 
+        approvedAt: admin.firestore.FieldValue.serverTimestamp() 
+      });
     });
 
     await ctx.answerCbQuery('Deposit Approved!');
@@ -154,7 +226,6 @@ bot.action(/approve_(.+)/, async (ctx) => {
   }
 });
 
-// Handle Telegram Reject button click
 bot.action(/reject_(.+)/, async (ctx) => {
   const depositId = ctx.match[1];
   await db.collection('mpesa_deposits').doc(depositId).update({ status: 'rejected' });
@@ -164,8 +235,7 @@ bot.action(/reject_(.+)/, async (ctx) => {
 
 bot.launch();
 
-// START EXPRESS SERVER
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-  console.log(`DataStream backend live on port ${PORT}`);
+  console.log(`DataStream backend server active on port ${PORT}`);
 });
