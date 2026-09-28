@@ -7,7 +7,7 @@ const esim = require('./esim');
 // Setup
 // ---------------------------------------------------------------------------
 admin.initializeApp({
-  credential: admin.credential.cert(JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT)),
+  credential: admin.credential.cert(JSON.parse(process.env.serviceaccount.json)),
 });
 const db = admin.firestore();
 const FieldValue = admin.firestore.FieldValue;
