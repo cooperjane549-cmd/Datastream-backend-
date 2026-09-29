@@ -1,13 +1,32 @@
 const express = require('express');
 const crypto = require('crypto');
+const fs = require('fs');
+const path = require('path');
 const admin = require('firebase-admin');
 const esim = require('./esim');
 
 // ---------------------------------------------------------------------------
 // Setup
 // ---------------------------------------------------------------------------
+function loadServiceAccount() {
+  // Preferred: an env var holding the whole JSON.
+  if (process.env.FIREBASE_SERVICE_ACCOUNT) {
+    return JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT);
+  }
+  // Fallback: a Render "Secret File", which Render mounts under /etc/secrets/<filename>.
+  const dir = '/etc/secrets';
+  if (fs.existsSync(dir)) {
+    const match = fs.readdirSync(dir).find((f) => /firebase/i.test(f));
+    if (match) return JSON.parse(fs.readFileSync(path.join(dir, match), 'utf8'));
+  }
+  throw new Error(
+    'No Firebase credentials found. Set FIREBASE_SERVICE_ACCOUNT as an env var, ' +
+    'or add a Secret File whose name contains "firebase".'
+  );
+}
+
 admin.initializeApp({
-  credential: admin.credential.cert(JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT)),
+  credential: admin.credential.cert(loadServiceAccount()),
 });
 const db = admin.firestore();
 const FieldValue = admin.firestore.FieldValue;
