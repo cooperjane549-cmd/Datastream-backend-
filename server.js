@@ -1,13 +1,32 @@
 const express = require('express');
 const crypto = require('crypto');
+const fs = require('fs');
+const path = require('path');
 const admin = require('firebase-admin');
 const esim = require('./esim');
 
 // ---------------------------------------------------------------------------
 // Setup
 // ---------------------------------------------------------------------------
+function loadServiceAccount() {
+  // Preferred: an env var holding the whole JSON.
+  if (process.env.FIREBASE_SERVICE_ACCOUNT) {
+    return JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT);
+  }
+  // Fallback: a Render "Secret File", which Render mounts under /etc/secrets/<filename>.
+  const dir = '/etc/secrets';
+  if (fs.existsSync(dir)) {
+    const match = fs.readdirSync(dir).find((f) => /firebase/i.test(f));
+    if (match) return JSON.parse(fs.readFileSync(path.join(dir, match), 'utf8'));
+  }
+  throw new Error(
+    'No Firebase credentials found. Set FIREBASE_SERVICE_ACCOUNT as an env var, ' +
+    'or add a Secret File whose name contains "firebase".'
+  );
+}
+
 admin.initializeApp({
-  credential: admin.credential.cert(JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT)),
+  credential: admin.credential.cert(loadServiceAccount()),
 });
 const db = admin.firestore();
 const FieldValue = admin.firestore.FieldValue;
@@ -257,6 +276,50 @@ app.post('/redeem', requireUser, async (req, res) => {
   } catch (e) {
     console.error(e);
     res.status(500).json({ success: false, message: 'Server error' });
+  }
+});
+
+// ---------------------------------------------------------------------------
+// Tapjoy S2S callback. Tapjoy calls this with its OWN scheme — a GET request
+// with an MD5 verifier, not the generic postback format below. Set this
+// exact URL as your "Callback URL" under Tapjoy Dashboard > Monetize >
+// Virtual Currency, and put the currency's "Secret Key" (NOT the SDK key)
+// in Render as TAPJOY_VC_SECRET_KEY.
+//
+// Simplest setup: in that Virtual Currency's exchange-rate settings, make
+// 1 unit of Tapjoy currency = 1 MB, so the `currency` param below can be
+// credited directly with no extra conversion math.
+// ---------------------------------------------------------------------------
+app.get('/postback/tapjoy', async (req, res) => {
+  try {
+    const { snuid, currency, id, verifier } = req.query;
+    if (!snuid || !currency || !id || !verifier) return res.sendStatus(403);
+
+    const secret = process.env.TAPJOY_VC_SECRET_KEY || '';
+    const expected = crypto
+      .createHash('md5')
+      .update(`${id}:${snuid}:${currency}:${secret}`)
+      .digest('hex');
+
+    if (!safeEqual(expected, String(verifier))) {
+      console.warn('Tapjoy callback: verifier mismatch for id', id);
+      return res.sendStatus(403); // tells Tapjoy: do not retry
+    }
+
+    const mb = Math.floor(Number(currency));
+    if (!(mb > 0)) return res.sendStatus(403);
+
+    await applyLedger({
+      uid: String(snuid),
+      deltaMb: mb,
+      type: 'offer_tapjoy',
+      refId: String(id).replace(/[^a-zA-Z0-9_-]/g, '_').slice(0, 100),
+      meta: {},
+    });
+    return res.sendStatus(200); // tells Tapjoy: credited, stop retrying
+  } catch (e) {
+    console.error('Tapjoy callback error', e.message);
+    return res.sendStatus(500); // unexpected error — let Tapjoy retry
   }
 });
 
