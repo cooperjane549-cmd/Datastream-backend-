@@ -482,4 +482,60 @@ app.all('/postback/:network', async (req, res) => {
   }
 });
 
+// ---------------------------------------------------------------------------
+// One-off admin endpoint: imports the pack catalog CSV (committed to the
+// repo at data/esimgo-packs-2026-10.csv) into Firestore, by visiting this
+// URL in a browser — no Render Shell access needed. Guarded by a secret
+// query param so a stranger can't trigger it. Safe to re-run: each pack's
+// bundle code is its Firestore document ID, so re-importing (e.g. next
+// month's updated rate sheet, after committing a new CSV) just refreshes
+// prices rather than duplicating anything.
+// ---------------------------------------------------------------------------
+app.get('/admin/import-packs', async (req, res) => {
+  const want = process.env.ADMIN_IMPORT_SECRET || '';
+  if (!want || req.query.secret !== want) return res.sendStatus(404); // hide that this route exists at all
+
+  const csvPath = path.join(__dirname, req.query.file || 'data/esimgo-packs-2026-10.csv');
+  if (!fs.existsSync(csvPath)) {
+    return res.status(404).send(`CSV not found at ${csvPath} — check it was committed to the repo.`);
+  }
+
+  try {
+    const lines = fs.readFileSync(csvPath, 'utf8').trim().split('\n');
+    const headers = lines[0].split(',').map((h) => h.trim());
+    const rows = lines.slice(1).map((line) => {
+      const cells = line.split(',');
+      const row = {};
+      headers.forEach((h, i) => (row[h] = (cells[i] || '').trim()));
+      return row;
+    });
+
+    const collectionRef = db.collection('config').doc('data_packs').collection('items');
+    const BATCH_SIZE = 450;
+    let written = 0;
+    for (let i = 0; i < rows.length; i += BATCH_SIZE) {
+      const chunk = rows.slice(i, i + BATCH_SIZE);
+      const batch = db.batch();
+      for (const row of chunk) {
+        batch.set(collectionRef.doc(row.id), {
+          country: row.country,
+          name: row.name,
+          sizeMb: Number(row.sizeMb),
+          validityDays: Number(row.validityDays),
+          costCredits: Number(row.costCredits),
+          providerBundleCode: row.providerBundleCode,
+          active: row.active === 'true',
+        });
+      }
+      await batch.commit();
+      written += chunk.length;
+    }
+
+    res.send(`Imported ${written} packs from ${req.query.file || 'data/esimgo-packs-2026-10.csv'}.`);
+  } catch (e) {
+    console.error('Pack import error', e);
+    res.status(500).send(`Import failed: ${e.message}`);
+  }
+});
+
 app.listen(process.env.PORT || 3000, () => console.log('DataStream backend running'));
