@@ -358,7 +358,16 @@ app.post('/redeem', requireUser, async (req, res) => {
     if (existing.exists) {
       const o = existing.data();
       if (o.status === 'completed') {
-        return res.json({ success: true, esimDetails: { lpaString: o.lpaString } });
+        return res.json({
+          success: true,
+          esimDetails: {
+            lpaString: o.lpaString,
+            smdpAddress: o.smdpAddress || null,
+            activationCode: o.activationCode || null,
+            appleInstallUrl: o.appleInstallUrl || null,
+            androidInstallUrl: o.androidInstallUrl || null,
+          },
+        });
       }
       return res.status(409).json({ success: false, message: 'Order already processed or in progress' });
     }
@@ -386,9 +395,24 @@ app.post('/redeem', requireUser, async (req, res) => {
     try {
       const profile = await esim.createProfile({ pack: { id: packId, ...pack }, uid });
       await orderRef.update({
-        status: 'completed', lpaString: profile.lpaString, providerRef: profile.providerRef || null,
+        status: 'completed',
+        lpaString: profile.lpaString,
+        providerRef: profile.providerRef || null,
+        smdpAddress: profile.smdpAddress || null,
+        activationCode: profile.activationCode || null,
+        appleInstallUrl: profile.appleInstallUrl || null,
+        androidInstallUrl: profile.androidInstallUrl || null,
       });
-      return res.json({ success: true, esimDetails: { lpaString: profile.lpaString } });
+      return res.json({
+        success: true,
+        esimDetails: {
+          lpaString: profile.lpaString,
+          smdpAddress: profile.smdpAddress || null,
+          activationCode: profile.activationCode || null,
+          appleInstallUrl: profile.appleInstallUrl || null,
+          androidInstallUrl: profile.androidInstallUrl || null,
+        },
+      });
     } catch (e) {
       console.error('eSIM provider failed', e.message);
       await applyLedger({ uid, deltaCredits: pack.costCredits, type: 'esim_refund', refId: orderId, meta: { packId } });
