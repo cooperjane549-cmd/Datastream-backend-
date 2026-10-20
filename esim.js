@@ -75,9 +75,41 @@ async function createProfile({ pack, uid }) {
     throw new Error('eSIM Go order succeeded but activation details were missing from the response');
   }
 
+  const orderReference = data.orderReference || null;
+  let appleInstallUrl = null;
+  let androidInstallUrl = null;
+
+  // Fetch one-tap install links — lets the user install the eSIM with a
+  // single tap on the SAME phone, no QR scan and no second device needed.
+  // Best-effort: if this call fails for any reason, we still return the
+  // QR/manual-entry fallback (lpaString) rather than failing the whole
+  // order over a nice-to-have.
+  if (orderReference) {
+    try {
+      const assignRes = await fetch(
+        `${ESIMGO_BASE_URL}/esims/assignments?reference=${encodeURIComponent(orderReference)}&additionalFields=installUrl`,
+        { headers: { 'X-API-Key': apiKey } }
+      );
+      const assignData = await assignRes.json().catch(() => ({}));
+      if (assignRes.ok) {
+        const assignment = (Array.isArray(assignData) && assignData[0]) || assignData.assignments?.[0] || assignData;
+        appleInstallUrl = assignment.appleInstallUrl || null;
+        androidInstallUrl = assignment.androidInstallUrl || null;
+      } else {
+        console.warn('eSIM Go install-link fetch failed (non-fatal):', JSON.stringify(assignData).slice(0, 300));
+      }
+    } catch (e) {
+      console.warn('eSIM Go install-link fetch error (non-fatal):', e.message);
+    }
+  }
+
   return {
-    providerRef: data.orderReference || orderItem.iccid || 'unknown',
+    providerRef: orderReference || orderItem.iccid || 'unknown',
     lpaString: `LPA:1$${smdpAddress}$${matchingId}`,
+    smdpAddress,
+    activationCode: matchingId,
+    appleInstallUrl,
+    androidInstallUrl,
   };
 }
 
