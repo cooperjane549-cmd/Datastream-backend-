@@ -1,1 +1,1497 @@
-
+id,country,name,sizeMb,validityDays,costCredits,providerBundleCode,active
+esim_1GB_7D_RAF_V2,Africa (Region),Africa 1GB - 7 days,1000,7,12420,esim_1GB_7D_RAF_V2,true
+esim_2GB_15D_RAF_V2,Africa (Region),Africa 2GB - 15 days,2000,15,23850,esim_2GB_15D_RAF_V2,true
+esim_3GB_30D_RAF_V2,Africa (Region),Africa 3GB - 30 days,3000,30,33336,esim_3GB_30D_RAF_V2,true
+esim_5GB_30D_RAF_V2,Africa (Region),Africa 5GB - 30 days,5000,30,54900,esim_5GB_30D_RAF_V2,true
+esim_10GB_30D_RAF_V2,Africa (Region),Africa 10GB - 30 days,10000,30,100638,esim_10GB_30D_RAF_V2,true
+esim_20GB_30D_RAF_V2,Africa (Region),Africa 20GB - 30 days,20000,30,180666,esim_20GB_30D_RAF_V2,true
+esim_1GB_7D_RLA_V2,Americas (Region),Americas 1GB - 7 days,1000,7,6120,esim_1GB_7D_RLA_V2,true
+esim_2GB_15D_RLA_V2,Americas (Region),Americas 2GB - 15 days,2000,15,11268,esim_2GB_15D_RLA_V2,true
+esim_3GB_30D_RLA_V2,Americas (Region),Americas 3GB - 30 days,3000,30,15534,esim_3GB_30D_RLA_V2,true
+esim_5GB_30D_RLA_V2,Americas (Region),Americas 5GB - 30 days,5000,30,25218,esim_5GB_30D_RLA_V2,true
+esim_10GB_30D_RLA_V2,Americas (Region),Americas 10GB - 30 days,10000,30,45792,esim_10GB_30D_RLA_V2,true
+esim_20GB_30D_RLA_V2,Americas (Region),Americas 20GB - 30 days,20000,30,81774,esim_20GB_30D_RLA_V2,true
+esim_50GB_30D_RLA_V2,Americas (Region),Americas 50GB - 30 days,50000,30,184590,esim_50GB_30D_RLA_V2,true
+esim_1GB_7D_RAS_V2,Asia (Region),Asia 1GB - 7 days,1000,7,5328,esim_1GB_7D_RAS_V2,true
+esim_2GB_15D_RAS_V2,Asia (Region),Asia 2GB - 15 days,2000,15,9684,esim_2GB_15D_RAS_V2,true
+esim_3GB_30D_RAS_V2,Asia (Region),Asia 3GB - 30 days,3000,30,13284,esim_3GB_30D_RAS_V2,true
+esim_5GB_30D_RAS_V2,Asia (Region),Asia 5GB - 30 days,5000,30,21474,esim_5GB_30D_RAS_V2,true
+esim_10GB_30D_RAS_V2,Asia (Region),Asia 10GB - 30 days,10000,30,38862,esim_10GB_30D_RAS_V2,true
+esim_20GB_30D_RAS_V2,Asia (Region),Asia 20GB - 30 days,20000,30,69300,esim_20GB_30D_RAS_V2,true
+esim_50GB_30D_RAS_V2,Asia (Region),Asia 50GB - 30 days,50000,30,156240,esim_50GB_30D_RAS_V2,true
+esim_100GB_30D_RAS_V2,Asia (Region),Asia 100GB - 30 days,100000,30,396018,esim_100GB_30D_RAS_V2,true
+esim_1GB_7D_RBK_V2,Balkans (Region),Balkans 1GB - 7 days,1000,7,5382,esim_1GB_7D_RBK_V2,true
+esim_2GB_15D_RBK_V2,Balkans (Region),Balkans 2GB - 15 days,2000,15,8604,esim_2GB_15D_RBK_V2,true
+esim_3GB_30D_RBK_V2,Balkans (Region),Balkans 3GB - 30 days,3000,30,11448,esim_3GB_30D_RBK_V2,true
+esim_5GB_30D_RBK_V2,Balkans (Region),Balkans 5GB - 30 days,5000,30,16902,esim_5GB_30D_RBK_V2,true
+esim_10GB_30D_RBK_V2,Balkans (Region),Balkans 10GB - 30 days,10000,30,25992,esim_10GB_30D_RBK_V2,true
+esim_20GB_30D_RBK_V2,Balkans (Region),Balkans 20GB - 30 days,20000,30,42156,esim_20GB_30D_RBK_V2,true
+esim_50GB_30D_RBK_V2,Balkans (Region),Balkans 50GB - 30 days,50000,30,92664,esim_50GB_30D_RBK_V2,true
+esim_100GB_30D_RBK_V2,Balkans (Region),Balkans 100GB - 30 days,100000,30,163386,esim_100GB_30D_RBK_V2,true
+esim_1GB_7D_RCA_V2,Caribbean (Region),Caribbean 1GB - 7 days,1000,7,11772,esim_1GB_7D_RCA_V2,true
+esim_2GB_15D_RCA_V2,Caribbean (Region),Caribbean 2GB - 15 days,2000,15,20934,esim_2GB_15D_RCA_V2,true
+esim_3GB_30D_RCA_V2,Caribbean (Region),Caribbean 3GB - 30 days,3000,30,29502,esim_3GB_30D_RCA_V2,true
+esim_5GB_30D_RCA_V2,Caribbean (Region),Caribbean 5GB - 30 days,5000,30,42660,esim_5GB_30D_RCA_V2,true
+esim_10GB_30D_RCA_V2,Caribbean (Region),Caribbean 10GB - 30 days,10000,30,73782,esim_10GB_30D_RCA_V2,true
+esim_20GB_30D_RCA_V2,Caribbean (Region),Caribbean 20GB - 30 days,20000,30,124182,esim_20GB_30D_RCA_V2,true
+esim_1GB_7D_RCE_V2,CENAM (Region),CENAM 1GB - 7 days,1000,7,8802,esim_1GB_7D_RCE_V2,true
+esim_2GB_15D_RCE_V2,CENAM (Region),CENAM 2GB - 15 days,2000,15,14598,esim_2GB_15D_RCE_V2,true
+esim_3GB_30D_RCE_V2,CENAM (Region),CENAM 3GB - 30 days,3000,30,19674,esim_3GB_30D_RCE_V2,true
+esim_5GB_30D_RCE_V2,CENAM (Region),CENAM 5GB - 30 days,5000,30,29448,esim_5GB_30D_RCE_V2,true
+esim_10GB_30D_RCE_V2,CENAM (Region),CENAM 10GB - 30 days,10000,30,45756,esim_10GB_30D_RCE_V2,true
+esim_20GB_30D_RCE_V2,CENAM (Region),CENAM 20GB - 30 days,20000,30,74754,esim_20GB_30D_RCE_V2,true
+esim_50GB_30D_RCE_V2,CENAM (Region),CENAM 50GB - 30 days,50000,30,165384,esim_50GB_30D_RCE_V2,true
+esim_100GB_30D_RCE_V2,CENAM (Region),CENAM 100GB - 30 days,100000,30,292248,esim_100GB_30D_RCE_V2,true
+esim_1GB_7D_RCI_V2,CIS (Region),CIS 1GB - 7 days,1000,7,9810,esim_1GB_7D_RCI_V2,true
+esim_2GB_15D_RCI_V2,CIS (Region),CIS 2GB - 15 days,2000,15,21870,esim_2GB_15D_RCI_V2,true
+esim_3GB_30D_RCI_V2,CIS (Region),CIS 3GB - 30 days,3000,30,22986,esim_3GB_30D_RCI_V2,true
+esim_5GB_30D_RCI_V2,CIS (Region),CIS 5GB - 30 days,5000,30,34830,esim_5GB_30D_RCI_V2,true
+esim_10GB_30D_RCI_V2,CIS (Region),CIS 10GB - 30 days,10000,30,54576,esim_10GB_30D_RCI_V2,true
+esim_20GB_30D_RCI_V2,CIS (Region),CIS 20GB - 30 days,20000,30,89676,esim_20GB_30D_RCI_V2,true
+esim_50GB_30D_RCI_V2,CIS (Region),CIS 50GB - 30 days,50000,30,199350,esim_50GB_30D_RCI_V2,true
+esim_100GB_30D_RCI_V2,CIS (Region),CIS 100GB - 30 days,100000,30,352926,esim_100GB_30D_RCI_V2,true
+esim_1GB_7D_REUX_V2,Europe Extra (Region),Europe Extra 1GB - 7 days,1000,7,2412,esim_1GB_7D_REUX_V2,true
+esim_2GB_15D_REUX_V2,Europe Extra (Region),Europe Extra 2GB - 15 days,2000,15,4140,esim_2GB_15D_REUX_V2,true
+esim_3GB_30D_REUX_V2,Europe Extra (Region),Europe Extra 3GB - 30 days,3000,30,5454,esim_3GB_30D_REUX_V2,true
+esim_5GB_30D_REUX_V2,Europe Extra (Region),Europe Extra 5GB - 30 days,5000,30,8496,esim_5GB_30D_REUX_V2,true
+esim_10GB_30D_REUX_V2,Europe Extra (Region),Europe Extra 10GB - 30 days,10000,30,13950,esim_10GB_30D_REUX_V2,true
+esim_20GB_30D_REUX_V2,Europe Extra (Region),Europe Extra 20GB - 30 days,20000,30,24102,esim_20GB_30D_REUX_V2,true
+esim_50GB_30D_REUX_V2,Europe Extra (Region),Europe Extra 50GB - 30 days,50000,30,54540,esim_50GB_30D_REUX_V2,true
+esim_100GB_30D_REUX_V2,Europe Extra (Region),Europe Extra 100GB - 30 days,100000,30,107658,esim_100GB_30D_REUX_V2,true
+esim_1GB_7D_REUL_V2,Europe Lite (Region),Europe Lite 1GB - 7 days,1000,7,2412,esim_1GB_7D_REUL_V2,true
+esim_2GB_15D_REUL_V2,Europe Lite (Region),Europe Lite 2GB - 15 days,2000,15,4140,esim_2GB_15D_REUL_V2,true
+esim_3GB_30D_REUL_V2,Europe Lite (Region),Europe Lite 3GB - 30 days,3000,30,5454,esim_3GB_30D_REUL_V2,true
+esim_5GB_30D_REUL_V2,Europe Lite (Region),Europe Lite 5GB - 30 days,5000,30,8496,esim_5GB_30D_REUL_V2,true
+esim_10GB_30D_REUL_V2,Europe Lite (Region),Europe Lite 10GB - 30 days,10000,30,13950,esim_10GB_30D_REUL_V2,true
+esim_20GB_30D_REUL_V2,Europe Lite (Region),Europe Lite 20GB - 30 days,20000,30,24102,esim_20GB_30D_REUL_V2,true
+esim_50GB_30D_REUL_V2,Europe Lite (Region),Europe Lite 50GB - 30 days,50000,30,54540,esim_50GB_30D_REUL_V2,true
+esim_100GB_30D_REUL_V2,Europe Lite (Region),Europe Lite 100GB - 30 days,100000,30,107658,esim_100GB_30D_REUL_V2,true
+esim_1GB_7D_RGB_V2,Global (Region),Global 1GB - 7 days,1000,7,14508,esim_1GB_7D_RGB_V2,true
+esim_2GB_15D_RGB_V2,Global (Region),Global 2GB - 15 days,2000,15,28008,esim_2GB_15D_RGB_V2,true
+esim_3GB_30D_RGB_V2,Global (Region),Global 3GB - 30 days,3000,30,39204,esim_3GB_30D_RGB_V2,true
+esim_5GB_30D_RGB_V2,Global (Region),Global 5GB - 30 days,5000,30,64692,esim_5GB_30D_RGB_V2,true
+esim_10GB_30D_RGB_V2,Global (Region),Global 10GB - 30 days,10000,30,118746,esim_10GB_30D_RGB_V2,true
+esim_20GB_30D_RGB_V2,Global (Region),Global 20GB - 30 days,20000,30,213336,esim_20GB_30D_RGB_V2,true
+esim_1GB_7D_RGB_P5,Global P5 (Region),Global P5 1GB - 7 days,1000,7,14508,esim_1GB_7D_RGB_P5,true
+esim_2GB_15D_RGB_P5,Global P5 (Region),Global P5 2GB - 15 days,2000,15,28008,esim_2GB_15D_RGB_P5,true
+esim_3GB_30D_RGB_P5,Global P5 (Region),Global P5 3GB - 30 days,3000,30,39204,esim_3GB_30D_RGB_P5,true
+esim_5GB_30D_RGB_P5,Global P5 (Region),Global P5 5GB - 30 days,5000,30,64692,esim_5GB_30D_RGB_P5,true
+esim_10GB_30D_RGB_P5,Global P5 (Region),Global P5 10GB - 30 days,10000,30,118746,esim_10GB_30D_RGB_P5,true
+esim_20GB_30D_RGB_P5,Global P5 (Region),Global P5 20GB - 30 days,20000,30,213336,esim_20GB_30D_RGB_P5,true
+esim_50GB_30D_RGB_P5,Global P5 (Region),Global P5 50GB - 30 days,50000,30,595008,esim_50GB_30D_RGB_P5,true
+esim_1GB_7D_RME_V2,Middle East & Africa (Region),Middle East & Africa 1GB - 7 days,1000,7,7398,esim_1GB_7D_RME_V2,true
+esim_2GB_15D_RME_V2,Middle East & Africa (Region),Middle East & Africa 2GB - 15 days,2000,15,13734,esim_2GB_15D_RME_V2,true
+esim_3GB_30D_RME_V2,Middle East & Africa (Region),Middle East & Africa 3GB - 30 days,3000,30,18990,esim_3GB_30D_RME_V2,true
+esim_5GB_30D_RME_V2,Middle East & Africa (Region),Middle East & Africa 5GB - 30 days,5000,30,30978,esim_5GB_30D_RME_V2,true
+esim_10GB_30D_RME_V2,Middle East & Africa (Region),Middle East & Africa 10GB - 30 days,10000,30,56376,esim_10GB_30D_RME_V2,true
+esim_20GB_30D_RME_V2,Middle East & Africa (Region),Middle East & Africa 20GB - 30 days,20000,30,111168,esim_20GB_30D_RME_V2,true
+esim_50GB_30D_RME_V2,Middle East & Africa (Region),Middle East & Africa 50GB - 30 days,50000,30,227844,esim_50GB_30D_RME_V2,true
+esim_1GB_7D_RMENA_V2,Middle East and North Africa (Region),Middle East and North Africa 1GB - 7 days,1000,7,4878,esim_1GB_7D_RMENA_V2,true
+esim_2GB_15D_RMENA_V2,Middle East and North Africa (Region),Middle East and North Africa 2GB - 15 days,2000,15,8766,esim_2GB_15D_RMENA_V2,true
+esim_3GB_30D_RMENA_V2,Middle East and North Africa (Region),Middle East and North Africa 3GB - 30 days,3000,30,12330,esim_3GB_30D_RMENA_V2,true
+esim_5GB_30D_RMENA_V2,Middle East and North Africa (Region),Middle East and North Africa 5GB - 30 days,5000,30,18342,esim_5GB_30D_RMENA_V2,true
+esim_10GB_30D_RMENA_V2,Middle East and North Africa (Region),Middle East and North Africa 10GB - 30 days,10000,30,33300,esim_10GB_30D_RMENA_V2,true
+esim_20GB_30D_RMENA_V2,Middle East and North Africa (Region),Middle East and North Africa 20GB - 30 days,20000,30,60030,esim_20GB_30D_RMENA_V2,true
+esim_50GB_30D_RMENA_V2,Middle East and North Africa (Region),Middle East and North Africa 50GB - 30 days,50000,30,126990,esim_50GB_30D_RMENA_V2,true
+esim_100GB_30D_RMENA_V2,Middle East and North Africa (Region),Middle East and North Africa 100GB - 30 days,100000,30,243450,esim_100GB_30D_RMENA_V2,true
+esim_1GB_7D_RNA_V2,North America (Region),North America 1GB - 7 days,1000,7,4680,esim_1GB_7D_RNA_V2,true
+esim_2GB_15D_RNA_V2,North America (Region),North America 2GB - 15 days,2000,15,8460,esim_2GB_15D_RNA_V2,true
+esim_3GB_30D_RNA_V2,North America (Region),North America 3GB - 30 days,3000,30,12060,esim_3GB_30D_RNA_V2,true
+esim_5GB_30D_RNA_V2,North America (Region),North America 5GB - 30 days,5000,30,19350,esim_5GB_30D_RNA_V2,true
+esim_10GB_30D_RNA_V2,North America (Region),North America 10GB - 30 days,10000,30,35100,esim_10GB_30D_RNA_V2,true
+esim_20GB_30D_RNA_V2,North America (Region),North America 20GB - 30 days,20000,30,61200,esim_20GB_30D_RNA_V2,true
+esim_50GB_30D_RNA_V2,North America (Region),North America 50GB - 30 days,50000,30,133200,esim_50GB_30D_RNA_V2,true
+esim_100GB_30D_RNA_V2,North America (Region),North America 100GB - 30 days,100000,30,259740,esim_100GB_30D_RNA_V2,true
+esim_1GB_7D_ROC_V2,Oceania (Region),Oceania 1GB - 7 days,1000,7,2988,esim_1GB_7D_ROC_V2,true
+esim_2GB_15D_ROC_V2,Oceania (Region),Oceania 2GB - 15 days,2000,15,4464,esim_2GB_15D_ROC_V2,true
+esim_3GB_30D_ROC_V2,Oceania (Region),Oceania 3GB - 30 days,3000,30,5742,esim_3GB_30D_ROC_V2,true
+esim_5GB_30D_ROC_V2,Oceania (Region),Oceania 5GB - 30 days,5000,30,8208,esim_5GB_30D_ROC_V2,true
+esim_10GB_30D_ROC_V2,Oceania (Region),Oceania 10GB - 30 days,10000,30,12312,esim_10GB_30D_ROC_V2,true
+esim_20GB_30D_ROC_V2,Oceania (Region),Oceania 20GB - 30 days,20000,30,19620,esim_20GB_30D_ROC_V2,true
+esim_50GB_30D_ROC_V2,Oceania (Region),Oceania 50GB - 30 days,50000,30,42462,esim_50GB_30D_ROC_V2,true
+esim_100GB_30D_ROC_V2,Oceania (Region),Oceania 100GB - 30 days,100000,30,74430,esim_100GB_30D_ROC_V2,true
+esim_1GB_7D_RSEA_V2,South East Asia (Region),South East Asia 1GB - 7 days,1000,7,6570,esim_1GB_7D_RSEA_V2,true
+esim_2GB_15D_RSEA_V2,South East Asia (Region),South East Asia 2GB - 15 days,2000,15,10548,esim_2GB_15D_RSEA_V2,true
+esim_3GB_30D_RSEA_V2,South East Asia (Region),South East Asia 3GB - 30 days,3000,30,14004,esim_3GB_30D_RSEA_V2,true
+esim_5GB_30D_RSEA_V2,South East Asia (Region),South East Asia 5GB - 30 days,5000,30,20700,esim_5GB_30D_RSEA_V2,true
+esim_10GB_30D_RSEA_V2,South East Asia (Region),South East Asia 10GB - 30 days,10000,30,31842,esim_10GB_30D_RSEA_V2,true
+esim_20GB_30D_RSEA_V2,South East Asia (Region),South East Asia 20GB - 30 days,20000,30,51678,esim_20GB_30D_RSEA_V2,true
+esim_50GB_30D_RSEA_V2,South East Asia (Region),South East Asia 50GB - 30 days,50000,30,113616,esim_50GB_30D_RSEA_V2,true
+esim_100GB_30D_RSEA_V2,South East Asia (Region),South East Asia 100GB - 30 days,100000,30,200322,esim_100GB_30D_RSEA_V2,true
+esim_1GB_7D_AX_V2,Aaland Islands,Aaland Islands 1GB - 7 days,1000,7,2340,esim_1GB_7D_AX_V2,true
+esim_2GB_15D_AX_V2,Aaland Islands,Aaland Islands 2GB - 15 days,2000,15,4122,esim_2GB_15D_AX_V2,true
+esim_3GB_30D_AX_V2,Aaland Islands,Aaland Islands 3GB - 30 days,3000,30,5310,esim_3GB_30D_AX_V2,true
+esim_5GB_30D_AX_V2,Aaland Islands,Aaland Islands 5GB - 30 days,5000,30,7344,esim_5GB_30D_AX_V2,true
+esim_10GB_30D_AX_V2,Aaland Islands,Aaland Islands 10GB - 30 days,10000,30,11592,esim_10GB_30D_AX_V2,true
+esim_20GB_30D_AX_V2,Aaland Islands,Aaland Islands 20GB - 30 days,20000,30,19386,esim_20GB_30D_AX_V2,true
+esim_50GB_30D_AX_V2,Aaland Islands,Aaland Islands 50GB - 30 days,50000,30,43452,esim_50GB_30D_AX_V2,true
+esim_100GB_30D_AX_V2,Aaland Islands,Aaland Islands 100GB - 30 days,100000,30,86022,esim_100GB_30D_AX_V2,true
+esim_1GB_7D_AL_V2,Albania,Albania 1GB - 7 days,1000,7,4626,esim_1GB_7D_AL_V2,true
+esim_2GB_15D_AL_V2,Albania,Albania 2GB - 15 days,2000,15,7182,esim_2GB_15D_AL_V2,true
+esim_3GB_30D_AL_V2,Albania,Albania 3GB - 30 days,3000,30,9414,esim_3GB_30D_AL_V2,true
+esim_5GB_30D_AL_V2,Albania,Albania 5GB - 30 days,5000,30,13734,esim_5GB_30D_AL_V2,true
+esim_10GB_30D_AL_V2,Albania,Albania 10GB - 30 days,10000,30,20934,esim_10GB_30D_AL_V2,true
+esim_20GB_30D_AL_V2,Albania,Albania 20GB - 30 days,20000,30,33732,esim_20GB_30D_AL_V2,true
+esim_50GB_30D_AL_V2,Albania,Albania 50GB - 30 days,50000,30,73728,esim_50GB_30D_AL_V2,true
+esim_100GB_30D_AL_V2,Albania,Albania 100GB - 30 days,100000,30,129708,esim_100GB_30D_AL_V2,true
+esim_1GB_7D_DZ_V2,Algeria,Algeria 1GB - 7 days,1000,7,19260,esim_1GB_7D_DZ_V2,true
+esim_2GB_15D_DZ_V2,Algeria,Algeria 2GB - 15 days,2000,15,36972,esim_2GB_15D_DZ_V2,true
+esim_3GB_30D_DZ_V2,Algeria,Algeria 3GB - 30 days,3000,30,51678,esim_3GB_30D_DZ_V2,true
+esim_5GB_30D_DZ_V2,Algeria,Algeria 5GB - 30 days,5000,30,85104,esim_5GB_30D_DZ_V2,true
+esim_10GB_30D_DZ_V2,Algeria,Algeria 10GB - 30 days,10000,30,156024,esim_10GB_30D_DZ_V2,true
+esim_20GB_30D_DZ_V2,Algeria,Algeria 20GB - 30 days,20000,30,280080,esim_20GB_30D_DZ_V2,true
+esim_1GB_7D_AD_V2,Andorra,Andorra 1GB - 7 days,1000,7,13032,esim_1GB_7D_AD_V2,true
+esim_2GB_15D_AD_V2,Andorra,Andorra 2GB - 15 days,2000,15,22824,esim_2GB_15D_AD_V2,true
+esim_3GB_30D_AD_V2,Andorra,Andorra 3GB - 30 days,3000,30,31392,esim_3GB_30D_AD_V2,true
+esim_5GB_30D_AD_V2,Andorra,Andorra 5GB - 30 days,5000,30,47916,esim_5GB_30D_AD_V2,true
+esim_10GB_30D_AD_V2,Andorra,Andorra 10GB - 30 days,10000,30,75474,esim_10GB_30D_AD_V2,true
+esim_20GB_30D_AD_V2,Andorra,Andorra 20GB - 30 days,20000,30,124470,esim_20GB_30D_AD_V2,true
+esim_50GB_30D_AD_V2,Andorra,Andorra 50GB - 30 days,50000,30,277524,esim_50GB_30D_AD_V2,true
+esim_100GB_30D_AD_V2,Andorra,Andorra 100GB - 30 days,100000,30,491814,esim_100GB_30D_AD_V2,true
+esim_1GB_7D_AI_V2,Anguilla,Anguilla 1GB - 7 days,1000,7,11772,esim_1GB_7D_AI_V2,true
+esim_2GB_15D_AI_V2,Anguilla,Anguilla 2GB - 15 days,2000,15,20934,esim_2GB_15D_AI_V2,true
+esim_3GB_30D_AI_V2,Anguilla,Anguilla 3GB - 30 days,3000,30,29502,esim_3GB_30D_AI_V2,true
+esim_5GB_30D_AI_V2,Anguilla,Anguilla 5GB - 30 days,5000,30,42660,esim_5GB_30D_AI_V2,true
+esim_10GB_30D_AI_V2,Anguilla,Anguilla 10GB - 30 days,10000,30,73782,esim_10GB_30D_AI_V2,true
+esim_20GB_30D_AI_V2,Anguilla,Anguilla 20GB - 30 days,20000,30,124182,esim_20GB_30D_AI_V2,true
+esim_1GB_7D_AG_V2,Antigua And Barbuda,Antigua And Barbuda 1GB - 7 days,1000,7,11772,esim_1GB_7D_AG_V2,true
+esim_2GB_15D_AG_V2,Antigua And Barbuda,Antigua And Barbuda 2GB - 15 days,2000,15,20934,esim_2GB_15D_AG_V2,true
+esim_3GB_30D_AG_V2,Antigua And Barbuda,Antigua And Barbuda 3GB - 30 days,3000,30,29502,esim_3GB_30D_AG_V2,true
+esim_5GB_30D_AG_V2,Antigua And Barbuda,Antigua And Barbuda 5GB - 30 days,5000,30,42660,esim_5GB_30D_AG_V2,true
+esim_10GB_30D_AG_V2,Antigua And Barbuda,Antigua And Barbuda 10GB - 30 days,10000,30,73782,esim_10GB_30D_AG_V2,true
+esim_20GB_30D_AG_V2,Antigua And Barbuda,Antigua And Barbuda 20GB - 30 days,20000,30,124182,esim_20GB_30D_AG_V2,true
+esim_1GB_7D_AR_V2,Argentina,Argentina 1GB - 7 days,1000,7,6012,esim_1GB_7D_AR_V2,true
+esim_2GB_15D_AR_V2,Argentina,Argentina 2GB - 15 days,2000,15,10980,esim_2GB_15D_AR_V2,true
+esim_3GB_30D_AR_V2,Argentina,Argentina 3GB - 30 days,3000,30,14634,esim_3GB_30D_AR_V2,true
+esim_5GB_30D_AR_V2,Argentina,Argentina 5GB - 30 days,5000,30,21672,esim_5GB_30D_AR_V2,true
+esim_10GB_30D_AR_V2,Argentina,Argentina 10GB - 30 days,10000,30,33426,esim_10GB_30D_AR_V2,true
+esim_20GB_30D_AR_V2,Argentina,Argentina 20GB - 30 days,20000,30,54306,esim_20GB_30D_AR_V2,true
+esim_50GB_30D_AR_V2,Argentina,Argentina 50GB - 30 days,50000,30,119556,esim_50GB_30D_AR_V2,true
+esim_100GB_30D_AR_V2,Argentina,Argentina 100GB - 30 days,100000,30,210906,esim_100GB_30D_AR_V2,true
+esim_1GB_7D_AM_V2,Armenia,Armenia 1GB - 7 days,1000,7,8298,esim_1GB_7D_AM_V2,true
+esim_2GB_15D_AM_V2,Armenia,Armenia 2GB - 15 days,2000,15,13428,esim_2GB_15D_AM_V2,true
+esim_3GB_30D_AM_V2,Armenia,Armenia 3GB - 30 days,3000,30,17910,esim_3GB_30D_AM_V2,true
+esim_5GB_30D_AM_V2,Armenia,Armenia 5GB - 30 days,5000,30,26568,esim_5GB_30D_AM_V2,true
+esim_10GB_30D_AM_V2,Armenia,Armenia 10GB - 30 days,10000,30,41004,esim_10GB_30D_AM_V2,true
+esim_20GB_30D_AM_V2,Armenia,Armenia 20GB - 30 days,20000,30,66672,esim_20GB_30D_AM_V2,true
+esim_50GB_30D_AM_V2,Armenia,Armenia 50GB - 30 days,50000,30,146844,esim_50GB_30D_AM_V2,true
+esim_100GB_30D_AM_V2,Armenia,Armenia 100GB - 30 days,100000,30,259092,esim_100GB_30D_AM_V2,true
+esim_1GB_7D_AW_V2,Aruba,Aruba 1GB - 7 days,1000,7,11772,esim_1GB_7D_AW_V2,true
+esim_2GB_15D_AW_V2,Aruba,Aruba 2GB - 15 days,2000,15,20934,esim_2GB_15D_AW_V2,true
+esim_3GB_30D_AW_V2,Aruba,Aruba 3GB - 30 days,3000,30,29502,esim_3GB_30D_AW_V2,true
+esim_5GB_30D_AW_V2,Aruba,Aruba 5GB - 30 days,5000,30,42660,esim_5GB_30D_AW_V2,true
+esim_10GB_30D_AW_V2,Aruba,Aruba 10GB - 30 days,10000,30,73782,esim_10GB_30D_AW_V2,true
+esim_20GB_30D_AW_V2,Aruba,Aruba 20GB - 30 days,20000,30,124182,esim_20GB_30D_AW_V2,true
+esim_1GB_7D_AU_V2,Australia,Australia 1GB - 7 days,1000,7,2988,esim_1GB_7D_AU_V2,true
+esim_2GB_15D_AU_V2,Australia,Australia 2GB - 15 days,2000,15,4464,esim_2GB_15D_AU_V2,true
+esim_3GB_30D_AU_V2,Australia,Australia 3GB - 30 days,3000,30,5742,esim_3GB_30D_AU_V2,true
+esim_5GB_30D_AU_V2,Australia,Australia 5GB - 30 days,5000,30,8208,esim_5GB_30D_AU_V2,true
+esim_10GB_30D_AU_V2,Australia,Australia 10GB - 30 days,10000,30,12312,esim_10GB_30D_AU_V2,true
+esim_20GB_30D_AU_V2,Australia,Australia 20GB - 30 days,20000,30,22248,esim_20GB_30D_AU_V2,true
+esim_50GB_30D_AU_V2,Australia,Australia 50GB - 30 days,50000,30,53406,esim_50GB_30D_AU_V2,true
+esim_100GB_30D_AU_V2,Australia,Australia 100GB - 30 days,100000,30,74430,esim_100GB_30D_AU_V2,true
+esim_1GB_7D_AT_V2,Austria,Austria 1GB - 7 days,1000,7,2106,esim_1GB_7D_AT_V2,true
+esim_2GB_15D_AT_V2,Austria,Austria 2GB - 15 days,2000,15,3492,esim_2GB_15D_AT_V2,true
+esim_3GB_30D_AT_V2,Austria,Austria 3GB - 30 days,3000,30,4572,esim_3GB_30D_AT_V2,true
+esim_5GB_30D_AT_V2,Austria,Austria 5GB - 30 days,5000,30,6336,esim_5GB_30D_AT_V2,true
+esim_10GB_30D_AT_V2,Austria,Austria 10GB - 30 days,10000,30,10728,esim_10GB_30D_AT_V2,true
+esim_20GB_30D_AT_V2,Austria,Austria 20GB - 30 days,20000,30,18252,esim_20GB_30D_AT_V2,true
+esim_50GB_30D_AT_V2,Austria,Austria 50GB - 30 days,50000,30,40032,esim_50GB_30D_AT_V2,true
+esim_100GB_30D_AT_V2,Austria,Austria 100GB - 30 days,100000,30,77544,esim_100GB_30D_AT_V2,true
+esim_1GB_7D_AZ_V2,Azerbaijan,Azerbaijan 1GB - 7 days,1000,7,5976,esim_1GB_7D_AZ_V2,true
+esim_2GB_15D_AZ_V2,Azerbaijan,Azerbaijan 2GB - 15 days,2000,15,9378,esim_2GB_15D_AZ_V2,true
+esim_3GB_30D_AZ_V2,Azerbaijan,Azerbaijan 3GB - 30 days,3000,30,12348,esim_3GB_30D_AZ_V2,true
+esim_5GB_30D_AZ_V2,Azerbaijan,Azerbaijan 5GB - 30 days,5000,30,18090,esim_5GB_30D_AZ_V2,true
+esim_10GB_30D_AZ_V2,Azerbaijan,Azerbaijan 10GB - 30 days,10000,30,27648,esim_10GB_30D_AZ_V2,true
+esim_20GB_30D_AZ_V2,Azerbaijan,Azerbaijan 20GB - 30 days,20000,30,44622,esim_20GB_30D_AZ_V2,true
+esim_50GB_30D_AZ_V2,Azerbaijan,Azerbaijan 50GB - 30 days,50000,30,97722,esim_50GB_30D_AZ_V2,true
+esim_100GB_30D_AZ_V2,Azerbaijan,Azerbaijan 100GB - 30 days,100000,30,172044,esim_100GB_30D_AZ_V2,true
+esim_1GB_7D_BS_V2,Bahamas,Bahamas 1GB - 7 days,1000,7,11772,esim_1GB_7D_BS_V2,true
+esim_2GB_15D_BS_V2,Bahamas,Bahamas 2GB - 15 days,2000,15,20934,esim_2GB_15D_BS_V2,true
+esim_3GB_30D_BS_V2,Bahamas,Bahamas 3GB - 30 days,3000,30,29502,esim_3GB_30D_BS_V2,true
+esim_5GB_30D_BS_V2,Bahamas,Bahamas 5GB - 30 days,5000,30,42660,esim_5GB_30D_BS_V2,true
+esim_10GB_30D_BS_V2,Bahamas,Bahamas 10GB - 30 days,10000,30,73782,esim_10GB_30D_BS_V2,true
+esim_20GB_30D_BS_V2,Bahamas,Bahamas 20GB - 30 days,20000,30,124182,esim_20GB_30D_BS_V2,true
+esim_1GB_7D_BH_V2,Bahrain,Bahrain 1GB - 7 days,1000,7,5202,esim_1GB_7D_BH_V2,true
+esim_2GB_15D_BH_V2,Bahrain,Bahrain 2GB - 15 days,2000,15,7416,esim_2GB_15D_BH_V2,true
+esim_3GB_30D_BH_V2,Bahrain,Bahrain 3GB - 30 days,3000,30,11574,esim_3GB_30D_BH_V2,true
+esim_5GB_30D_BH_V2,Bahrain,Bahrain 5GB - 30 days,5000,30,16956,esim_5GB_30D_BH_V2,true
+esim_10GB_30D_BH_V2,Bahrain,Bahrain 10GB - 30 days,10000,30,28602,esim_10GB_30D_BH_V2,true
+esim_20GB_30D_BH_V2,Bahrain,Bahrain 20GB - 30 days,20000,30,55080,esim_20GB_30D_BH_V2,true
+esim_50GB_30D_BH_V2,Bahrain,Bahrain 50GB - 30 days,50000,30,116532,esim_50GB_30D_BH_V2,true
+esim_100GB_30D_BH_V2,Bahrain,Bahrain 100GB - 30 days,100000,30,203094,esim_100GB_30D_BH_V2,true
+esim_1GB_7D_BD_V2,Bangladesh,Bangladesh 1GB - 7 days,1000,7,6336,esim_1GB_7D_BD_V2,true
+esim_2GB_15D_BD_V2,Bangladesh,Bangladesh 2GB - 15 days,2000,15,11646,esim_2GB_15D_BD_V2,true
+esim_3GB_30D_BD_V2,Bangladesh,Bangladesh 3GB - 30 days,3000,30,16110,esim_3GB_30D_BD_V2,true
+esim_5GB_30D_BD_V2,Bangladesh,Bangladesh 5GB - 30 days,5000,30,26190,esim_5GB_30D_BD_V2,true
+esim_10GB_30D_BD_V2,Bangladesh,Bangladesh 10GB - 30 days,10000,30,47592,esim_10GB_30D_BD_V2,true
+esim_20GB_30D_BD_V2,Bangladesh,Bangladesh 20GB - 30 days,20000,30,85068,esim_20GB_30D_BD_V2,true
+esim_50GB_30D_BD_V2,Bangladesh,Bangladesh 50GB - 30 days,50000,30,192096,esim_50GB_30D_BD_V2,true
+esim_100GB_30D_BD_V2,Bangladesh,Bangladesh 100GB - 30 days,100000,30,374598,esim_100GB_30D_BD_V2,true
+esim_1GB_7D_BB_V2,Barbados,Barbados 1GB - 7 days,1000,7,11772,esim_1GB_7D_BB_V2,true
+esim_2GB_15D_BB_V2,Barbados,Barbados 2GB - 15 days,2000,15,20934,esim_2GB_15D_BB_V2,true
+esim_3GB_30D_BB_V2,Barbados,Barbados 3GB - 30 days,3000,30,29502,esim_3GB_30D_BB_V2,true
+esim_5GB_30D_BB_V2,Barbados,Barbados 5GB - 30 days,5000,30,42660,esim_5GB_30D_BB_V2,true
+esim_10GB_30D_BB_V2,Barbados,Barbados 10GB - 30 days,10000,30,73782,esim_10GB_30D_BB_V2,true
+esim_20GB_30D_BB_V2,Barbados,Barbados 20GB - 30 days,20000,30,124182,esim_20GB_30D_BB_V2,true
+esim_1GB_7D_BY_V2,Belarus,Belarus 1GB - 7 days,1000,7,16956,esim_1GB_7D_BY_V2,true
+esim_2GB_15D_BY_V2,Belarus,Belarus 2GB - 15 days,2000,15,32562,esim_2GB_15D_BY_V2,true
+esim_3GB_30D_BY_V2,Belarus,Belarus 3GB - 30 days,3000,30,45504,esim_3GB_30D_BY_V2,true
+esim_5GB_30D_BY_V2,Belarus,Belarus 5GB - 30 days,5000,30,74934,esim_5GB_30D_BY_V2,true
+esim_10GB_30D_BY_V2,Belarus,Belarus 10GB - 30 days,10000,30,137376,esim_10GB_30D_BY_V2,true
+esim_20GB_30D_BY_V2,Belarus,Belarus 20GB - 30 days,20000,30,246618,esim_20GB_30D_BY_V2,true
+esim_1GB_7D_BE_V2,Belgium,Belgium 1GB - 7 days,1000,7,2196,esim_1GB_7D_BE_V2,true
+esim_2GB_15D_BE_V2,Belgium,Belgium 2GB - 15 days,2000,15,3978,esim_2GB_15D_BE_V2,true
+esim_3GB_30D_BE_V2,Belgium,Belgium 3GB - 30 days,3000,30,5112,esim_3GB_30D_BE_V2,true
+esim_5GB_30D_BE_V2,Belgium,Belgium 5GB - 30 days,5000,30,7200,esim_5GB_30D_BE_V2,true
+esim_10GB_30D_BE_V2,Belgium,Belgium 10GB - 30 days,10000,30,11592,esim_10GB_30D_BE_V2,true
+esim_20GB_30D_BE_V2,Belgium,Belgium 20GB - 30 days,20000,30,19332,esim_20GB_30D_BE_V2,true
+esim_50GB_30D_BE_V2,Belgium,Belgium 50GB - 30 days,50000,30,44550,esim_50GB_30D_BE_V2,true
+esim_100GB_30D_BE_V2,Belgium,Belgium 100GB - 30 days,100000,30,83034,esim_100GB_30D_BE_V2,true
+esim_1GB_7D_BZ_V2,Belize,Belize 1GB - 7 days,1000,7,31842,esim_1GB_7D_BZ_V2,true
+esim_2GB_15D_BZ_V2,Belize,Belize 2GB - 15 days,2000,15,59256,esim_2GB_15D_BZ_V2,true
+esim_3GB_30D_BZ_V2,Belize,Belize 3GB - 30 days,3000,30,83232,esim_3GB_30D_BZ_V2,true
+esim_5GB_30D_BZ_V2,Belize,Belize 5GB - 30 days,5000,30,129492,esim_5GB_30D_BZ_V2,true
+esim_10GB_30D_BZ_V2,Belize,Belize 10GB - 30 days,10000,30,206568,esim_10GB_30D_BZ_V2,true
+esim_1GB_7D_BJ_V2,Benin,Benin 1GB - 7 days,1000,7,34038,esim_1GB_7D_BJ_V2,true
+esim_2GB_15D_BJ_V2,Benin,Benin 2GB - 15 days,2000,15,67104,esim_2GB_15D_BJ_V2,true
+esim_3GB_30D_BJ_V2,Benin,Benin 3GB - 30 days,3000,30,94482,esim_3GB_30D_BJ_V2,true
+esim_5GB_30D_BJ_V2,Benin,Benin 5GB - 30 days,5000,30,156816,esim_5GB_30D_BJ_V2,true
+esim_1GB_7D_BM_V2,Bermuda,Bermuda 1GB - 7 days,1000,7,11772,esim_1GB_7D_BM_V2,true
+esim_2GB_15D_BM_V2,Bermuda,Bermuda 2GB - 15 days,2000,15,20934,esim_2GB_15D_BM_V2,true
+esim_3GB_30D_BM_V2,Bermuda,Bermuda 3GB - 30 days,3000,30,29502,esim_3GB_30D_BM_V2,true
+esim_5GB_30D_BM_V2,Bermuda,Bermuda 5GB - 30 days,5000,30,42660,esim_5GB_30D_BM_V2,true
+esim_10GB_30D_BM_V2,Bermuda,Bermuda 10GB - 30 days,10000,30,73782,esim_10GB_30D_BM_V2,true
+esim_20GB_30D_BM_V2,Bermuda,Bermuda 20GB - 30 days,20000,30,124182,esim_20GB_30D_BM_V2,true
+esim_1GB_7D_BO_V2,Bolivia,Bolivia 1GB - 7 days,1000,7,7974,esim_1GB_7D_BO_V2,true
+esim_2GB_15D_BO_V2,Bolivia,Bolivia 2GB - 15 days,2000,15,13302,esim_2GB_15D_BO_V2,true
+esim_3GB_30D_BO_V2,Bolivia,Bolivia 3GB - 30 days,3000,30,16902,esim_3GB_30D_BO_V2,true
+esim_5GB_30D_BO_V2,Bolivia,Bolivia 5GB - 30 days,5000,30,26676,esim_5GB_30D_BO_V2,true
+esim_10GB_30D_BO_V2,Bolivia,Bolivia 10GB - 30 days,10000,30,41580,esim_10GB_30D_BO_V2,true
+esim_20GB_30D_BO_V2,Bolivia,Bolivia 20GB - 30 days,20000,30,77292,esim_20GB_30D_BO_V2,true
+esim_50GB_30D_BO_V2,Bolivia,Bolivia 50GB - 30 days,50000,30,157014,esim_50GB_30D_BO_V2,true
+esim_100GB_30D_BO_V2,Bolivia,Bolivia 100GB - 30 days,100000,30,306144,esim_100GB_30D_BO_V2,true
+esim_1GB_7D_BQ_V2,"Bonaire, saint Eustatius and Saba","Bonaire, saint Eustatius and Saba 1GB - 7 days",1000,7,11772,esim_1GB_7D_BQ_V2,true
+esim_2GB_15D_BQ_V2,"Bonaire, saint Eustatius and Saba","Bonaire, saint Eustatius and Saba 2GB - 15 days",2000,15,20934,esim_2GB_15D_BQ_V2,true
+esim_3GB_30D_BQ_V2,"Bonaire, saint Eustatius and Saba","Bonaire, saint Eustatius and Saba 3GB - 30 days",3000,30,29502,esim_3GB_30D_BQ_V2,true
+esim_5GB_30D_BQ_V2,"Bonaire, saint Eustatius and Saba","Bonaire, saint Eustatius and Saba 5GB - 30 days",5000,30,42660,esim_5GB_30D_BQ_V2,true
+esim_10GB_30D_BQ_V2,"Bonaire, saint Eustatius and Saba","Bonaire, saint Eustatius and Saba 10GB - 30 days",10000,30,73782,esim_10GB_30D_BQ_V2,true
+esim_20GB_30D_BQ_V2,"Bonaire, saint Eustatius and Saba","Bonaire, saint Eustatius and Saba 20GB - 30 days",20000,30,124182,esim_20GB_30D_BQ_V2,true
+esim_1GB_7D_BA_V2,Bosnia And Herzegovina,Bosnia And Herzegovina 1GB - 7 days,1000,7,4014,esim_1GB_7D_BA_V2,true
+esim_2GB_15D_BA_V2,Bosnia And Herzegovina,Bosnia And Herzegovina 2GB - 15 days,2000,15,6030,esim_2GB_15D_BA_V2,true
+esim_3GB_30D_BA_V2,Bosnia And Herzegovina,Bosnia And Herzegovina 3GB - 30 days,3000,30,7812,esim_3GB_30D_BA_V2,true
+esim_5GB_30D_BA_V2,Bosnia And Herzegovina,Bosnia And Herzegovina 5GB - 30 days,5000,30,11214,esim_5GB_30D_BA_V2,true
+esim_10GB_30D_BA_V2,Bosnia And Herzegovina,Bosnia And Herzegovina 10GB - 30 days,10000,30,16902,esim_10GB_30D_BA_V2,true
+esim_20GB_30D_BA_V2,Bosnia And Herzegovina,Bosnia And Herzegovina 20GB - 30 days,20000,30,27000,esim_20GB_30D_BA_V2,true
+esim_50GB_30D_BA_V2,Bosnia And Herzegovina,Bosnia And Herzegovina 50GB - 30 days,50000,30,58572,esim_50GB_30D_BA_V2,true
+esim_100GB_30D_BA_V2,Bosnia And Herzegovina,Bosnia And Herzegovina 100GB - 30 days,100000,30,102780,esim_100GB_30D_BA_V2,true
+esim_1GB_7D_BW_V2,Botswana,Botswana 1GB - 7 days,1000,7,14508,esim_1GB_7D_BW_V2,true
+esim_2GB_15D_BW_V2,Botswana,Botswana 2GB - 15 days,2000,15,32058,esim_2GB_15D_BW_V2,true
+esim_3GB_30D_BW_V2,Botswana,Botswana 3GB - 30 days,3000,30,39204,esim_3GB_30D_BW_V2,true
+esim_5GB_30D_BW_V2,Botswana,Botswana 5GB - 30 days,5000,30,73152,esim_5GB_30D_BW_V2,true
+esim_10GB_30D_BW_V2,Botswana,Botswana 10GB - 30 days,10000,30,136116,esim_10GB_30D_BW_V2,true
+esim_20GB_30D_BW_V2,Botswana,Botswana 20GB - 30 days,20000,30,213336,esim_20GB_30D_BW_V2,true
+esim_1GB_7D_BR_V2,Brazil,Brazil 1GB - 7 days,1000,7,5508,esim_1GB_7D_BR_V2,true
+esim_2GB_15D_BR_V2,Brazil,Brazil 2GB - 15 days,2000,15,8856,esim_2GB_15D_BR_V2,true
+esim_3GB_30D_BR_V2,Brazil,Brazil 3GB - 30 days,3000,30,11772,esim_3GB_30D_BR_V2,true
+esim_5GB_30D_BR_V2,Brazil,Brazil 5GB - 30 days,5000,30,17424,esim_5GB_30D_BR_V2,true
+esim_10GB_30D_BR_V2,Brazil,Brazil 10GB - 30 days,10000,30,26820,esim_10GB_30D_BR_V2,true
+esim_20GB_30D_BR_V2,Brazil,Brazil 20GB - 30 days,20000,30,43542,esim_20GB_30D_BR_V2,true
+esim_50GB_30D_BR_V2,Brazil,Brazil 50GB - 30 days,50000,30,95778,esim_50GB_30D_BR_V2,true
+esim_100GB_30D_BR_V2,Brazil,Brazil 100GB - 30 days,100000,30,168930,esim_100GB_30D_BR_V2,true
+esim_1GB_7D_BN_V2,Brunei,Brunei 1GB - 7 days,1000,7,16290,esim_1GB_7D_BN_V2,true
+esim_2GB_15D_BN_V2,Brunei,Brunei 2GB - 15 days,2000,15,28008,esim_2GB_15D_BN_V2,true
+esim_3GB_30D_BN_V2,Brunei,Brunei 3GB - 30 days,3000,30,44874,esim_3GB_30D_BN_V2,true
+esim_5GB_30D_BN_V2,Brunei,Brunei 5GB - 30 days,5000,30,78012,esim_5GB_30D_BN_V2,true
+esim_10GB_30D_BN_V2,Brunei,Brunei 10GB - 30 days,10000,30,150480,esim_10GB_30D_BN_V2,true
+esim_20GB_30D_BN_V2,Brunei,Brunei 20GB - 30 days,20000,30,213336,esim_20GB_30D_BN_V2,true
+esim_1GB_7D_BG_V2,Bulgaria,Bulgaria 1GB - 7 days,1000,7,2196,esim_1GB_7D_BG_V2,true
+esim_2GB_15D_BG_V2,Bulgaria,Bulgaria 2GB - 15 days,2000,15,3978,esim_2GB_15D_BG_V2,true
+esim_3GB_30D_BG_V2,Bulgaria,Bulgaria 3GB - 30 days,3000,30,5112,esim_3GB_30D_BG_V2,true
+esim_5GB_30D_BG_V2,Bulgaria,Bulgaria 5GB - 30 days,5000,30,7200,esim_5GB_30D_BG_V2,true
+esim_10GB_30D_BG_V2,Bulgaria,Bulgaria 10GB - 30 days,10000,30,11592,esim_10GB_30D_BG_V2,true
+esim_20GB_30D_BG_V2,Bulgaria,Bulgaria 20GB - 30 days,20000,30,20412,esim_20GB_30D_BG_V2,true
+esim_50GB_30D_BG_V2,Bulgaria,Bulgaria 50GB - 30 days,50000,30,50310,esim_50GB_30D_BG_V2,true
+esim_100GB_30D_BG_V2,Bulgaria,Bulgaria 100GB - 30 days,100000,30,84348,esim_100GB_30D_BG_V2,true
+esim_1GB_7D_BF_V2,Burkina Faso,Burkina Faso 1GB - 7 days,1000,7,25110,esim_1GB_7D_BF_V2,true
+esim_2GB_15D_BF_V2,Burkina Faso,Burkina Faso 2GB - 15 days,2000,15,49212,esim_2GB_15D_BF_V2,true
+esim_3GB_30D_BF_V2,Burkina Faso,Burkina Faso 3GB - 30 days,3000,30,69192,esim_3GB_30D_BF_V2,true
+esim_5GB_30D_BF_V2,Burkina Faso,Burkina Faso 5GB - 30 days,5000,30,114678,esim_5GB_30D_BF_V2,true
+esim_10GB_30D_BF_V2,Burkina Faso,Burkina Faso 10GB - 30 days,10000,30,211140,esim_10GB_30D_BF_V2,true
+esim_1GB_7D_KH_V2,Cambodia,Cambodia 1GB - 7 days,1000,7,31320,esim_1GB_7D_KH_V2,true
+esim_2GB_15D_KH_V2,Cambodia,Cambodia 2GB - 15 days,2000,15,61200,esim_2GB_15D_KH_V2,true
+esim_3GB_30D_KH_V2,Cambodia,Cambodia 3GB - 30 days,3000,30,85968,esim_3GB_30D_KH_V2,true
+esim_5GB_30D_KH_V2,Cambodia,Cambodia 5GB - 30 days,5000,30,142326,esim_5GB_30D_KH_V2,true
+esim_10GB_30D_KH_V2,Cambodia,Cambodia 10GB - 30 days,10000,30,261900,esim_10GB_30D_KH_V2,true
+esim_1GB_7D_CM_V2,Cameroon,Cameroon 1GB - 7 days,1000,7,20322,esim_1GB_7D_CM_V2,true
+esim_2GB_15D_CM_V2,Cameroon,Cameroon 2GB - 15 days,2000,15,39222,esim_2GB_15D_CM_V2,true
+esim_3GB_30D_CM_V2,Cameroon,Cameroon 3GB - 30 days,3000,30,54918,esim_3GB_30D_CM_V2,true
+esim_5GB_30D_CM_V2,Cameroon,Cameroon 5GB - 30 days,5000,30,90612,esim_5GB_30D_CM_V2,true
+esim_10GB_30D_CM_V2,Cameroon,Cameroon 10GB - 30 days,10000,30,166320,esim_10GB_30D_CM_V2,true
+esim_20GB_30D_CM_V2,Cameroon,Cameroon 20GB - 30 days,20000,30,298800,esim_20GB_30D_CM_V2,true
+esim_1GB_7D_CA_V2,Canada,Canada 1GB - 7 days,1000,7,4536,esim_1GB_7D_CA_V2,true
+esim_2GB_15D_CA_V2,Canada,Canada 2GB - 15 days,2000,15,8118,esim_2GB_15D_CA_V2,true
+esim_3GB_30D_CA_V2,Canada,Canada 3GB - 30 days,3000,30,11916,esim_3GB_30D_CA_V2,true
+esim_5GB_30D_CA_V2,Canada,Canada 5GB - 30 days,5000,30,18558,esim_5GB_30D_CA_V2,true
+esim_10GB_30D_CA_V2,Canada,Canada 10GB - 30 days,10000,30,32940,esim_10GB_30D_CA_V2,true
+esim_20GB_30D_CA_V2,Canada,Canada 20GB - 30 days,20000,30,59166,esim_20GB_30D_CA_V2,true
+esim_50GB_30D_CA_V2,Canada,Canada 50GB - 30 days,50000,30,127638,esim_50GB_30D_CA_V2,true
+esim_100GB_30D_CA_V2,Canada,Canada 100GB - 30 days,100000,30,248904,esim_100GB_30D_CA_V2,true
+esim_1GB_7D_IC_V2,Canary Islands,Canary Islands 1GB - 7 days,1000,7,2196,esim_1GB_7D_IC_V2,true
+esim_2GB_15D_IC_V2,Canary Islands,Canary Islands 2GB - 15 days,2000,15,3978,esim_2GB_15D_IC_V2,true
+esim_3GB_30D_IC_V2,Canary Islands,Canary Islands 3GB - 30 days,3000,30,5112,esim_3GB_30D_IC_V2,true
+esim_5GB_30D_IC_V2,Canary Islands,Canary Islands 5GB - 30 days,5000,30,7398,esim_5GB_30D_IC_V2,true
+esim_10GB_30D_IC_V2,Canary Islands,Canary Islands 10GB - 30 days,10000,30,12690,esim_10GB_30D_IC_V2,true
+esim_20GB_30D_IC_V2,Canary Islands,Canary Islands 20GB - 30 days,20000,30,21798,esim_20GB_30D_IC_V2,true
+esim_50GB_30D_IC_V2,Canary Islands,Canary Islands 50GB - 30 days,50000,30,42588,esim_50GB_30D_IC_V2,true
+esim_100GB_30D_IC_V2,Canary Islands,Canary Islands 100GB - 30 days,100000,30,84348,esim_100GB_30D_IC_V2,true
+esim_1GB_7D_CV_V2,Cape Verde,Cape Verde 1GB - 7 days,1000,7,13392,esim_1GB_7D_CV_V2,true
+esim_2GB_15D_CV_V2,Cape Verde,Cape Verde 2GB - 15 days,2000,15,24462,esim_2GB_15D_CV_V2,true
+esim_3GB_30D_CV_V2,Cape Verde,Cape Verde 3GB - 30 days,3000,30,31860,esim_3GB_30D_CV_V2,true
+esim_5GB_30D_CV_V2,Cape Verde,Cape Verde 5GB - 30 days,5000,30,48474,esim_5GB_30D_CV_V2,true
+esim_10GB_30D_CV_V2,Cape Verde,Cape Verde 10GB - 30 days,10000,30,76176,esim_10GB_30D_CV_V2,true
+esim_20GB_30D_CV_V2,Cape Verde,Cape Verde 20GB - 30 days,20000,30,125424,esim_20GB_30D_CV_V2,true
+esim_50GB_30D_CV_V2,Cape Verde,Cape Verde 50GB - 30 days,50000,30,279324,esim_50GB_30D_CV_V2,true
+esim_1GB_7D_KY_V2,Cayman Islands,Cayman Islands 1GB - 7 days,1000,7,11772,esim_1GB_7D_KY_V2,true
+esim_2GB_15D_KY_V2,Cayman Islands,Cayman Islands 2GB - 15 days,2000,15,20934,esim_2GB_15D_KY_V2,true
+esim_3GB_30D_KY_V2,Cayman Islands,Cayman Islands 3GB - 30 days,3000,30,29502,esim_3GB_30D_KY_V2,true
+esim_5GB_30D_KY_V2,Cayman Islands,Cayman Islands 5GB - 30 days,5000,30,42660,esim_5GB_30D_KY_V2,true
+esim_10GB_30D_KY_V2,Cayman Islands,Cayman Islands 10GB - 30 days,10000,30,73782,esim_10GB_30D_KY_V2,true
+esim_20GB_30D_KY_V2,Cayman Islands,Cayman Islands 20GB - 30 days,20000,30,124182,esim_20GB_30D_KY_V2,true
+esim_1GB_7D_CF_V2,Central African Republic,Central African Republic 1GB - 7 days,1000,7,18666,esim_1GB_7D_CF_V2,true
+esim_2GB_15D_CF_V2,Central African Republic,Central African Republic 2GB - 15 days,2000,15,36324,esim_2GB_15D_CF_V2,true
+esim_3GB_30D_CF_V2,Central African Republic,Central African Republic 3GB - 30 days,3000,30,51606,esim_3GB_30D_CF_V2,true
+esim_5GB_30D_CF_V2,Central African Republic,Central African Republic 5GB - 30 days,5000,30,84294,esim_5GB_30D_CF_V2,true
+esim_10GB_30D_CF_V2,Central African Republic,Central African Republic 10GB - 30 days,10000,30,154980,esim_10GB_30D_CF_V2,true
+esim_1GB_7D_TD_V2,Chad,Chad 1GB - 7 days,1000,7,25776,esim_1GB_7D_TD_V2,true
+esim_2GB_15D_TD_V2,Chad,Chad 2GB - 15 days,2000,15,50166,esim_2GB_15D_TD_V2,true
+esim_3GB_30D_TD_V2,Chad,Chad 3GB - 30 days,3000,30,70398,esim_3GB_30D_TD_V2,true
+esim_5GB_30D_TD_V2,Chad,Chad 5GB - 30 days,5000,30,116424,esim_5GB_30D_TD_V2,true
+esim_10GB_30D_TD_V2,Chad,Chad 10GB - 30 days,10000,30,214038,esim_10GB_30D_TD_V2,true
+esim_1GB_7D_CL_V2,Chile,Chile 1GB - 7 days,1000,7,5670,esim_1GB_7D_CL_V2,true
+esim_2GB_15D_CL_V2,Chile,Chile 2GB - 15 days,2000,15,10062,esim_2GB_15D_CL_V2,true
+esim_3GB_30D_CL_V2,Chile,Chile 3GB - 30 days,3000,30,13518,esim_3GB_30D_CL_V2,true
+esim_5GB_30D_CL_V2,Chile,Chile 5GB - 30 days,5000,30,21384,esim_5GB_30D_CL_V2,true
+esim_10GB_30D_CL_V2,Chile,Chile 10GB - 30 days,10000,30,37368,esim_10GB_30D_CL_V2,true
+esim_20GB_30D_CL_V2,Chile,Chile 20GB - 30 days,20000,30,65412,esim_20GB_30D_CL_V2,true
+esim_50GB_30D_CL_V2,Chile,Chile 50GB - 30 days,50000,30,146736,esim_50GB_30D_CL_V2,true
+esim_1GB_7D_CN_V2,China,China 1GB - 7 days,1000,7,6174,esim_1GB_7D_CN_V2,true
+esim_2GB_15D_CN_V2,China,China 2GB - 15 days,2000,15,8730,esim_2GB_15D_CN_V2,true
+esim_3GB_30D_CN_V2,China,China 3GB - 30 days,3000,30,12276,esim_3GB_30D_CN_V2,true
+esim_5GB_30D_CN_V2,China,China 5GB - 30 days,5000,30,18882,esim_5GB_30D_CN_V2,true
+esim_10GB_30D_CN_V2,China,China 10GB - 30 days,10000,30,26712,esim_10GB_30D_CN_V2,true
+esim_20GB_30D_CN_V2,China,China 20GB - 30 days,20000,30,49896,esim_20GB_30D_CN_V2,true
+esim_50GB_30D_CN_V2,China,China 50GB - 30 days,50000,30,104490,esim_50GB_30D_CN_V2,true
+esim_100GB_30D_CN_V2,China,China 100GB - 30 days,100000,30,177840,esim_100GB_30D_CN_V2,true
+esim_1GB_7D_CO_V2,Colombia,Colombia 1GB - 7 days,1000,7,4770,esim_1GB_7D_CO_V2,true
+esim_2GB_15D_CO_V2,Colombia,Colombia 2GB - 15 days,2000,15,8478,esim_2GB_15D_CO_V2,true
+esim_3GB_30D_CO_V2,Colombia,Colombia 3GB - 30 days,3000,30,12618,esim_3GB_30D_CO_V2,true
+esim_5GB_30D_CO_V2,Colombia,Colombia 5GB - 30 days,5000,30,20664,esim_5GB_30D_CO_V2,true
+esim_10GB_30D_CO_V2,Colombia,Colombia 10GB - 30 days,10000,30,33372,esim_10GB_30D_CO_V2,true
+esim_20GB_30D_CO_V2,Colombia,Colombia 20GB - 30 days,20000,30,67788,esim_20GB_30D_CO_V2,true
+esim_50GB_30D_CO_V2,Colombia,Colombia 50GB - 30 days,50000,30,141318,esim_50GB_30D_CO_V2,true
+esim_100GB_30D_CO_V2,Colombia,Colombia 100GB - 30 days,100000,30,268524,esim_100GB_30D_CO_V2,true
+esim_1GB_7D_CG_V2,Congo,Congo 1GB - 7 days,1000,7,18666,esim_1GB_7D_CG_V2,true
+esim_2GB_15D_CG_V2,Congo,Congo 2GB - 15 days,2000,15,36324,esim_2GB_15D_CG_V2,true
+esim_3GB_30D_CG_V2,Congo,Congo 3GB - 30 days,3000,30,50976,esim_3GB_30D_CG_V2,true
+esim_5GB_30D_CG_V2,Congo,Congo 5GB - 30 days,5000,30,84294,esim_5GB_30D_CG_V2,true
+esim_10GB_30D_CG_V2,Congo,Congo 10GB - 30 days,10000,30,154980,esim_10GB_30D_CG_V2,true
+esim_1GB_7D_CD_V2,Congo-the Democratic Republic of the,Congo-the Democratic Republic of the 1GB - 7 days,1000,7,24822,esim_1GB_7D_CD_V2,true
+esim_2GB_15D_CD_V2,Congo-the Democratic Republic of the,Congo-the Democratic Republic of the 2GB - 15 days,2000,15,48294,esim_2GB_15D_CD_V2,true
+esim_3GB_30D_CD_V2,Congo-the Democratic Republic of the,Congo-the Democratic Republic of the 3GB - 30 days,3000,30,67770,esim_3GB_30D_CD_V2,true
+esim_5GB_30D_CD_V2,Congo-the Democratic Republic of the,Congo-the Democratic Republic of the 5GB - 30 days,5000,30,112068,esim_5GB_30D_CD_V2,true
+esim_10GB_30D_CD_V2,Congo-the Democratic Republic of the,Congo-the Democratic Republic of the 10GB - 30 days,10000,30,206028,esim_10GB_30D_CD_V2,true
+esim_1GB_7D_CR_V2,Costa Rica,Costa Rica 1GB - 7 days,1000,7,3708,esim_1GB_7D_CR_V2,true
+esim_2GB_15D_CR_V2,Costa Rica,Costa Rica 2GB - 15 days,2000,15,5796,esim_2GB_15D_CR_V2,true
+esim_3GB_30D_CR_V2,Costa Rica,Costa Rica 3GB - 30 days,3000,30,7614,esim_3GB_30D_CR_V2,true
+esim_5GB_30D_CR_V2,Costa Rica,Costa Rica 5GB - 30 days,5000,30,11142,esim_5GB_30D_CR_V2,true
+esim_10GB_30D_CR_V2,Costa Rica,Costa Rica 10GB - 30 days,10000,30,17010,esim_10GB_30D_CR_V2,true
+esim_20GB_30D_CR_V2,Costa Rica,Costa Rica 20GB - 30 days,20000,30,27450,esim_20GB_30D_CR_V2,true
+esim_50GB_30D_CR_V2,Costa Rica,Costa Rica 50GB - 30 days,50000,30,60084,esim_50GB_30D_CR_V2,true
+esim_100GB_30D_CR_V2,Costa Rica,Costa Rica 100GB - 30 days,100000,30,105750,esim_100GB_30D_CR_V2,true
+esim_1GB_7D_HR_V2,Croatia,Croatia 1GB - 7 days,1000,7,2340,esim_1GB_7D_HR_V2,true
+esim_2GB_15D_HR_V2,Croatia,Croatia 2GB - 15 days,2000,15,4122,esim_2GB_15D_HR_V2,true
+esim_3GB_30D_HR_V2,Croatia,Croatia 3GB - 30 days,3000,30,5310,esim_3GB_30D_HR_V2,true
+esim_5GB_30D_HR_V2,Croatia,Croatia 5GB - 30 days,5000,30,7344,esim_5GB_30D_HR_V2,true
+esim_10GB_30D_HR_V2,Croatia,Croatia 10GB - 30 days,10000,30,11592,esim_10GB_30D_HR_V2,true
+esim_20GB_30D_HR_V2,Croatia,Croatia 20GB - 30 days,20000,30,19386,esim_20GB_30D_HR_V2,true
+esim_50GB_30D_HR_V2,Croatia,Croatia 50GB - 30 days,50000,30,43452,esim_50GB_30D_HR_V2,true
+esim_100GB_30D_HR_V2,Croatia,Croatia 100GB - 30 days,100000,30,84654,esim_100GB_30D_HR_V2,true
+esim_1GB_7D_CU_V2,Cuba,Cuba 1GB - 7 days,1000,7,52236,esim_1GB_7D_CU_V2,true
+esim_2GB_15D_CU_V2,Cuba,Cuba 2GB - 15 days,2000,15,96768,esim_2GB_15D_CU_V2,true
+esim_3GB_30D_CU_V2,Cuba,Cuba 3GB - 30 days,3000,30,135738,esim_3GB_30D_CU_V2,true
+esim_5GB_30D_CU_V2,Cuba,Cuba 5GB - 30 days,5000,30,210924,esim_5GB_30D_CU_V2,true
+esim_10GB_30D_CU_V2,Cuba,Cuba 10GB - 30 days,10000,30,336168,esim_10GB_30D_CU_V2,true
+esim_20GB_30D_CU_V2,Cuba,Cuba 20GB - 30 days,20000,30,558882,esim_20GB_30D_CU_V2,true
+esim_1GB_7D_CW_V2,Curacao,Curacao 1GB - 7 days,1000,7,11772,esim_1GB_7D_CW_V2,true
+esim_2GB_15D_CW_V2,Curacao,Curacao 2GB - 15 days,2000,15,20934,esim_2GB_15D_CW_V2,true
+esim_3GB_30D_CW_V2,Curacao,Curacao 3GB - 30 days,3000,30,29502,esim_3GB_30D_CW_V2,true
+esim_5GB_30D_CW_V2,Curacao,Curacao 5GB - 30 days,5000,30,42660,esim_5GB_30D_CW_V2,true
+esim_10GB_30D_CW_V2,Curacao,Curacao 10GB - 30 days,10000,30,73782,esim_10GB_30D_CW_V2,true
+esim_20GB_30D_CW_V2,Curacao,Curacao 20GB - 30 days,20000,30,124182,esim_20GB_30D_CW_V2,true
+esim_1GB_7D_CY_V2,Cyprus,Cyprus 1GB - 7 days,1000,7,2358,esim_1GB_7D_CY_V2,true
+esim_2GB_15D_CY_V2,Cyprus,Cyprus 2GB - 15 days,2000,15,4140,esim_2GB_15D_CY_V2,true
+esim_3GB_30D_CY_V2,Cyprus,Cyprus 3GB - 30 days,3000,30,5310,esim_3GB_30D_CY_V2,true
+esim_5GB_30D_CY_V2,Cyprus,Cyprus 5GB - 30 days,5000,30,7614,esim_5GB_30D_CY_V2,true
+esim_10GB_30D_CY_V2,Cyprus,Cyprus 10GB - 30 days,10000,30,12330,esim_10GB_30D_CY_V2,true
+esim_20GB_30D_CY_V2,Cyprus,Cyprus 20GB - 30 days,20000,30,23058,esim_20GB_30D_CY_V2,true
+esim_50GB_30D_CY_V2,Cyprus,Cyprus 50GB - 30 days,50000,30,46728,esim_50GB_30D_CY_V2,true
+esim_100GB_30D_CY_V2,Cyprus,Cyprus 100GB - 30 days,100000,30,77328,esim_100GB_30D_CY_V2,true
+esim_1GB_7D_CZ_V2,Czech Republic,Czech Republic 1GB - 7 days,1000,7,2196,esim_1GB_7D_CZ_V2,true
+esim_2GB_15D_CZ_V2,Czech Republic,Czech Republic 2GB - 15 days,2000,15,3978,esim_2GB_15D_CZ_V2,true
+esim_3GB_30D_CZ_V2,Czech Republic,Czech Republic 3GB - 30 days,3000,30,5112,esim_3GB_30D_CZ_V2,true
+esim_5GB_30D_CZ_V2,Czech Republic,Czech Republic 5GB - 30 days,5000,30,7200,esim_5GB_30D_CZ_V2,true
+esim_10GB_30D_CZ_V2,Czech Republic,Czech Republic 10GB - 30 days,10000,30,11592,esim_10GB_30D_CZ_V2,true
+esim_20GB_30D_CZ_V2,Czech Republic,Czech Republic 20GB - 30 days,20000,30,19332,esim_20GB_30D_CZ_V2,true
+esim_50GB_30D_CZ_V2,Czech Republic,Czech Republic 50GB - 30 days,50000,30,42588,esim_50GB_30D_CZ_V2,true
+esim_100GB_30D_CZ_V2,Czech Republic,Czech Republic 100GB - 30 days,100000,30,82998,esim_100GB_30D_CZ_V2,true
+esim_1GB_7D_DK_V2,Denmark,Denmark 1GB - 7 days,1000,7,2196,esim_1GB_7D_DK_V2,true
+esim_2GB_15D_DK_V2,Denmark,Denmark 2GB - 15 days,2000,15,3492,esim_2GB_15D_DK_V2,true
+esim_3GB_30D_DK_V2,Denmark,Denmark 3GB - 30 days,3000,30,4572,esim_3GB_30D_DK_V2,true
+esim_5GB_30D_DK_V2,Denmark,Denmark 5GB - 30 days,5000,30,6336,esim_5GB_30D_DK_V2,true
+esim_10GB_30D_DK_V2,Denmark,Denmark 10GB - 30 days,10000,30,10746,esim_10GB_30D_DK_V2,true
+esim_20GB_30D_DK_V2,Denmark,Denmark 20GB - 30 days,20000,30,23382,esim_20GB_30D_DK_V2,true
+esim_50GB_30D_DK_V2,Denmark,Denmark 50GB - 30 days,50000,30,43992,esim_50GB_30D_DK_V2,true
+esim_100GB_30D_DK_V2,Denmark,Denmark 100GB - 30 days,100000,30,79236,esim_100GB_30D_DK_V2,true
+esim_1GB_7D_DM_V2,Dominica,Dominica 1GB - 7 days,1000,7,11772,esim_1GB_7D_DM_V2,true
+esim_2GB_15D_DM_V2,Dominica,Dominica 2GB - 15 days,2000,15,20934,esim_2GB_15D_DM_V2,true
+esim_3GB_30D_DM_V2,Dominica,Dominica 3GB - 30 days,3000,30,29502,esim_3GB_30D_DM_V2,true
+esim_5GB_30D_DM_V2,Dominica,Dominica 5GB - 30 days,5000,30,42660,esim_5GB_30D_DM_V2,true
+esim_10GB_30D_DM_V2,Dominica,Dominica 10GB - 30 days,10000,30,73782,esim_10GB_30D_DM_V2,true
+esim_20GB_30D_DM_V2,Dominica,Dominica 20GB - 30 days,20000,30,124182,esim_20GB_30D_DM_V2,true
+esim_1GB_7D_DO_V2,Dominican Republic,Dominican Republic 1GB - 7 days,1000,7,5076,esim_1GB_7D_DO_V2,true
+esim_2GB_15D_DO_V2,Dominican Republic,Dominican Republic 2GB - 15 days,2000,15,8046,esim_2GB_15D_DO_V2,true
+esim_3GB_30D_DO_V2,Dominican Republic,Dominican Republic 3GB - 30 days,3000,30,10638,esim_3GB_30D_DO_V2,true
+esim_5GB_30D_DO_V2,Dominican Republic,Dominican Republic 5GB - 30 days,5000,30,15642,esim_5GB_30D_DO_V2,true
+esim_10GB_30D_DO_V2,Dominican Republic,Dominican Republic 10GB - 30 days,10000,30,23976,esim_10GB_30D_DO_V2,true
+esim_20GB_30D_DO_V2,Dominican Republic,Dominican Republic 20GB - 30 days,20000,30,38790,esim_20GB_30D_DO_V2,true
+esim_50GB_30D_DO_V2,Dominican Republic,Dominican Republic 50GB - 30 days,50000,30,85086,esim_50GB_30D_DO_V2,true
+esim_100GB_30D_DO_V2,Dominican Republic,Dominican Republic 100GB - 30 days,100000,30,149922,esim_100GB_30D_DO_V2,true
+esim_1GB_7D_EC_V2,Ecuador,Ecuador 1GB - 7 days,1000,7,5508,esim_1GB_7D_EC_V2,true
+esim_2GB_15D_EC_V2,Ecuador,Ecuador 2GB - 15 days,2000,15,9252,esim_2GB_15D_EC_V2,true
+esim_3GB_30D_EC_V2,Ecuador,Ecuador 3GB - 30 days,3000,30,12474,esim_3GB_30D_EC_V2,true
+esim_5GB_30D_EC_V2,Ecuador,Ecuador 5GB - 30 days,5000,30,18306,esim_5GB_30D_EC_V2,true
+esim_10GB_30D_EC_V2,Ecuador,Ecuador 10GB - 30 days,10000,30,33084,esim_10GB_30D_EC_V2,true
+esim_20GB_30D_EC_V2,Ecuador,Ecuador 20GB - 30 days,20000,30,52236,esim_20GB_30D_EC_V2,true
+esim_50GB_30D_EC_V2,Ecuador,Ecuador 50GB - 30 days,50000,30,154026,esim_50GB_30D_EC_V2,true
+esim_100GB_30D_EC_V2,Ecuador,Ecuador 100GB - 30 days,100000,30,262782,esim_100GB_30D_EC_V2,true
+esim_1GB_7D_EG_V2,Egypt,Egypt 1GB - 7 days,1000,7,5436,esim_1GB_7D_EG_V2,true
+esim_2GB_15D_EG_V2,Egypt,Egypt 2GB - 15 days,2000,15,8874,esim_2GB_15D_EG_V2,true
+esim_3GB_30D_EG_V2,Egypt,Egypt 3GB - 30 days,3000,30,11880,esim_3GB_30D_EG_V2,true
+esim_5GB_30D_EG_V2,Egypt,Egypt 5GB - 30 days,5000,30,17694,esim_5GB_30D_EG_V2,true
+esim_10GB_30D_EG_V2,Egypt,Egypt 10GB - 30 days,10000,30,27360,esim_10GB_30D_EG_V2,true
+esim_20GB_30D_EG_V2,Egypt,Egypt 20GB - 30 days,20000,30,44568,esim_20GB_30D_EG_V2,true
+esim_50GB_30D_EG_V2,Egypt,Egypt 50GB - 30 days,50000,30,98316,esim_50GB_30D_EG_V2,true
+esim_100GB_30D_EG_V2,Egypt,Egypt 100GB - 30 days,100000,30,179100,esim_100GB_30D_EG_V2,true
+esim_1GB_7D_SV_V2,El Salvador,El Salvador 1GB - 7 days,1000,7,4770,esim_1GB_7D_SV_V2,true
+esim_2GB_15D_SV_V2,El Salvador,El Salvador 2GB - 15 days,2000,15,8478,esim_2GB_15D_SV_V2,true
+esim_3GB_30D_SV_V2,El Salvador,El Salvador 3GB - 30 days,3000,30,14832,esim_3GB_30D_SV_V2,true
+esim_5GB_30D_SV_V2,El Salvador,El Salvador 5GB - 30 days,5000,30,20664,esim_5GB_30D_SV_V2,true
+esim_10GB_30D_SV_V2,El Salvador,El Salvador 10GB - 30 days,10000,30,33372,esim_10GB_30D_SV_V2,true
+esim_20GB_30D_SV_V2,El Salvador,El Salvador 20GB - 30 days,20000,30,67788,esim_20GB_30D_SV_V2,true
+esim_50GB_30D_SV_V2,El Salvador,El Salvador 50GB - 30 days,50000,30,137718,esim_50GB_30D_SV_V2,true
+esim_100GB_30D_SV_V2,El Salvador,El Salvador 100GB - 30 days,100000,30,268524,esim_100GB_30D_SV_V2,true
+esim_1GB_7D_EE_V2,Estonia,Estonia 1GB - 7 days,1000,7,2970,esim_1GB_7D_EE_V2,true
+esim_2GB_15D_EE_V2,Estonia,Estonia 2GB - 15 days,2000,15,5238,esim_2GB_15D_EE_V2,true
+esim_3GB_30D_EE_V2,Estonia,Estonia 3GB - 30 days,3000,30,6750,esim_3GB_30D_EE_V2,true
+esim_5GB_30D_EE_V2,Estonia,Estonia 5GB - 30 days,5000,30,9342,esim_5GB_30D_EE_V2,true
+esim_10GB_30D_EE_V2,Estonia,Estonia 10GB - 30 days,10000,30,14742,esim_10GB_30D_EE_V2,true
+esim_20GB_30D_EE_V2,Estonia,Estonia 20GB - 30 days,20000,30,24642,esim_20GB_30D_EE_V2,true
+esim_50GB_30D_EE_V2,Estonia,Estonia 50GB - 30 days,50000,30,55224,esim_50GB_30D_EE_V2,true
+esim_100GB_30D_EE_V2,Estonia,Estonia 100GB - 30 days,100000,30,109332,esim_100GB_30D_EE_V2,true
+esim_1GB_7D_ET_V2,Ethiopia,Ethiopia 1GB - 7 days,1000,7,31464,esim_1GB_7D_ET_V2,true
+esim_2GB_15D_ET_V2,Ethiopia,Ethiopia 2GB - 15 days,2000,15,57582,esim_2GB_15D_ET_V2,true
+esim_3GB_30D_ET_V2,Ethiopia,Ethiopia 3GB - 30 days,3000,30,80442,esim_3GB_30D_ET_V2,true
+esim_5GB_30D_ET_V2,Ethiopia,Ethiopia 5GB - 30 days,5000,30,124524,esim_5GB_30D_ET_V2,true
+esim_10GB_30D_ET_V2,Ethiopia,Ethiopia 10GB - 30 days,10000,30,198000,esim_10GB_30D_ET_V2,true
+esim_20GB_30D_ET_V2,Ethiopia,Ethiopia 20GB - 30 days,20000,30,328608,esim_20GB_30D_ET_V2,true
+esim_1GB_7D_FO_V2,Faroe Islands,Faroe Islands 1GB - 7 days,1000,7,7236,esim_1GB_7D_FO_V2,true
+esim_2GB_15D_FO_V2,Faroe Islands,Faroe Islands 2GB - 15 days,2000,15,10908,esim_2GB_15D_FO_V2,true
+esim_3GB_30D_FO_V2,Faroe Islands,Faroe Islands 3GB - 30 days,3000,30,14130,esim_3GB_30D_FO_V2,true
+esim_5GB_30D_FO_V2,Faroe Islands,Faroe Islands 5GB - 30 days,5000,30,20340,esim_5GB_30D_FO_V2,true
+esim_10GB_30D_FO_V2,Faroe Islands,Faroe Islands 10GB - 30 days,10000,30,30672,esim_10GB_30D_FO_V2,true
+esim_20GB_30D_FO_V2,Faroe Islands,Faroe Islands 20GB - 30 days,20000,30,49032,esim_20GB_30D_FO_V2,true
+esim_50GB_30D_FO_V2,Faroe Islands,Faroe Islands 50GB - 30 days,50000,30,106452,esim_50GB_30D_FO_V2,true
+esim_100GB_30D_FO_V2,Faroe Islands,Faroe Islands 100GB - 30 days,100000,30,186822,esim_100GB_30D_FO_V2,true
+esim_1GB_7D_FJ_V2,Fiji,Fiji 1GB - 7 days,1000,7,32652,esim_1GB_7D_FJ_V2,true
+esim_2GB_15D_FJ_V2,Fiji,Fiji 2GB - 15 days,2000,15,64170,esim_2GB_15D_FJ_V2,true
+esim_3GB_30D_FJ_V2,Fiji,Fiji 3GB - 30 days,3000,30,90270,esim_3GB_30D_FJ_V2,true
+esim_5GB_30D_FJ_V2,Fiji,Fiji 5GB - 30 days,5000,30,149688,esim_5GB_30D_FJ_V2,true
+esim_10GB_30D_FJ_V2,Fiji,Fiji 10GB - 30 days,10000,30,275706,esim_10GB_30D_FJ_V2,true
+esim_1GB_7D_FI_V2,Finland,Finland 1GB - 7 days,1000,7,2340,esim_1GB_7D_FI_V2,true
+esim_2GB_15D_FI_V2,Finland,Finland 2GB - 15 days,2000,15,4122,esim_2GB_15D_FI_V2,true
+esim_3GB_30D_FI_V2,Finland,Finland 3GB - 30 days,3000,30,5310,esim_3GB_30D_FI_V2,true
+esim_5GB_30D_FI_V2,Finland,Finland 5GB - 30 days,5000,30,7344,esim_5GB_30D_FI_V2,true
+esim_10GB_30D_FI_V2,Finland,Finland 10GB - 30 days,10000,30,11592,esim_10GB_30D_FI_V2,true
+esim_20GB_30D_FI_V2,Finland,Finland 20GB - 30 days,20000,30,19386,esim_20GB_30D_FI_V2,true
+esim_50GB_30D_FI_V2,Finland,Finland 50GB - 30 days,50000,30,43452,esim_50GB_30D_FI_V2,true
+esim_100GB_30D_FI_V2,Finland,Finland 100GB - 30 days,100000,30,86022,esim_100GB_30D_FI_V2,true
+esim_1GB_7D_FR_V2,France,France 1GB - 7 days,1000,7,2106,esim_1GB_7D_FR_V2,true
+esim_2GB_15D_FR_V2,France,France 2GB - 15 days,2000,15,3492,esim_2GB_15D_FR_V2,true
+esim_3GB_30D_FR_V2,France,France 3GB - 30 days,3000,30,4572,esim_3GB_30D_FR_V2,true
+esim_5GB_30D_FR_V2,France,France 5GB - 30 days,5000,30,6336,esim_5GB_30D_FR_V2,true
+esim_10GB_30D_FR_V2,France,France 10GB - 30 days,10000,30,10728,esim_10GB_30D_FR_V2,true
+esim_20GB_30D_FR_V2,France,France 20GB - 30 days,20000,30,18252,esim_20GB_30D_FR_V2,true
+esim_50GB_30D_FR_V2,France,France 50GB - 30 days,50000,30,40032,esim_50GB_30D_FR_V2,true
+esim_100GB_30D_FR_V2,France,France 100GB - 30 days,100000,30,52254,esim_100GB_30D_FR_V2,true
+esim_1GB_7D_GF_V2,French Guiana,French Guiana 1GB - 7 days,1000,7,5148,esim_1GB_7D_GF_V2,true
+esim_2GB_15D_GF_V2,French Guiana,French Guiana 2GB - 15 days,2000,15,9306,esim_2GB_15D_GF_V2,true
+esim_3GB_30D_GF_V2,French Guiana,French Guiana 3GB - 30 days,3000,30,12744,esim_3GB_30D_GF_V2,true
+esim_5GB_30D_GF_V2,French Guiana,French Guiana 5GB - 30 days,5000,30,20592,esim_5GB_30D_GF_V2,true
+esim_10GB_30D_GF_V2,French Guiana,French Guiana 10GB - 30 days,10000,30,37224,esim_10GB_30D_GF_V2,true
+esim_20GB_30D_GF_V2,French Guiana,French Guiana 20GB - 30 days,20000,30,66330,esim_20GB_30D_GF_V2,true
+esim_50GB_30D_GF_V2,French Guiana,French Guiana 50GB - 30 days,50000,30,149490,esim_50GB_30D_GF_V2,true
+esim_100GB_30D_GF_V2,French Guiana,French Guiana 100GB - 30 days,100000,30,291510,esim_100GB_30D_GF_V2,true
+esim_1GB_7D_GA_V2,Gabon,Gabon 1GB - 7 days,1000,7,22446,esim_1GB_7D_GA_V2,true
+esim_2GB_15D_GA_V2,Gabon,Gabon 2GB - 15 days,2000,15,36324,esim_2GB_15D_GA_V2,true
+esim_3GB_30D_GA_V2,Gabon,Gabon 3GB - 30 days,3000,30,50976,esim_3GB_30D_GA_V2,true
+esim_5GB_30D_GA_V2,Gabon,Gabon 5GB - 30 days,5000,30,84294,esim_5GB_30D_GA_V2,true
+esim_10GB_30D_GA_V2,Gabon,Gabon 10GB - 30 days,10000,30,154980,esim_10GB_30D_GA_V2,true
+esim_1GB_7D_GM_V2,Gambia,Gambia 1GB - 7 days,1000,7,7596,esim_1GB_7D_GM_V2,true
+esim_2GB_15D_GM_V2,Gambia,Gambia 2GB - 15 days,2000,15,12798,esim_2GB_15D_GM_V2,true
+esim_3GB_30D_GM_V2,Gambia,Gambia 3GB - 30 days,3000,30,17334,esim_3GB_30D_GM_V2,true
+esim_5GB_30D_GM_V2,Gambia,Gambia 5GB - 30 days,5000,30,26118,esim_5GB_30D_GM_V2,true
+esim_10GB_30D_GM_V2,Gambia,Gambia 10GB - 30 days,10000,30,40734,esim_10GB_30D_GM_V2,true
+esim_20GB_30D_GM_V2,Gambia,Gambia 20GB - 30 days,20000,30,66744,esim_20GB_30D_GM_V2,true
+esim_50GB_30D_GM_V2,Gambia,Gambia 50GB - 30 days,50000,30,192366,esim_50GB_30D_GM_V2,true
+esim_100GB_30D_GM_V2,Gambia,Gambia 100GB - 30 days,100000,30,261738,esim_100GB_30D_GM_V2,true
+esim_1GB_7D_GE_V2,Georgia,Georgia 1GB - 7 days,1000,7,3906,esim_1GB_7D_GE_V2,true
+esim_2GB_15D_GE_V2,Georgia,Georgia 2GB - 15 days,2000,15,5814,esim_2GB_15D_GE_V2,true
+esim_3GB_30D_GE_V2,Georgia,Georgia 3GB - 30 days,3000,30,7506,esim_3GB_30D_GE_V2,true
+esim_5GB_30D_GE_V2,Georgia,Georgia 5GB - 30 days,5000,30,10728,esim_5GB_30D_GE_V2,true
+esim_10GB_30D_GE_V2,Georgia,Georgia 10GB - 30 days,10000,30,16128,esim_10GB_30D_GE_V2,true
+esim_20GB_30D_GE_V2,Georgia,Georgia 20GB - 30 days,20000,30,25722,esim_20GB_30D_GE_V2,true
+esim_50GB_30D_GE_V2,Georgia,Georgia 50GB - 30 days,50000,30,55692,esim_50GB_30D_GE_V2,true
+esim_100GB_30D_GE_V2,Georgia,Georgia 100GB - 30 days,100000,30,97668,esim_100GB_30D_GE_V2,true
+esim_1GB_7D_DE_V2,Germany,Germany 1GB - 7 days,1000,7,2196,esim_1GB_7D_DE_V2,true
+esim_2GB_15D_DE_V2,Germany,Germany 2GB - 15 days,2000,15,3978,esim_2GB_15D_DE_V2,true
+esim_3GB_30D_DE_V2,Germany,Germany 3GB - 30 days,3000,30,5112,esim_3GB_30D_DE_V2,true
+esim_5GB_30D_DE_V2,Germany,Germany 5GB - 30 days,5000,30,7200,esim_5GB_30D_DE_V2,true
+esim_10GB_30D_DE_V2,Germany,Germany 10GB - 30 days,10000,30,11592,esim_10GB_30D_DE_V2,true
+esim_20GB_30D_DE_V2,Germany,Germany 20GB - 30 days,20000,30,19332,esim_20GB_30D_DE_V2,true
+esim_50GB_30D_DE_V2,Germany,Germany 50GB - 30 days,50000,30,44676,esim_50GB_30D_DE_V2,true
+esim_100GB_30D_DE_V2,Germany,Germany 100GB - 30 days,100000,30,95508,esim_100GB_30D_DE_V2,true
+esim_1GB_7D_GH_V2,Ghana,Ghana 1GB - 7 days,1000,7,11502,esim_1GB_7D_GH_V2,true
+esim_2GB_15D_GH_V2,Ghana,Ghana 2GB - 15 days,2000,15,19710,esim_2GB_15D_GH_V2,true
+esim_3GB_30D_GH_V2,Ghana,Ghana 3GB - 30 days,3000,30,26928,esim_3GB_30D_GH_V2,true
+esim_5GB_30D_GH_V2,Ghana,Ghana 5GB - 30 days,5000,30,40806,esim_5GB_30D_GH_V2,true
+esim_10GB_30D_GH_V2,Ghana,Ghana 10GB - 30 days,10000,30,63936,esim_10GB_30D_GH_V2,true
+esim_20GB_30D_GH_V2,Ghana,Ghana 20GB - 30 days,20000,30,105066,esim_20GB_30D_GH_V2,true
+esim_50GB_30D_GH_V2,Ghana,Ghana 50GB - 30 days,50000,30,233550,esim_50GB_30D_GH_V2,true
+esim_100GB_30D_GH_V2,Ghana,Ghana 100GB - 30 days,100000,30,413496,esim_100GB_30D_GH_V2,true
+esim_1GB_7D_GI_V2,Gibraltar,Gibraltar 1GB - 7 days,1000,7,6390,esim_1GB_7D_GI_V2,true
+esim_2GB_15D_GI_V2,Gibraltar,Gibraltar 2GB - 15 days,2000,15,11862,esim_2GB_15D_GI_V2,true
+esim_3GB_30D_GI_V2,Gibraltar,Gibraltar 3GB - 30 days,3000,30,17388,esim_3GB_30D_GI_V2,true
+esim_5GB_30D_GI_V2,Gibraltar,Gibraltar 5GB - 30 days,5000,30,27378,esim_5GB_30D_GI_V2,true
+esim_10GB_30D_GI_V2,Gibraltar,Gibraltar 10GB - 30 days,10000,30,48132,esim_10GB_30D_GI_V2,true
+esim_20GB_30D_GI_V2,Gibraltar,Gibraltar 20GB - 30 days,20000,30,84654,esim_20GB_30D_GI_V2,true
+esim_50GB_30D_GI_V2,Gibraltar,Gibraltar 50GB - 30 days,50000,30,186408,esim_50GB_30D_GI_V2,true
+esim_1GB_7D_GR_V2,Greece,Greece 1GB - 7 days,1000,7,2196,esim_1GB_7D_GR_V2,true
+esim_2GB_15D_GR_V2,Greece,Greece 2GB - 15 days,2000,15,3978,esim_2GB_15D_GR_V2,true
+esim_3GB_30D_GR_V2,Greece,Greece 3GB - 30 days,3000,30,5112,esim_3GB_30D_GR_V2,true
+esim_5GB_30D_GR_V2,Greece,Greece 5GB - 30 days,5000,30,7200,esim_5GB_30D_GR_V2,true
+esim_10GB_30D_GR_V2,Greece,Greece 10GB - 30 days,10000,30,11592,esim_10GB_30D_GR_V2,true
+esim_20GB_30D_GR_V2,Greece,Greece 20GB - 30 days,20000,30,19332,esim_20GB_30D_GR_V2,true
+esim_50GB_30D_GR_V2,Greece,Greece 50GB - 30 days,50000,30,42588,esim_50GB_30D_GR_V2,true
+esim_100GB_30D_GR_V2,Greece,Greece 100GB - 30 days,100000,30,84348,esim_100GB_30D_GR_V2,true
+esim_1GB_7D_GL_V2,Greenland,Greenland 1GB - 7 days,1000,7,25362,esim_1GB_7D_GL_V2,true
+esim_2GB_15D_GL_V2,Greenland,Greenland 2GB - 15 days,2000,15,49374,esim_2GB_15D_GL_V2,true
+esim_3GB_30D_GL_V2,Greenland,Greenland 3GB - 30 days,3000,30,69282,esim_3GB_30D_GL_V2,true
+esim_5GB_30D_GL_V2,Greenland,Greenland 5GB - 30 days,5000,30,114570,esim_5GB_30D_GL_V2,true
+esim_10GB_30D_GL_V2,Greenland,Greenland 10GB - 30 days,10000,30,210636,esim_10GB_30D_GL_V2,true
+esim_1GB_7D_GD_V2,Grenada,Grenada 1GB - 7 days,1000,7,11772,esim_1GB_7D_GD_V2,true
+esim_2GB_15D_GD_V2,Grenada,Grenada 2GB - 15 days,2000,15,20934,esim_2GB_15D_GD_V2,true
+esim_3GB_30D_GD_V2,Grenada,Grenada 3GB - 30 days,3000,30,29502,esim_3GB_30D_GD_V2,true
+esim_5GB_30D_GD_V2,Grenada,Grenada 5GB - 30 days,5000,30,42660,esim_5GB_30D_GD_V2,true
+esim_10GB_30D_GD_V2,Grenada,Grenada 10GB - 30 days,10000,30,73782,esim_10GB_30D_GD_V2,true
+esim_20GB_30D_GD_V2,Grenada,Grenada 20GB - 30 days,20000,30,124182,esim_20GB_30D_GD_V2,true
+esim_1GB_7D_GP_V2,Guadeloupe,Guadeloupe 1GB - 7 days,1000,7,6390,esim_1GB_7D_GP_V2,true
+esim_2GB_15D_GP_V2,Guadeloupe,Guadeloupe 2GB - 15 days,2000,15,11790,esim_2GB_15D_GP_V2,true
+esim_3GB_30D_GP_V2,Guadeloupe,Guadeloupe 3GB - 30 days,3000,30,16272,esim_3GB_30D_GP_V2,true
+esim_5GB_30D_GP_V2,Guadeloupe,Guadeloupe 5GB - 30 days,5000,30,26460,esim_5GB_30D_GP_V2,true
+esim_10GB_30D_GP_V2,Guadeloupe,Guadeloupe 10GB - 30 days,10000,30,48096,esim_10GB_30D_GP_V2,true
+esim_20GB_30D_GP_V2,Guadeloupe,Guadeloupe 20GB - 30 days,20000,30,85932,esim_20GB_30D_GP_V2,true
+esim_50GB_30D_GP_V2,Guadeloupe,Guadeloupe 50GB - 30 days,50000,30,194040,esim_50GB_30D_GP_V2,true
+esim_1GB_7D_GU_V2,Guam,Guam 1GB - 7 days,1000,7,19296,esim_1GB_7D_GU_V2,true
+esim_2GB_15D_GU_V2,Guam,Guam 2GB - 15 days,2000,15,36558,esim_2GB_15D_GU_V2,true
+esim_3GB_30D_GU_V2,Guam,Guam 3GB - 30 days,3000,30,50850,esim_3GB_30D_GU_V2,true
+esim_5GB_30D_GU_V2,Guam,Guam 5GB - 30 days,5000,30,83376,esim_5GB_30D_GU_V2,true
+esim_10GB_30D_GU_V2,Guam,Guam 10GB - 30 days,10000,30,152388,esim_10GB_30D_GU_V2,true
+esim_20GB_30D_GU_V2,Guam,Guam 20GB - 30 days,20000,30,273132,esim_20GB_30D_GU_V2,true
+esim_1GB_7D_GT_V2,Guatemala,Guatemala 1GB - 7 days,1000,7,7002,esim_1GB_7D_GT_V2,true
+esim_2GB_15D_GT_V2,Guatemala,Guatemala 2GB - 15 days,2000,15,11664,esim_2GB_15D_GT_V2,true
+esim_3GB_30D_GT_V2,Guatemala,Guatemala 3GB - 30 days,3000,30,14832,esim_3GB_30D_GT_V2,true
+esim_5GB_30D_GT_V2,Guatemala,Guatemala 5GB - 30 days,5000,30,23400,esim_5GB_30D_GT_V2,true
+esim_10GB_30D_GT_V2,Guatemala,Guatemala 10GB - 30 days,10000,30,36468,esim_10GB_30D_GT_V2,true
+esim_20GB_30D_GT_V2,Guatemala,Guatemala 20GB - 30 days,20000,30,67788,esim_20GB_30D_GT_V2,true
+esim_50GB_30D_GT_V2,Guatemala,Guatemala 50GB - 30 days,50000,30,137718,esim_50GB_30D_GT_V2,true
+esim_100GB_30D_GT_V2,Guatemala,Guatemala 100GB - 30 days,100000,30,268524,esim_100GB_30D_GT_V2,true
+esim_1GB_7D_GG_V2,Guernsey,Guernsey 1GB - 7 days,1000,7,5562,esim_1GB_7D_GG_V2,true
+esim_2GB_15D_GG_V2,Guernsey,Guernsey 2GB - 15 days,2000,15,10044,esim_2GB_15D_GG_V2,true
+esim_3GB_30D_GG_V2,Guernsey,Guernsey 3GB - 30 days,3000,30,13752,esim_3GB_30D_GG_V2,true
+esim_5GB_30D_GG_V2,Guernsey,Guernsey 5GB - 30 days,5000,30,22212,esim_5GB_30D_GG_V2,true
+esim_10GB_30D_GG_V2,Guernsey,Guernsey 10GB - 30 days,10000,30,38304,esim_10GB_30D_GG_V2,true
+esim_20GB_30D_GG_V2,Guernsey,Guernsey 20GB - 30 days,20000,30,66456,esim_20GB_30D_GG_V2,true
+esim_50GB_30D_GG_V2,Guernsey,Guernsey 50GB - 30 days,50000,30,148896,esim_50GB_30D_GG_V2,true
+esim_100GB_30D_GG_V2,Guernsey,Guernsey 100GB - 30 days,100000,30,253800,esim_100GB_30D_GG_V2,true
+esim_1GB_7D_GN_V2,Guinea,Guinea 1GB - 7 days,1000,7,21978,esim_1GB_7D_GN_V2,true
+esim_2GB_15D_GN_V2,Guinea,Guinea 2GB - 15 days,2000,15,42984,esim_2GB_15D_GN_V2,true
+esim_3GB_30D_GN_V2,Guinea,Guinea 3GB - 30 days,3000,30,60372,esim_3GB_30D_GN_V2,true
+esim_5GB_30D_GN_V2,Guinea,Guinea 5GB - 30 days,5000,30,99972,esim_5GB_30D_GN_V2,true
+esim_10GB_30D_GN_V2,Guinea,Guinea 10GB - 30 days,10000,30,183960,esim_10GB_30D_GN_V2,true
+esim_1GB_7D_GW_V2,Guinea-Bissau,Guinea-Bissau 1GB - 7 days,1000,7,12420,esim_1GB_7D_GW_V2,true
+esim_2GB_15D_GW_V2,Guinea-Bissau,Guinea-Bissau 2GB - 15 days,2000,15,23850,esim_2GB_15D_GW_V2,true
+esim_3GB_30D_GW_V2,Guinea-Bissau,Guinea-Bissau 3GB - 30 days,3000,30,35406,esim_3GB_30D_GW_V2,true
+esim_5GB_30D_GW_V2,Guinea-Bissau,Guinea-Bissau 5GB - 30 days,5000,30,54900,esim_5GB_30D_GW_V2,true
+esim_10GB_30D_GW_V2,Guinea-Bissau,Guinea-Bissau 10GB - 30 days,10000,30,100638,esim_10GB_30D_GW_V2,true
+esim_20GB_30D_GW_V2,Guinea-Bissau,Guinea-Bissau 20GB - 30 days,20000,30,180666,esim_20GB_30D_GW_V2,true
+esim_1GB_7D_GY_V2,Guyana,Guyana 1GB - 7 days,1000,7,11772,esim_1GB_7D_GY_V2,true
+esim_2GB_15D_GY_V2,Guyana,Guyana 2GB - 15 days,2000,15,20934,esim_2GB_15D_GY_V2,true
+esim_3GB_30D_GY_V2,Guyana,Guyana 3GB - 30 days,3000,30,29502,esim_3GB_30D_GY_V2,true
+esim_5GB_30D_GY_V2,Guyana,Guyana 5GB - 30 days,5000,30,42660,esim_5GB_30D_GY_V2,true
+esim_10GB_30D_GY_V2,Guyana,Guyana 10GB - 30 days,10000,30,73782,esim_10GB_30D_GY_V2,true
+esim_20GB_30D_GY_V2,Guyana,Guyana 20GB - 30 days,20000,30,124182,esim_20GB_30D_GY_V2,true
+esim_1GB_7D_HT_V2,Haiti,Haiti 1GB - 7 days,1000,7,11772,esim_1GB_7D_HT_V2,true
+esim_2GB_15D_HT_V2,Haiti,Haiti 2GB - 15 days,2000,15,20934,esim_2GB_15D_HT_V2,true
+esim_3GB_30D_HT_V2,Haiti,Haiti 3GB - 30 days,3000,30,29502,esim_3GB_30D_HT_V2,true
+esim_5GB_30D_HT_V2,Haiti,Haiti 5GB - 30 days,5000,30,42660,esim_5GB_30D_HT_V2,true
+esim_10GB_30D_HT_V2,Haiti,Haiti 10GB - 30 days,10000,30,73782,esim_10GB_30D_HT_V2,true
+esim_20GB_30D_HT_V2,Haiti,Haiti 20GB - 30 days,20000,30,124182,esim_20GB_30D_HT_V2,true
+esim_1GB_7D_US-HI_V2,Hawaii,Hawaii 1GB - 7 days,1000,7,3132,esim_1GB_7D_US-HI_V2,true
+esim_2GB_15D_US-HI_V2,Hawaii,Hawaii 2GB - 15 days,2000,15,5364,esim_2GB_15D_US-HI_V2,true
+esim_3GB_30D_US-HI_V2,Hawaii,Hawaii 3GB - 30 days,3000,30,7200,esim_3GB_30D_US-HI_V2,true
+esim_5GB_30D_US-HI_V2,Hawaii,Hawaii 5GB - 30 days,5000,30,11484,esim_5GB_30D_US-HI_V2,true
+esim_10GB_30D_US-HI_V2,Hawaii,Hawaii 10GB - 30 days,10000,30,20034,esim_10GB_30D_US-HI_V2,true
+esim_20GB_30D_US-HI_V2,Hawaii,Hawaii 20GB - 30 days,20000,30,35784,esim_20GB_30D_US-HI_V2,true
+esim_50GB_30D_US-HI_V2,Hawaii,Hawaii 50GB - 30 days,50000,30,81198,esim_50GB_30D_US-HI_V2,true
+esim_100GB_30D_US-HI_V2,Hawaii,Hawaii 100GB - 30 days,100000,30,153954,esim_100GB_30D_US-HI_V2,true
+esim_1GB_7D_HN_V2,Honduras,Honduras 1GB - 7 days,1000,7,7002,esim_1GB_7D_HN_V2,true
+esim_2GB_15D_HN_V2,Honduras,Honduras 2GB - 15 days,2000,15,11664,esim_2GB_15D_HN_V2,true
+esim_3GB_30D_HN_V2,Honduras,Honduras 3GB - 30 days,3000,30,14832,esim_3GB_30D_HN_V2,true
+esim_5GB_30D_HN_V2,Honduras,Honduras 5GB - 30 days,5000,30,23400,esim_5GB_30D_HN_V2,true
+esim_10GB_30D_HN_V2,Honduras,Honduras 10GB - 30 days,10000,30,40878,esim_10GB_30D_HN_V2,true
+esim_20GB_30D_HN_V2,Honduras,Honduras 20GB - 30 days,20000,30,67788,esim_20GB_30D_HN_V2,true
+esim_50GB_30D_HN_V2,Honduras,Honduras 50GB - 30 days,50000,30,137718,esim_50GB_30D_HN_V2,true
+esim_100GB_30D_HN_V2,Honduras,Honduras 100GB - 30 days,100000,30,268524,esim_100GB_30D_HN_V2,true
+esim_1GB_7D_HK_V2,Hong Kong,Hong Kong 1GB - 7 days,1000,7,4194,esim_1GB_7D_HK_V2,true
+esim_2GB_15D_HK_V2,Hong Kong,Hong Kong 2GB - 15 days,2000,15,7254,esim_2GB_15D_HK_V2,true
+esim_3GB_30D_HK_V2,Hong Kong,Hong Kong 3GB - 30 days,3000,30,9792,esim_3GB_30D_HK_V2,true
+esim_5GB_30D_HK_V2,Hong Kong,Hong Kong 5GB - 30 days,5000,30,15588,esim_5GB_30D_HK_V2,true
+esim_10GB_30D_HK_V2,Hong Kong,Hong Kong 10GB - 30 days,10000,30,27846,esim_10GB_30D_HK_V2,true
+esim_20GB_30D_HK_V2,Hong Kong,Hong Kong 20GB - 30 days,20000,30,49320,esim_20GB_30D_HK_V2,true
+esim_50GB_30D_HK_V2,Hong Kong,Hong Kong 50GB - 30 days,50000,30,132354,esim_50GB_30D_HK_V2,true
+esim_100GB_30D_HK_V2,Hong Kong,Hong Kong 100GB - 30 days,100000,30,187650,esim_100GB_30D_HK_V2,true
+esim_1GB_7D_HU_V2,Hungary,Hungary 1GB - 7 days,1000,7,2196,esim_1GB_7D_HU_V2,true
+esim_2GB_15D_HU_V2,Hungary,Hungary 2GB - 15 days,2000,15,3978,esim_2GB_15D_HU_V2,true
+esim_3GB_30D_HU_V2,Hungary,Hungary 3GB - 30 days,3000,30,5112,esim_3GB_30D_HU_V2,true
+esim_5GB_30D_HU_V2,Hungary,Hungary 5GB - 30 days,5000,30,7200,esim_5GB_30D_HU_V2,true
+esim_10GB_30D_HU_V2,Hungary,Hungary 10GB - 30 days,10000,30,11592,esim_10GB_30D_HU_V2,true
+esim_20GB_30D_HU_V2,Hungary,Hungary 20GB - 30 days,20000,30,19332,esim_20GB_30D_HU_V2,true
+esim_50GB_30D_HU_V2,Hungary,Hungary 50GB - 30 days,50000,30,44802,esim_50GB_30D_HU_V2,true
+esim_100GB_30D_HU_V2,Hungary,Hungary 100GB - 30 days,100000,30,84348,esim_100GB_30D_HU_V2,true
+esim_1GB_7D_IS_V2,Iceland,Iceland 1GB - 7 days,1000,7,2340,esim_1GB_7D_IS_V2,true
+esim_2GB_15D_IS_V2,Iceland,Iceland 2GB - 15 days,2000,15,4122,esim_2GB_15D_IS_V2,true
+esim_3GB_30D_IS_V2,Iceland,Iceland 3GB - 30 days,3000,30,5310,esim_3GB_30D_IS_V2,true
+esim_5GB_30D_IS_V2,Iceland,Iceland 5GB - 30 days,5000,30,7344,esim_5GB_30D_IS_V2,true
+esim_10GB_30D_IS_V2,Iceland,Iceland 10GB - 30 days,10000,30,11718,esim_10GB_30D_IS_V2,true
+esim_20GB_30D_IS_V2,Iceland,Iceland 20GB - 30 days,20000,30,19386,esim_20GB_30D_IS_V2,true
+esim_50GB_30D_IS_V2,Iceland,Iceland 50GB - 30 days,50000,30,43452,esim_50GB_30D_IS_V2,true
+esim_100GB_30D_IS_V2,Iceland,Iceland 100GB - 30 days,100000,30,86022,esim_100GB_30D_IS_V2,true
+esim_1GB_7D_IN_V2,India,India 1GB - 7 days,1000,7,5256,esim_1GB_7D_IN_V2,true
+esim_2GB_15D_IN_V2,India,India 2GB - 15 days,2000,15,9036,esim_2GB_15D_IN_V2,true
+esim_3GB_30D_IN_V2,India,India 3GB - 30 days,3000,30,12330,esim_3GB_30D_IN_V2,true
+esim_5GB_30D_IN_V2,India,India 5GB - 30 days,5000,30,18702,esim_5GB_30D_IN_V2,true
+esim_10GB_30D_IN_V2,India,India 10GB - 30 days,10000,30,29304,esim_10GB_30D_IN_V2,true
+esim_20GB_30D_IN_V2,India,India 20GB - 30 days,20000,30,48168,esim_20GB_30D_IN_V2,true
+esim_50GB_30D_IN_V2,India,India 50GB - 30 days,50000,30,107100,esim_50GB_30D_IN_V2,true
+esim_100GB_30D_IN_V2,India,India 100GB - 30 days,100000,30,189612,esim_100GB_30D_IN_V2,true
+esim_1GB_7D_ID_V2,Indonesia,Indonesia 1GB - 7 days,1000,7,4428,esim_1GB_7D_ID_V2,true
+esim_2GB_15D_ID_V2,Indonesia,Indonesia 2GB - 15 days,2000,15,7668,esim_2GB_15D_ID_V2,true
+esim_3GB_30D_ID_V2,Indonesia,Indonesia 3GB - 30 days,3000,30,10350,esim_3GB_30D_ID_V2,true
+esim_5GB_30D_ID_V2,Indonesia,Indonesia 5GB - 30 days,5000,30,16560,esim_5GB_30D_ID_V2,true
+esim_10GB_30D_ID_V2,Indonesia,Indonesia 10GB - 30 days,10000,30,31050,esim_10GB_30D_ID_V2,true
+esim_20GB_30D_ID_V2,Indonesia,Indonesia 20GB - 30 days,20000,30,60246,esim_20GB_30D_ID_V2,true
+esim_50GB_30D_ID_V2,Indonesia,Indonesia 50GB - 30 days,50000,30,152100,esim_50GB_30D_ID_V2,true
+esim_100GB_30D_ID_V2,Indonesia,Indonesia 100GB - 30 days,100000,30,198360,esim_100GB_30D_ID_V2,true
+esim_1GB_7D_IR_V2,Iran-Islamic Republic of,Iran-Islamic Republic of 1GB - 7 days,1000,7,55242,esim_1GB_7D_IR_V2,true
+esim_2GB_15D_IR_V2,Iran-Islamic Republic of,Iran-Islamic Republic of 2GB - 15 days,2000,15,109296,esim_2GB_15D_IR_V2,true
+esim_3GB_30D_IR_V2,Iran-Islamic Republic of,Iran-Islamic Republic of 3GB - 30 days,3000,30,154098,esim_3GB_30D_IR_V2,true
+esim_5GB_30D_IR_V2,Iran-Islamic Republic of,Iran-Islamic Republic of 5GB - 30 days,5000,30,256050,esim_5GB_30D_IR_V2,true
+esim_1GB_7D_IQ_V2,Iraq,Iraq 1GB - 7 days,1000,7,8478,esim_1GB_7D_IQ_V2,true
+esim_2GB_15D_IQ_V2,Iraq,Iraq 2GB - 15 days,2000,15,12906,esim_2GB_15D_IQ_V2,true
+esim_3GB_30D_IQ_V2,Iraq,Iraq 3GB - 30 days,3000,30,17388,esim_3GB_30D_IQ_V2,true
+esim_5GB_30D_IQ_V2,Iraq,Iraq 5GB - 30 days,5000,30,32094,esim_5GB_30D_IQ_V2,true
+esim_10GB_30D_IQ_V2,Iraq,Iraq 10GB - 30 days,10000,30,39582,esim_10GB_30D_IQ_V2,true
+esim_20GB_30D_IQ_V2,Iraq,Iraq 20GB - 30 days,20000,30,93510,esim_20GB_30D_IQ_V2,true
+esim_50GB_30D_IQ_V2,Iraq,Iraq 50GB - 30 days,50000,30,178200,esim_50GB_30D_IQ_V2,true
+esim_100GB_30D_IQ_V2,Iraq,Iraq 100GB - 30 days,100000,30,304200,esim_100GB_30D_IQ_V2,true
+esim_1GB_7D_IE_V2,Ireland,Ireland 1GB - 7 days,1000,7,2196,esim_1GB_7D_IE_V2,true
+esim_2GB_15D_IE_V2,Ireland,Ireland 2GB - 15 days,2000,15,3492,esim_2GB_15D_IE_V2,true
+esim_3GB_30D_IE_V2,Ireland,Ireland 3GB - 30 days,3000,30,4572,esim_3GB_30D_IE_V2,true
+esim_5GB_30D_IE_V2,Ireland,Ireland 5GB - 30 days,5000,30,7002,esim_5GB_30D_IE_V2,true
+esim_10GB_30D_IE_V2,Ireland,Ireland 10GB - 30 days,10000,30,10746,esim_10GB_30D_IE_V2,true
+esim_20GB_30D_IE_V2,Ireland,Ireland 20GB - 30 days,20000,30,22536,esim_20GB_30D_IE_V2,true
+esim_50GB_30D_IE_V2,Ireland,Ireland 50GB - 30 days,50000,30,40914,esim_50GB_30D_IE_V2,true
+esim_100GB_30D_IE_V2,Ireland,Ireland 100GB - 30 days,100000,30,79236,esim_100GB_30D_IE_V2,true
+esim_1GB_7D_IM_V2,Isle of Man,Isle of Man 1GB - 7 days,1000,7,6048,esim_1GB_7D_IM_V2,true
+esim_2GB_15D_IM_V2,Isle of Man,Isle of Man 2GB - 15 days,2000,15,9612,esim_2GB_15D_IM_V2,true
+esim_3GB_30D_IM_V2,Isle of Man,Isle of Man 3GB - 30 days,3000,30,12726,esim_3GB_30D_IM_V2,true
+esim_5GB_30D_IM_V2,Isle of Man,Isle of Man 5GB - 30 days,5000,30,18738,esim_5GB_30D_IM_V2,true
+esim_10GB_30D_IM_V2,Isle of Man,Isle of Man 10GB - 30 days,10000,30,28746,esim_10GB_30D_IM_V2,true
+esim_20GB_30D_IM_V2,Isle of Man,Isle of Man 20GB - 30 days,20000,30,46566,esim_20GB_30D_IM_V2,true
+esim_50GB_30D_IM_V2,Isle of Man,Isle of Man 50GB - 30 days,50000,30,102240,esim_50GB_30D_IM_V2,true
+esim_100GB_30D_IM_V2,Isle of Man,Isle of Man 100GB - 30 days,100000,30,180180,esim_100GB_30D_IM_V2,true
+esim_1GB_7D_IL_V2,Israel,Israel 1GB - 7 days,1000,7,4104,esim_1GB_7D_IL_V2,true
+esim_2GB_15D_IL_V2,Israel,Israel 2GB - 15 days,2000,15,7218,esim_2GB_15D_IL_V2,true
+esim_3GB_30D_IL_V2,Israel,Israel 3GB - 30 days,3000,30,9810,esim_3GB_30D_IL_V2,true
+esim_5GB_30D_IL_V2,Israel,Israel 5GB - 30 days,5000,30,15696,esim_5GB_30D_IL_V2,true
+esim_10GB_30D_IL_V2,Israel,Israel 10GB - 30 days,10000,30,28170,esim_10GB_30D_IL_V2,true
+esim_20GB_30D_IL_V2,Israel,Israel 20GB - 30 days,20000,30,49986,esim_20GB_30D_IL_V2,true
+esim_50GB_30D_IL_V2,Israel,Israel 50GB - 30 days,50000,30,112356,esim_50GB_30D_IL_V2,true
+esim_100GB_30D_IL_V2,Israel,Israel 100GB - 30 days,100000,30,177894,esim_100GB_30D_IL_V2,true
+esim_1GB_7D_IT_V2,Italy,Italy 1GB - 7 days,1000,7,2106,esim_1GB_7D_IT_V2,true
+esim_2GB_15D_IT_V2,Italy,Italy 2GB - 15 days,2000,15,3492,esim_2GB_15D_IT_V2,true
+esim_3GB_30D_IT_V2,Italy,Italy 3GB - 30 days,3000,30,4572,esim_3GB_30D_IT_V2,true
+esim_5GB_30D_IT_V2,Italy,Italy 5GB - 30 days,5000,30,6336,esim_5GB_30D_IT_V2,true
+esim_10GB_30D_IT_V2,Italy,Italy 10GB - 30 days,10000,30,10728,esim_10GB_30D_IT_V2,true
+esim_20GB_30D_IT_V2,Italy,Italy 20GB - 30 days,20000,30,18252,esim_20GB_30D_IT_V2,true
+esim_50GB_30D_IT_V2,Italy,Italy 50GB - 30 days,50000,30,40032,esim_50GB_30D_IT_V2,true
+esim_100GB_30D_IT_V2,Italy,Italy 100GB - 30 days,100000,30,77544,esim_100GB_30D_IT_V2,true
+esim_1GB_7D_CI_V2,Ivory Coast,Ivory Coast 1GB - 7 days,1000,7,23526,esim_1GB_7D_CI_V2,true
+esim_2GB_15D_CI_V2,Ivory Coast,Ivory Coast 2GB - 15 days,2000,15,45774,esim_2GB_15D_CI_V2,true
+esim_3GB_30D_CI_V2,Ivory Coast,Ivory Coast 3GB - 30 days,3000,30,64242,esim_3GB_30D_CI_V2,true
+esim_5GB_30D_CI_V2,Ivory Coast,Ivory Coast 5GB - 30 days,5000,30,106236,esim_5GB_30D_CI_V2,true
+esim_10GB_30D_CI_V2,Ivory Coast,Ivory Coast 10GB - 30 days,10000,30,195336,esim_10GB_30D_CI_V2,true
+esim_1GB_7D_JM_V2,Jamaica,Jamaica 1GB - 7 days,1000,7,11772,esim_1GB_7D_JM_V2,true
+esim_2GB_15D_JM_V2,Jamaica,Jamaica 2GB - 15 days,2000,15,20934,esim_2GB_15D_JM_V2,true
+esim_3GB_30D_JM_V2,Jamaica,Jamaica 3GB - 30 days,3000,30,29502,esim_3GB_30D_JM_V2,true
+esim_5GB_30D_JM_V2,Jamaica,Jamaica 5GB - 30 days,5000,30,42660,esim_5GB_30D_JM_V2,true
+esim_10GB_30D_JM_V2,Jamaica,Jamaica 10GB - 30 days,10000,30,73782,esim_10GB_30D_JM_V2,true
+esim_20GB_30D_JM_V2,Jamaica,Jamaica 20GB - 30 days,20000,30,124182,esim_20GB_30D_JM_V2,true
+esim_1GB_7D_JP_V2,Japan,Japan 1GB - 7 days,1000,7,3744,esim_1GB_7D_JP_V2,true
+esim_2GB_15D_JP_V2,Japan,Japan 2GB - 15 days,2000,15,6066,esim_2GB_15D_JP_V2,true
+esim_3GB_30D_JP_V2,Japan,Japan 3GB - 30 days,3000,30,8082,esim_3GB_30D_JP_V2,true
+esim_5GB_30D_JP_V2,Japan,Japan 5GB - 30 days,5000,30,11970,esim_5GB_30D_JP_V2,true
+esim_10GB_30D_JP_V2,Japan,Japan 10GB - 30 days,10000,30,20394,esim_10GB_30D_JP_V2,true
+esim_20GB_30D_JP_V2,Japan,Japan 20GB - 30 days,20000,30,33768,esim_20GB_30D_JP_V2,true
+esim_1GB_7D_JE_V2,Jersey,Jersey 1GB - 7 days,1000,7,5688,esim_1GB_7D_JE_V2,true
+esim_2GB_15D_JE_V2,Jersey,Jersey 2GB - 15 days,2000,15,10278,esim_2GB_15D_JE_V2,true
+esim_3GB_30D_JE_V2,Jersey,Jersey 3GB - 30 days,3000,30,14076,esim_3GB_30D_JE_V2,true
+esim_5GB_30D_JE_V2,Jersey,Jersey 5GB - 30 days,5000,30,22734,esim_5GB_30D_JE_V2,true
+esim_10GB_30D_JE_V2,Jersey,Jersey 10GB - 30 days,10000,30,39204,esim_10GB_30D_JE_V2,true
+esim_20GB_30D_JE_V2,Jersey,Jersey 20GB - 30 days,20000,30,68022,esim_20GB_30D_JE_V2,true
+esim_50GB_30D_JE_V2,Jersey,Jersey 50GB - 30 days,50000,30,152388,esim_50GB_30D_JE_V2,true
+esim_100GB_30D_JE_V2,Jersey,Jersey 100GB - 30 days,100000,30,259776,esim_100GB_30D_JE_V2,true
+esim_1GB_7D_JO_V2,Jordan,Jordan 1GB - 7 days,1000,7,2952,esim_1GB_7D_JO_V2,true
+esim_2GB_15D_JO_V2,Jordan,Jordan 2GB - 15 days,2000,15,5004,esim_2GB_15D_JO_V2,true
+esim_3GB_30D_JO_V2,Jordan,Jordan 3GB - 30 days,3000,30,6714,esim_3GB_30D_JO_V2,true
+esim_5GB_30D_JO_V2,Jordan,Jordan 5GB - 30 days,5000,30,11772,esim_5GB_30D_JO_V2,true
+esim_10GB_30D_JO_V2,Jordan,Jordan 10GB - 30 days,10000,30,20916,esim_10GB_30D_JO_V2,true
+esim_20GB_30D_JO_V2,Jordan,Jordan 20GB - 30 days,20000,30,36918,esim_20GB_30D_JO_V2,true
+esim_50GB_30D_JO_V2,Jordan,Jordan 50GB - 30 days,50000,30,74394,esim_50GB_30D_JO_V2,true
+esim_100GB_30D_JO_V2,Jordan,Jordan 100GB - 30 days,100000,30,127494,esim_100GB_30D_JO_V2,true
+esim_1GB_7D_KZ_V2,Kazakhstan,Kazakhstan 1GB - 7 days,1000,7,10260,esim_1GB_7D_KZ_V2,true
+esim_2GB_15D_KZ_V2,Kazakhstan,Kazakhstan 2GB - 15 days,2000,15,18486,esim_2GB_15D_KZ_V2,true
+esim_3GB_30D_KZ_V2,Kazakhstan,Kazakhstan 3GB - 30 days,3000,30,25686,esim_3GB_30D_KZ_V2,true
+esim_5GB_30D_KZ_V2,Kazakhstan,Kazakhstan 5GB - 30 days,5000,30,39564,esim_5GB_30D_KZ_V2,true
+esim_10GB_30D_KZ_V2,Kazakhstan,Kazakhstan 10GB - 30 days,10000,30,62676,esim_10GB_30D_KZ_V2,true
+esim_20GB_30D_KZ_V2,Kazakhstan,Kazakhstan 20GB - 30 days,20000,30,103788,esim_20GB_30D_KZ_V2,true
+esim_50GB_30D_KZ_V2,Kazakhstan,Kazakhstan 50GB - 30 days,50000,30,232254,esim_50GB_30D_KZ_V2,true
+esim_100GB_30D_KZ_V2,Kazakhstan,Kazakhstan 100GB - 30 days,100000,30,412110,esim_100GB_30D_KZ_V2,true
+esim_1GB_7D_KE_V2,Kenya,Kenya 1GB - 7 days,1000,7,11412,esim_1GB_7D_KE_V2,true
+esim_2GB_15D_KE_V2,Kenya,Kenya 2GB - 15 days,2000,15,19674,esim_2GB_15D_KE_V2,true
+esim_3GB_30D_KE_V2,Kenya,Kenya 3GB - 30 days,3000,30,26892,esim_3GB_30D_KE_V2,true
+esim_5GB_30D_KE_V2,Kenya,Kenya 5GB - 30 days,5000,30,40824,esim_5GB_30D_KE_V2,true
+esim_10GB_30D_KE_V2,Kenya,Kenya 10GB - 30 days,10000,30,64062,esim_10GB_30D_KE_V2,true
+esim_20GB_30D_KE_V2,Kenya,Kenya 20GB - 30 days,20000,30,112950,esim_20GB_30D_KE_V2,true
+esim_50GB_30D_KE_V2,Kenya,Kenya 50GB - 30 days,50000,30,234396,esim_50GB_30D_KE_V2,true
+esim_100GB_30D_KE_V2,Kenya,Kenya 100GB - 30 days,100000,30,415062,esim_100GB_30D_KE_V2,true
+esim_1GB_7D_KR_V2,Korea-Republic of,Korea-Republic of 1GB - 7 days,1000,7,5634,esim_1GB_7D_KR_V2,true
+esim_2GB_15D_KR_V2,Korea-Republic of,Korea-Republic of 2GB - 15 days,2000,15,9756,esim_2GB_15D_KR_V2,true
+esim_3GB_30D_KR_V2,Korea-Republic of,Korea-Republic of 3GB - 30 days,3000,30,13356,esim_3GB_30D_KR_V2,true
+esim_5GB_30D_KR_V2,Korea-Republic of,Korea-Republic of 5GB - 30 days,5000,30,20286,esim_5GB_30D_KR_V2,true
+esim_10GB_30D_KR_V2,Korea-Republic of,Korea-Republic of 10GB - 30 days,10000,30,31842,esim_10GB_30D_KR_V2,true
+esim_20GB_30D_KR_V2,Korea-Republic of,Korea-Republic of 20GB - 30 days,20000,30,52398,esim_20GB_30D_KR_V2,true
+esim_50GB_30D_KR_V2,Korea-Republic of,Korea-Republic of 50GB - 30 days,50000,30,151632,esim_50GB_30D_KR_V2,true
+esim_100GB_30D_KR_V2,Korea-Republic of,Korea-Republic of 100GB - 30 days,100000,30,206568,esim_100GB_30D_KR_V2,true
+esim_1GB_7D_KW_V2,Kuwait,Kuwait 1GB - 7 days,1000,7,4734,esim_1GB_7D_KW_V2,true
+esim_2GB_15D_KW_V2,Kuwait,Kuwait 2GB - 15 days,2000,15,7416,esim_2GB_15D_KW_V2,true
+esim_3GB_30D_KW_V2,Kuwait,Kuwait 3GB - 30 days,3000,30,11574,esim_3GB_30D_KW_V2,true
+esim_5GB_30D_KW_V2,Kuwait,Kuwait 5GB - 30 days,5000,30,16956,esim_5GB_30D_KW_V2,true
+esim_10GB_30D_KW_V2,Kuwait,Kuwait 10GB - 30 days,10000,30,28602,esim_10GB_30D_KW_V2,true
+esim_20GB_30D_KW_V2,Kuwait,Kuwait 20GB - 30 days,20000,30,55080,esim_20GB_30D_KW_V2,true
+esim_50GB_30D_KW_V2,Kuwait,Kuwait 50GB - 30 days,50000,30,116532,esim_50GB_30D_KW_V2,true
+esim_100GB_30D_KW_V2,Kuwait,Kuwait 100GB - 30 days,100000,30,203094,esim_100GB_30D_KW_V2,true
+esim_1GB_7D_KG_V2,Kyrgyzstan,Kyrgyzstan 1GB - 7 days,1000,7,3906,esim_1GB_7D_KG_V2,true
+esim_2GB_15D_KG_V2,Kyrgyzstan,Kyrgyzstan 2GB - 15 days,2000,15,7272,esim_2GB_15D_KG_V2,true
+esim_3GB_30D_KG_V2,Kyrgyzstan,Kyrgyzstan 3GB - 30 days,3000,30,9576,esim_3GB_30D_KG_V2,true
+esim_5GB_30D_KG_V2,Kyrgyzstan,Kyrgyzstan 5GB - 30 days,5000,30,14148,esim_5GB_30D_KG_V2,true
+esim_10GB_30D_KG_V2,Kyrgyzstan,Kyrgyzstan 10GB - 30 days,10000,30,23742,esim_10GB_30D_KG_V2,true
+esim_20GB_30D_KG_V2,Kyrgyzstan,Kyrgyzstan 20GB - 30 days,20000,30,45360,esim_20GB_30D_KG_V2,true
+esim_50GB_30D_KG_V2,Kyrgyzstan,Kyrgyzstan 50GB - 30 days,50000,30,77778,esim_50GB_30D_KG_V2,true
+esim_100GB_30D_KG_V2,Kyrgyzstan,Kyrgyzstan 100GB - 30 days,100000,30,135630,esim_100GB_30D_KG_V2,true
+esim_1GB_7D_LA_V2,Laos,Laos 1GB - 7 days,1000,7,26982,esim_1GB_7D_LA_V2,true
+esim_2GB_15D_LA_V2,Laos,Laos 2GB - 15 days,2000,15,52956,esim_2GB_15D_LA_V2,true
+esim_3GB_30D_LA_V2,Laos,Laos 3GB - 30 days,3000,30,74502,esim_3GB_30D_LA_V2,true
+esim_5GB_30D_LA_V2,Laos,Laos 5GB - 30 days,5000,30,123498,esim_5GB_30D_LA_V2,true
+esim_10GB_30D_LA_V2,Laos,Laos 10GB - 30 days,10000,30,227448,esim_10GB_30D_LA_V2,true
+esim_1GB_7D_LV_V2,Latvia,Latvia 1GB - 7 days,1000,7,3006,esim_1GB_7D_LV_V2,true
+esim_2GB_15D_LV_V2,Latvia,Latvia 2GB - 15 days,2000,15,5292,esim_2GB_15D_LV_V2,true
+esim_3GB_30D_LV_V2,Latvia,Latvia 3GB - 30 days,3000,30,6804,esim_3GB_30D_LV_V2,true
+esim_5GB_30D_LV_V2,Latvia,Latvia 5GB - 30 days,5000,30,9414,esim_5GB_30D_LV_V2,true
+esim_10GB_30D_LV_V2,Latvia,Latvia 10GB - 30 days,10000,30,14868,esim_10GB_30D_LV_V2,true
+esim_20GB_30D_LV_V2,Latvia,Latvia 20GB - 30 days,20000,30,24858,esim_20GB_30D_LV_V2,true
+esim_50GB_30D_LV_V2,Latvia,Latvia 50GB - 30 days,50000,30,55710,esim_50GB_30D_LV_V2,true
+esim_100GB_30D_LV_V2,Latvia,Latvia 100GB - 30 days,100000,30,110268,esim_100GB_30D_LV_V2,true
+esim_1GB_7D_LS_V2,Lesotho,Lesotho 1GB - 7 days,1000,7,6012,esim_1GB_7D_LS_V2,true
+esim_2GB_15D_LS_V2,Lesotho,Lesotho 2GB - 15 days,2000,15,10764,esim_2GB_15D_LS_V2,true
+esim_3GB_30D_LS_V2,Lesotho,Lesotho 3GB - 30 days,3000,30,14688,esim_3GB_30D_LS_V2,true
+esim_5GB_30D_LS_V2,Lesotho,Lesotho 5GB - 30 days,5000,30,23634,esim_5GB_30D_LS_V2,true
+esim_10GB_30D_LS_V2,Lesotho,Lesotho 10GB - 30 days,10000,30,42624,esim_10GB_30D_LS_V2,true
+esim_20GB_30D_LS_V2,Lesotho,Lesotho 20GB - 30 days,20000,30,75870,esim_20GB_30D_LS_V2,true
+esim_50GB_30D_LS_V2,Lesotho,Lesotho 50GB - 30 days,50000,30,170838,esim_50GB_30D_LS_V2,true
+esim_100GB_30D_LS_V2,Lesotho,Lesotho 100GB - 30 days,100000,30,273690,esim_100GB_30D_LS_V2,true
+esim_1GB_7D_LR_V2,Liberia,Liberia 1GB - 7 days,1000,7,24516,esim_1GB_7D_LR_V2,true
+esim_2GB_15D_LR_V2,Liberia,Liberia 2GB - 15 days,2000,15,47718,esim_2GB_15D_LR_V2,true
+esim_3GB_30D_LR_V2,Liberia,Liberia 3GB - 30 days,3000,30,66960,esim_3GB_30D_LR_V2,true
+esim_5GB_30D_LR_V2,Liberia,Liberia 5GB - 30 days,5000,30,110736,esim_5GB_30D_LR_V2,true
+esim_10GB_30D_LR_V2,Liberia,Liberia 10GB - 30 days,10000,30,203580,esim_10GB_30D_LR_V2,true
+esim_1GB_7D_LI_V2,Liechtenstein,Liechtenstein 1GB - 7 days,1000,7,2340,esim_1GB_7D_LI_V2,true
+esim_2GB_15D_LI_V2,Liechtenstein,Liechtenstein 2GB - 15 days,2000,15,4122,esim_2GB_15D_LI_V2,true
+esim_3GB_30D_LI_V2,Liechtenstein,Liechtenstein 3GB - 30 days,3000,30,5310,esim_3GB_30D_LI_V2,true
+esim_5GB_30D_LI_V2,Liechtenstein,Liechtenstein 5GB - 30 days,5000,30,7344,esim_5GB_30D_LI_V2,true
+esim_10GB_30D_LI_V2,Liechtenstein,Liechtenstein 10GB - 30 days,10000,30,11592,esim_10GB_30D_LI_V2,true
+esim_20GB_30D_LI_V2,Liechtenstein,Liechtenstein 20GB - 30 days,20000,30,19386,esim_20GB_30D_LI_V2,true
+esim_50GB_30D_LI_V2,Liechtenstein,Liechtenstein 50GB - 30 days,50000,30,43452,esim_50GB_30D_LI_V2,true
+esim_100GB_30D_LI_V2,Liechtenstein,Liechtenstein 100GB - 30 days,100000,30,86022,esim_100GB_30D_LI_V2,true
+esim_1GB_7D_LT_V2,Lithuania,Lithuania 1GB - 7 days,1000,7,2898,esim_1GB_7D_LT_V2,true
+esim_2GB_15D_LT_V2,Lithuania,Lithuania 2GB - 15 days,2000,15,5112,esim_2GB_15D_LT_V2,true
+esim_3GB_30D_LT_V2,Lithuania,Lithuania 3GB - 30 days,3000,30,6588,esim_3GB_30D_LT_V2,true
+esim_5GB_30D_LT_V2,Lithuania,Lithuania 5GB - 30 days,5000,30,9108,esim_5GB_30D_LT_V2,true
+esim_10GB_30D_LT_V2,Lithuania,Lithuania 10GB - 30 days,10000,30,14364,esim_10GB_30D_LT_V2,true
+esim_20GB_30D_LT_V2,Lithuania,Lithuania 20GB - 30 days,20000,30,24030,esim_20GB_30D_LT_V2,true
+esim_50GB_30D_LT_V2,Lithuania,Lithuania 50GB - 30 days,50000,30,53874,esim_50GB_30D_LT_V2,true
+esim_100GB_30D_LT_V2,Lithuania,Lithuania 100GB - 30 days,100000,30,106650,esim_100GB_30D_LT_V2,true
+esim_1GB_7D_LU_V2,Luxembourg,Luxembourg 1GB - 7 days,1000,7,2340,esim_1GB_7D_LU_V2,true
+esim_2GB_15D_LU_V2,Luxembourg,Luxembourg 2GB - 15 days,2000,15,4122,esim_2GB_15D_LU_V2,true
+esim_3GB_30D_LU_V2,Luxembourg,Luxembourg 3GB - 30 days,3000,30,5310,esim_3GB_30D_LU_V2,true
+esim_5GB_30D_LU_V2,Luxembourg,Luxembourg 5GB - 30 days,5000,30,7344,esim_5GB_30D_LU_V2,true
+esim_10GB_30D_LU_V2,Luxembourg,Luxembourg 10GB - 30 days,10000,30,11592,esim_10GB_30D_LU_V2,true
+esim_20GB_30D_LU_V2,Luxembourg,Luxembourg 20GB - 30 days,20000,30,22446,esim_20GB_30D_LU_V2,true
+esim_50GB_30D_LU_V2,Luxembourg,Luxembourg 50GB - 30 days,50000,30,43452,esim_50GB_30D_LU_V2,true
+esim_100GB_30D_LU_V2,Luxembourg,Luxembourg 100GB - 30 days,100000,30,86022,esim_100GB_30D_LU_V2,true
+esim_1GB_7D_MO_V2,Macao,Macao 1GB - 7 days,1000,7,13518,esim_1GB_7D_MO_V2,true
+esim_2GB_15D_MO_V2,Macao,Macao 2GB - 15 days,2000,15,24966,esim_2GB_15D_MO_V2,true
+esim_3GB_30D_MO_V2,Macao,Macao 3GB - 30 days,3000,30,37836,esim_3GB_30D_MO_V2,true
+esim_5GB_30D_MO_V2,Macao,Macao 5GB - 30 days,5000,30,61866,esim_5GB_30D_MO_V2,true
+esim_10GB_30D_MO_V2,Macao,Macao 10GB - 30 days,10000,30,121968,esim_10GB_30D_MO_V2,true
+esim_20GB_30D_MO_V2,Macao,Macao 20GB - 30 days,20000,30,233694,esim_20GB_30D_MO_V2,true
+esim_50GB_30D_MO_V2,Macao,Macao 50GB - 30 days,50000,30,496710,esim_50GB_30D_MO_V2,true
+esim_100GB_30D_MO_V2,Macao,Macao 100GB - 30 days,100000,30,850248,esim_100GB_30D_MO_V2,true
+esim_1GB_7D_MK_V2,Macedonia,Macedonia 1GB - 7 days,1000,7,3960,esim_1GB_7D_MK_V2,true
+esim_2GB_15D_MK_V2,Macedonia,Macedonia 2GB - 15 days,2000,15,5922,esim_2GB_15D_MK_V2,true
+esim_3GB_30D_MK_V2,Macedonia,Macedonia 3GB - 30 days,3000,30,7650,esim_3GB_30D_MK_V2,true
+esim_5GB_30D_MK_V2,Macedonia,Macedonia 5GB - 30 days,5000,30,10962,esim_5GB_30D_MK_V2,true
+esim_10GB_30D_MK_V2,Macedonia,Macedonia 10GB - 30 days,10000,30,16488,esim_10GB_30D_MK_V2,true
+esim_20GB_30D_MK_V2,Macedonia,Macedonia 20GB - 30 days,20000,30,26334,esim_20GB_30D_MK_V2,true
+esim_50GB_30D_MK_V2,Macedonia,Macedonia 50GB - 30 days,50000,30,57060,esim_50GB_30D_MK_V2,true
+esim_100GB_30D_MK_V2,Macedonia,Macedonia 100GB - 30 days,100000,30,100080,esim_100GB_30D_MK_V2,true
+esim_1GB_7D_MG_V2,Madagascar,Madagascar 1GB - 7 days,1000,7,17442,esim_1GB_7D_MG_V2,true
+esim_2GB_15D_MG_V2,Madagascar,Madagascar 2GB - 15 days,2000,15,31158,esim_2GB_15D_MG_V2,true
+esim_3GB_30D_MG_V2,Madagascar,Madagascar 3GB - 30 days,3000,30,43146,esim_3GB_30D_MG_V2,true
+esim_5GB_30D_MG_V2,Madagascar,Madagascar 5GB - 30 days,5000,30,66258,esim_5GB_30D_MG_V2,true
+esim_10GB_30D_MG_V2,Madagascar,Madagascar 10GB - 30 days,10000,30,100638,esim_10GB_30D_MG_V2,true
+esim_20GB_30D_MG_V2,Madagascar,Madagascar 20GB - 30 days,20000,30,200070,esim_20GB_30D_MG_V2,true
+esim_1GB_7D_MW_V2,Malawi,Malawi 1GB - 7 days,1000,7,18666,esim_1GB_7D_MW_V2,true
+esim_2GB_15D_MW_V2,Malawi,Malawi 2GB - 15 days,2000,15,36324,esim_2GB_15D_MW_V2,true
+esim_3GB_30D_MW_V2,Malawi,Malawi 3GB - 30 days,3000,30,50976,esim_3GB_30D_MW_V2,true
+esim_5GB_30D_MW_V2,Malawi,Malawi 5GB - 30 days,5000,30,84294,esim_5GB_30D_MW_V2,true
+esim_10GB_30D_MW_V2,Malawi,Malawi 10GB - 30 days,10000,30,154980,esim_10GB_30D_MW_V2,true
+esim_1GB_7D_MY_V2,Malaysia,Malaysia 1GB - 7 days,1000,7,4734,esim_1GB_7D_MY_V2,true
+esim_2GB_15D_MY_V2,Malaysia,Malaysia 2GB - 15 days,2000,15,8478,esim_2GB_15D_MY_V2,true
+esim_3GB_30D_MY_V2,Malaysia,Malaysia 3GB - 30 days,3000,30,11574,esim_3GB_30D_MY_V2,true
+esim_5GB_30D_MY_V2,Malaysia,Malaysia 5GB - 30 days,5000,30,18270,esim_5GB_30D_MY_V2,true
+esim_10GB_30D_MY_V2,Malaysia,Malaysia 10GB - 30 days,10000,30,31374,esim_10GB_30D_MY_V2,true
+esim_20GB_30D_MY_V2,Malaysia,Malaysia 20GB - 30 days,20000,30,54414,esim_20GB_30D_MY_V2,true
+esim_50GB_30D_MY_V2,Malaysia,Malaysia 50GB - 30 days,50000,30,121734,esim_50GB_30D_MY_V2,true
+esim_100GB_30D_MY_V2,Malaysia,Malaysia 100GB - 30 days,100000,30,208566,esim_100GB_30D_MY_V2,true
+esim_1GB_7D_ML_V2,Mali,Mali 1GB - 7 days,1000,7,9468,esim_1GB_7D_ML_V2,true
+esim_2GB_15D_ML_V2,Mali,Mali 2GB - 15 days,2000,15,17334,esim_2GB_15D_ML_V2,true
+esim_3GB_30D_ML_V2,Mali,Mali 3GB - 30 days,3000,30,25974,esim_3GB_30D_ML_V2,true
+esim_5GB_30D_ML_V2,Mali,Mali 5GB - 30 days,5000,30,42120,esim_5GB_30D_ML_V2,true
+esim_10GB_30D_ML_V2,Mali,Mali 10GB - 30 days,10000,30,82476,esim_10GB_30D_ML_V2,true
+esim_20GB_30D_ML_V2,Mali,Mali 20GB - 30 days,20000,30,157482,esim_20GB_30D_ML_V2,true
+esim_50GB_30D_ML_V2,Mali,Mali 50GB - 30 days,50000,30,334062,esim_50GB_30D_ML_V2,true
+esim_100GB_30D_ML_V2,Mali,Mali 100GB - 30 days,100000,30,571428,esim_100GB_30D_ML_V2,true
+esim_1GB_7D_MT_V2,Malta,Malta 1GB - 7 days,1000,7,2196,esim_1GB_7D_MT_V2,true
+esim_2GB_15D_MT_V2,Malta,Malta 2GB - 15 days,2000,15,3978,esim_2GB_15D_MT_V2,true
+esim_3GB_30D_MT_V2,Malta,Malta 3GB - 30 days,3000,30,5112,esim_3GB_30D_MT_V2,true
+esim_5GB_30D_MT_V2,Malta,Malta 5GB - 30 days,5000,30,7200,esim_5GB_30D_MT_V2,true
+esim_10GB_30D_MT_V2,Malta,Malta 10GB - 30 days,10000,30,11592,esim_10GB_30D_MT_V2,true
+esim_20GB_30D_MT_V2,Malta,Malta 20GB - 30 days,20000,30,23256,esim_20GB_30D_MT_V2,true
+esim_50GB_30D_MT_V2,Malta,Malta 50GB - 30 days,50000,30,42588,esim_50GB_30D_MT_V2,true
+esim_100GB_30D_MT_V2,Malta,Malta 100GB - 30 days,100000,30,84348,esim_100GB_30D_MT_V2,true
+esim_1GB_7D_MQ_V2,Martinique,Martinique 1GB - 7 days,1000,7,9306,esim_1GB_7D_MQ_V2,true
+esim_2GB_15D_MQ_V2,Martinique,Martinique 2GB - 15 days,2000,15,17622,esim_2GB_15D_MQ_V2,true
+esim_3GB_30D_MQ_V2,Martinique,Martinique 3GB - 30 days,3000,30,24516,esim_3GB_30D_MQ_V2,true
+esim_5GB_30D_MQ_V2,Martinique,Martinique 5GB - 30 days,5000,30,40194,esim_5GB_30D_MQ_V2,true
+esim_10GB_30D_MQ_V2,Martinique,Martinique 10GB - 30 days,10000,30,73458,esim_10GB_30D_MQ_V2,true
+esim_20GB_30D_MQ_V2,Martinique,Martinique 20GB - 30 days,20000,30,131670,esim_20GB_30D_MQ_V2,true
+esim_1GB_7D_MR_V2,Mauritania,Mauritania 1GB - 7 days,1000,7,26946,esim_1GB_7D_MR_V2,true
+esim_2GB_15D_MR_V2,Mauritania,Mauritania 2GB - 15 days,2000,15,52776,esim_2GB_15D_MR_V2,true
+esim_3GB_30D_MR_V2,Mauritania,Mauritania 3GB - 30 days,3000,30,74160,esim_3GB_30D_MR_V2,true
+esim_5GB_30D_MR_V2,Mauritania,Mauritania 5GB - 30 days,5000,30,122886,esim_5GB_30D_MR_V2,true
+esim_10GB_30D_MR_V2,Mauritania,Mauritania 10GB - 30 days,10000,30,270360,esim_10GB_30D_MR_V2,true
+esim_1GB_7D_MU_V2,Mauritius,Mauritius 1GB - 7 days,1000,7,6822,esim_1GB_7D_MU_V2,true
+esim_2GB_15D_MU_V2,Mauritius,Mauritius 2GB - 15 days,2000,15,11970,esim_2GB_15D_MU_V2,true
+esim_3GB_30D_MU_V2,Mauritius,Mauritius 3GB - 30 days,3000,30,16452,esim_3GB_30D_MU_V2,true
+esim_5GB_30D_MU_V2,Mauritius,Mauritius 5GB - 30 days,5000,30,25128,esim_5GB_30D_MU_V2,true
+esim_10GB_30D_MU_V2,Mauritius,Mauritius 10GB - 30 days,10000,30,39564,esim_10GB_30D_MU_V2,true
+esim_20GB_30D_MU_V2,Mauritius,Mauritius 20GB - 30 days,20000,30,65250,esim_20GB_30D_MU_V2,true
+esim_50GB_30D_MU_V2,Mauritius,Mauritius 50GB - 30 days,50000,30,145494,esim_50GB_30D_MU_V2,true
+esim_100GB_30D_MU_V2,Mauritius,Mauritius 100GB - 30 days,100000,30,257850,esim_100GB_30D_MU_V2,true
+esim_1GB_7D_YT_V2,Mayotte,Mayotte 1GB - 7 days,1000,7,5148,esim_1GB_7D_YT_V2,true
+esim_2GB_15D_YT_V2,Mayotte,Mayotte 2GB - 15 days,2000,15,9306,esim_2GB_15D_YT_V2,true
+esim_3GB_30D_YT_V2,Mayotte,Mayotte 3GB - 30 days,3000,30,12744,esim_3GB_30D_YT_V2,true
+esim_5GB_30D_YT_V2,Mayotte,Mayotte 5GB - 30 days,5000,30,20592,esim_5GB_30D_YT_V2,true
+esim_10GB_30D_YT_V2,Mayotte,Mayotte 10GB - 30 days,10000,30,37224,esim_10GB_30D_YT_V2,true
+esim_20GB_30D_YT_V2,Mayotte,Mayotte 20GB - 30 days,20000,30,66330,esim_20GB_30D_YT_V2,true
+esim_50GB_30D_YT_V2,Mayotte,Mayotte 50GB - 30 days,50000,30,149490,esim_50GB_30D_YT_V2,true
+esim_100GB_30D_YT_V2,Mayotte,Mayotte 100GB - 30 days,100000,30,253494,esim_100GB_30D_YT_V2,true
+esim_1GB_7D_MX_V2,Mexico,Mexico 1GB - 7 days,1000,7,4068,esim_1GB_7D_MX_V2,true
+esim_2GB_15D_MX_V2,Mexico,Mexico 2GB - 15 days,2000,15,6498,esim_2GB_15D_MX_V2,true
+esim_3GB_30D_MX_V2,Mexico,Mexico 3GB - 30 days,3000,30,8622,esim_3GB_30D_MX_V2,true
+esim_5GB_30D_MX_V2,Mexico,Mexico 5GB - 30 days,5000,30,12708,esim_5GB_30D_MX_V2,true
+esim_10GB_30D_MX_V2,Mexico,Mexico 10GB - 30 days,10000,30,25164,esim_10GB_30D_MX_V2,true
+esim_20GB_30D_MX_V2,Mexico,Mexico 20GB - 30 days,20000,30,41112,esim_20GB_30D_MX_V2,true
+esim_50GB_30D_MX_V2,Mexico,Mexico 50GB - 30 days,50000,30,69480,esim_50GB_30D_MX_V2,true
+esim_100GB_30D_MX_V2,Mexico,Mexico 100GB - 30 days,100000,30,122454,esim_100GB_30D_MX_V2,true
+esim_1GB_7D_MD_V2,Moldova,Moldova 1GB - 7 days,1000,7,4644,esim_1GB_7D_MD_V2,true
+esim_2GB_15D_MD_V2,Moldova,Moldova 2GB - 15 days,2000,15,6534,esim_2GB_15D_MD_V2,true
+esim_3GB_30D_MD_V2,Moldova,Moldova 3GB - 30 days,3000,30,8172,esim_3GB_30D_MD_V2,true
+esim_5GB_30D_MD_V2,Moldova,Moldova 5GB - 30 days,5000,30,10224,esim_5GB_30D_MD_V2,true
+esim_10GB_30D_MD_V2,Moldova,Moldova 10GB - 30 days,10000,30,15030,esim_10GB_30D_MD_V2,true
+esim_20GB_30D_MD_V2,Moldova,Moldova 20GB - 30 days,20000,30,23526,esim_20GB_30D_MD_V2,true
+esim_50GB_30D_MD_V2,Moldova,Moldova 50GB - 30 days,50000,30,50094,esim_50GB_30D_MD_V2,true
+esim_100GB_30D_MD_V2,Moldova,Moldova 100GB - 30 days,100000,30,87264,esim_100GB_30D_MD_V2,true
+esim_1GB_7D_MC_V2,Monaco,Monaco 1GB - 7 days,1000,7,18666,esim_1GB_7D_MC_V2,true
+esim_2GB_15D_MC_V2,Monaco,Monaco 2GB - 15 days,2000,15,36324,esim_2GB_15D_MC_V2,true
+esim_3GB_30D_MC_V2,Monaco,Monaco 3GB - 30 days,3000,30,50976,esim_3GB_30D_MC_V2,true
+esim_5GB_30D_MC_V2,Monaco,Monaco 5GB - 30 days,5000,30,84294,esim_5GB_30D_MC_V2,true
+esim_10GB_30D_MC_V2,Monaco,Monaco 10GB - 30 days,10000,30,154980,esim_10GB_30D_MC_V2,true
+esim_1GB_7D_MN_V2,Mongolia,Mongolia 1GB - 7 days,1000,7,44334,esim_1GB_7D_MN_V2,true
+esim_2GB_15D_MN_V2,Mongolia,Mongolia 2GB - 15 days,2000,15,81936,esim_2GB_15D_MN_V2,true
+esim_3GB_30D_MN_V2,Mongolia,Mongolia 3GB - 30 days,3000,30,114840,esim_3GB_30D_MN_V2,true
+esim_5GB_30D_MN_V2,Mongolia,Mongolia 5GB - 30 days,5000,30,178290,esim_5GB_30D_MN_V2,true
+esim_10GB_30D_MN_V2,Mongolia,Mongolia 10GB - 30 days,10000,30,284040,esim_10GB_30D_MN_V2,true
+esim_1GB_7D_ME_V2,Montenegro,Montenegro 1GB - 7 days,1000,7,4374,esim_1GB_7D_ME_V2,true
+esim_2GB_15D_ME_V2,Montenegro,Montenegro 2GB - 15 days,2000,15,6588,esim_2GB_15D_ME_V2,true
+esim_3GB_30D_ME_V2,Montenegro,Montenegro 3GB - 30 days,3000,30,8550,esim_3GB_30D_ME_V2,true
+esim_5GB_30D_ME_V2,Montenegro,Montenegro 5GB - 30 days,5000,30,12312,esim_5GB_30D_ME_V2,true
+esim_10GB_30D_ME_V2,Montenegro,Montenegro 10GB - 30 days,10000,30,18576,esim_10GB_30D_ME_V2,true
+esim_20GB_30D_ME_V2,Montenegro,Montenegro 20GB - 30 days,20000,30,29736,esim_20GB_30D_ME_V2,true
+esim_50GB_30D_ME_V2,Montenegro,Montenegro 50GB - 30 days,50000,30,64566,esim_50GB_30D_ME_V2,true
+esim_100GB_30D_ME_V2,Montenegro,Montenegro 100GB - 30 days,100000,30,113346,esim_100GB_30D_ME_V2,true
+esim_1GB_7D_MS_V2,Montserrat,Montserrat 1GB - 7 days,1000,7,11772,esim_1GB_7D_MS_V2,true
+esim_2GB_15D_MS_V2,Montserrat,Montserrat 2GB - 15 days,2000,15,20934,esim_2GB_15D_MS_V2,true
+esim_3GB_30D_MS_V2,Montserrat,Montserrat 3GB - 30 days,3000,30,29502,esim_3GB_30D_MS_V2,true
+esim_5GB_30D_MS_V2,Montserrat,Montserrat 5GB - 30 days,5000,30,42660,esim_5GB_30D_MS_V2,true
+esim_10GB_30D_MS_V2,Montserrat,Montserrat 10GB - 30 days,10000,30,73782,esim_10GB_30D_MS_V2,true
+esim_20GB_30D_MS_V2,Montserrat,Montserrat 20GB - 30 days,20000,30,124182,esim_20GB_30D_MS_V2,true
+esim_1GB_7D_MA_V2,Morocco,Morocco 1GB - 7 days,1000,7,4104,esim_1GB_7D_MA_V2,true
+esim_2GB_15D_MA_V2,Morocco,Morocco 2GB - 15 days,2000,15,7218,esim_2GB_15D_MA_V2,true
+esim_3GB_30D_MA_V2,Morocco,Morocco 3GB - 30 days,3000,30,9810,esim_3GB_30D_MA_V2,true
+esim_5GB_30D_MA_V2,Morocco,Morocco 5GB - 30 days,5000,30,15696,esim_5GB_30D_MA_V2,true
+esim_10GB_30D_MA_V2,Morocco,Morocco 10GB - 30 days,10000,30,28170,esim_10GB_30D_MA_V2,true
+esim_20GB_30D_MA_V2,Morocco,Morocco 20GB - 30 days,20000,30,49986,esim_20GB_30D_MA_V2,true
+esim_50GB_30D_MA_V2,Morocco,Morocco 50GB - 30 days,50000,30,112356,esim_50GB_30D_MA_V2,true
+esim_100GB_30D_MA_V2,Morocco,Morocco 100GB - 30 days,100000,30,165294,esim_100GB_30D_MA_V2,true
+esim_1GB_7D_MZ_V2,Mozambique,Mozambique 1GB - 7 days,1000,7,61398,esim_1GB_7D_MZ_V2,true
+esim_2GB_15D_MZ_V2,Mozambique,Mozambique 2GB - 15 days,2000,15,123084,esim_2GB_15D_MZ_V2,true
+esim_3GB_30D_MZ_V2,Mozambique,Mozambique 3GB - 30 days,3000,30,150948,esim_3GB_30D_MZ_V2,true
+esim_1GB_7D_NA_V2,Namibia,Namibia 1GB - 7 days,1000,7,43236,esim_1GB_7D_NA_V2,true
+esim_2GB_15D_NA_V2,Namibia,Namibia 2GB - 15 days,2000,15,78732,esim_2GB_15D_NA_V2,true
+esim_3GB_30D_NA_V2,Namibia,Namibia 3GB - 30 days,3000,30,110952,esim_3GB_30D_NA_V2,true
+esim_5GB_30D_NA_V2,Namibia,Namibia 5GB - 30 days,5000,30,184266,esim_5GB_30D_NA_V2,true
+esim_1GB_7D_NR_V2,Nauru,Nauru 1GB - 7 days,1000,7,49212,esim_1GB_7D_NR_V2,true
+esim_2GB_15D_NR_V2,Nauru,Nauru 2GB - 15 days,2000,15,96876,esim_2GB_15D_NR_V2,true
+esim_3GB_30D_NR_V2,Nauru,Nauru 3GB - 30 days,3000,30,136368,esim_3GB_30D_NR_V2,true
+esim_5GB_30D_NR_V2,Nauru,Nauru 5GB - 30 days,5000,30,226224,esim_5GB_30D_NR_V2,true
+esim_1GB_7D_NL_V2,Netherlands,Netherlands 1GB - 7 days,1000,7,2340,esim_1GB_7D_NL_V2,true
+esim_2GB_15D_NL_V2,Netherlands,Netherlands 2GB - 15 days,2000,15,4122,esim_2GB_15D_NL_V2,true
+esim_3GB_30D_NL_V2,Netherlands,Netherlands 3GB - 30 days,3000,30,5310,esim_3GB_30D_NL_V2,true
+esim_5GB_30D_NL_V2,Netherlands,Netherlands 5GB - 30 days,5000,30,7344,esim_5GB_30D_NL_V2,true
+esim_10GB_30D_NL_V2,Netherlands,Netherlands 10GB - 30 days,10000,30,11592,esim_10GB_30D_NL_V2,true
+esim_20GB_30D_NL_V2,Netherlands,Netherlands 20GB - 30 days,20000,30,19386,esim_20GB_30D_NL_V2,true
+esim_50GB_30D_NL_V2,Netherlands,Netherlands 50GB - 30 days,50000,30,43452,esim_50GB_30D_NL_V2,true
+esim_100GB_30D_NL_V2,Netherlands,Netherlands 100GB - 30 days,100000,30,86022,esim_100GB_30D_NL_V2,true
+esim_1GB_7D_AN_V2,Netherlands Antilles,Netherlands Antilles 1GB - 7 days,1000,7,11772,esim_1GB_7D_AN_V2,true
+esim_2GB_15D_AN_V2,Netherlands Antilles,Netherlands Antilles 2GB - 15 days,2000,15,20934,esim_2GB_15D_AN_V2,true
+esim_3GB_30D_AN_V2,Netherlands Antilles,Netherlands Antilles 3GB - 30 days,3000,30,29502,esim_3GB_30D_AN_V2,true
+esim_5GB_30D_AN_V2,Netherlands Antilles,Netherlands Antilles 5GB - 30 days,5000,30,42660,esim_5GB_30D_AN_V2,true
+esim_10GB_30D_AN_V2,Netherlands Antilles,Netherlands Antilles 10GB - 30 days,10000,30,73782,esim_10GB_30D_AN_V2,true
+esim_20GB_30D_AN_V2,Netherlands Antilles,Netherlands Antilles 20GB - 30 days,20000,30,124182,esim_20GB_30D_AN_V2,true
+esim_1GB_7D_NZ_V2,New Zealand,New Zealand 1GB - 7 days,1000,7,2736,esim_1GB_7D_NZ_V2,true
+esim_2GB_15D_NZ_V2,New Zealand,New Zealand 2GB - 15 days,2000,15,4752,esim_2GB_15D_NZ_V2,true
+esim_3GB_30D_NZ_V2,New Zealand,New Zealand 3GB - 30 days,3000,30,6516,esim_3GB_30D_NZ_V2,true
+esim_5GB_30D_NZ_V2,New Zealand,New Zealand 5GB - 30 days,5000,30,9918,esim_5GB_30D_NZ_V2,true
+esim_10GB_30D_NZ_V2,New Zealand,New Zealand 10GB - 30 days,10000,30,15588,esim_10GB_30D_NZ_V2,true
+esim_20GB_30D_NZ_V2,New Zealand,New Zealand 20GB - 30 days,20000,30,25686,esim_20GB_30D_NZ_V2,true
+esim_50GB_30D_NZ_V2,New Zealand,New Zealand 50GB - 30 days,50000,30,57204,esim_50GB_30D_NZ_V2,true
+esim_100GB_30D_NZ_V2,New Zealand,New Zealand 100GB - 30 days,100000,30,111546,esim_100GB_30D_NZ_V2,true
+esim_1GB_7D_NI_V2,Nicaragua,Nicaragua 1GB - 7 days,1000,7,8694,esim_1GB_7D_NI_V2,true
+esim_2GB_15D_NI_V2,Nicaragua,Nicaragua 2GB - 15 days,2000,15,14472,esim_2GB_15D_NI_V2,true
+esim_3GB_30D_NI_V2,Nicaragua,Nicaragua 3GB - 30 days,3000,30,18414,esim_3GB_30D_NI_V2,true
+esim_5GB_30D_NI_V2,Nicaragua,Nicaragua 5GB - 30 days,5000,30,29034,esim_5GB_30D_NI_V2,true
+esim_10GB_30D_NI_V2,Nicaragua,Nicaragua 10GB - 30 days,10000,30,45252,esim_10GB_30D_NI_V2,true
+esim_20GB_30D_NI_V2,Nicaragua,Nicaragua 20GB - 30 days,20000,30,84132,esim_20GB_30D_NI_V2,true
+esim_50GB_30D_NI_V2,Nicaragua,Nicaragua 50GB - 30 days,50000,30,170910,esim_50GB_30D_NI_V2,true
+esim_100GB_30D_NI_V2,Nicaragua,Nicaragua 100GB - 30 days,100000,30,333234,esim_100GB_30D_NI_V2,true
+esim_1GB_7D_NE_V2,Niger,Niger 1GB - 7 days,1000,7,18666,esim_1GB_7D_NE_V2,true
+esim_2GB_15D_NE_V2,Niger,Niger 2GB - 15 days,2000,15,36324,esim_2GB_15D_NE_V2,true
+esim_3GB_30D_NE_V2,Niger,Niger 3GB - 30 days,3000,30,50976,esim_3GB_30D_NE_V2,true
+esim_5GB_30D_NE_V2,Niger,Niger 5GB - 30 days,5000,30,84294,esim_5GB_30D_NE_V2,true
+esim_10GB_30D_NE_V2,Niger,Niger 10GB - 30 days,10000,30,154980,esim_10GB_30D_NE_V2,true
+esim_1GB_7D_NG_V2,Nigeria,Nigeria 1GB - 7 days,1000,7,6012,esim_1GB_7D_NG_V2,true
+esim_2GB_15D_NG_V2,Nigeria,Nigeria 2GB - 15 days,2000,15,11052,esim_2GB_15D_NG_V2,true
+esim_3GB_30D_NG_V2,Nigeria,Nigeria 3GB - 30 days,3000,30,15210,esim_3GB_30D_NG_V2,true
+esim_5GB_30D_NG_V2,Nigeria,Nigeria 5GB - 30 days,5000,30,24696,esim_5GB_30D_NG_V2,true
+esim_10GB_30D_NG_V2,Nigeria,Nigeria 10GB - 30 days,10000,30,44820,esim_10GB_30D_NG_V2,true
+esim_20GB_30D_NG_V2,Nigeria,Nigeria 20GB - 30 days,20000,30,80046,esim_20GB_30D_NG_V2,true
+esim_50GB_30D_NG_V2,Nigeria,Nigeria 50GB - 30 days,50000,30,180666,esim_50GB_30D_NG_V2,true
+esim_1GB_7D_CYP_V2,Northern Cyprus,Northern Cyprus 1GB - 7 days,1000,7,2610,esim_1GB_7D_CYP_V2,true
+esim_2GB_15D_CYP_V2,Northern Cyprus,Northern Cyprus 2GB - 15 days,2000,15,4590,esim_2GB_15D_CYP_V2,true
+esim_3GB_30D_CYP_V2,Northern Cyprus,Northern Cyprus 3GB - 30 days,3000,30,5904,esim_3GB_30D_CYP_V2,true
+esim_5GB_30D_CYP_V2,Northern Cyprus,Northern Cyprus 5GB - 30 days,5000,30,9396,esim_5GB_30D_CYP_V2,true
+esim_10GB_30D_CYP_V2,Northern Cyprus,Northern Cyprus 10GB - 30 days,10000,30,17334,esim_10GB_30D_CYP_V2,true
+esim_20GB_30D_CYP_V2,Northern Cyprus,Northern Cyprus 20GB - 30 days,20000,30,26622,esim_20GB_30D_CYP_V2,true
+esim_50GB_30D_CYP_V2,Northern Cyprus,Northern Cyprus 50GB - 30 days,50000,30,57672,esim_50GB_30D_CYP_V2,true
+esim_100GB_30D_CYP_V2,Northern Cyprus,Northern Cyprus 100GB - 30 days,100000,30,114894,esim_100GB_30D_CYP_V2,true
+esim_1GB_7D_NO_V2,Norway,Norway 1GB - 7 days,1000,7,2196,esim_1GB_7D_NO_V2,true
+esim_2GB_15D_NO_V2,Norway,Norway 2GB - 15 days,2000,15,3978,esim_2GB_15D_NO_V2,true
+esim_3GB_30D_NO_V2,Norway,Norway 3GB - 30 days,3000,30,5112,esim_3GB_30D_NO_V2,true
+esim_5GB_30D_NO_V2,Norway,Norway 5GB - 30 days,5000,30,7200,esim_5GB_30D_NO_V2,true
+esim_10GB_30D_NO_V2,Norway,Norway 10GB - 30 days,10000,30,11592,esim_10GB_30D_NO_V2,true
+esim_20GB_30D_NO_V2,Norway,Norway 20GB - 30 days,20000,30,19332,esim_20GB_30D_NO_V2,true
+esim_50GB_30D_NO_V2,Norway,Norway 50GB - 30 days,50000,30,42588,esim_50GB_30D_NO_V2,true
+esim_100GB_30D_NO_V2,Norway,Norway 100GB - 30 days,100000,30,93294,esim_100GB_30D_NO_V2,true
+esim_1GB_7D_OM_V2,Oman,Oman 1GB - 7 days,1000,7,8262,esim_1GB_7D_OM_V2,true
+esim_2GB_15D_OM_V2,Oman,Oman 2GB - 15 days,2000,15,15534,esim_2GB_15D_OM_V2,true
+esim_3GB_30D_OM_V2,Oman,Oman 3GB - 30 days,3000,30,21564,esim_3GB_30D_OM_V2,true
+esim_5GB_30D_OM_V2,Oman,Oman 5GB - 30 days,5000,30,35298,esim_5GB_30D_OM_V2,true
+esim_10GB_30D_OM_V2,Oman,Oman 10GB - 30 days,10000,30,64404,esim_10GB_30D_OM_V2,true
+esim_20GB_30D_OM_V2,Oman,Oman 20GB - 30 days,20000,30,124416,esim_20GB_30D_OM_V2,true
+esim_50GB_30D_OM_V2,Oman,Oman 50GB - 30 days,50000,30,260856,esim_50GB_30D_OM_V2,true
+esim_1GB_7D_PK_V2,Pakistan,Pakistan 1GB - 7 days,1000,7,4770,esim_1GB_7D_PK_V2,true
+esim_2GB_15D_PK_V2,Pakistan,Pakistan 2GB - 15 days,2000,15,8478,esim_2GB_15D_PK_V2,true
+esim_3GB_30D_PK_V2,Pakistan,Pakistan 3GB - 30 days,3000,30,12618,esim_3GB_30D_PK_V2,true
+esim_5GB_30D_PK_V2,Pakistan,Pakistan 5GB - 30 days,5000,30,20376,esim_5GB_30D_PK_V2,true
+esim_10GB_30D_PK_V2,Pakistan,Pakistan 10GB - 30 days,10000,30,36846,esim_10GB_30D_PK_V2,true
+esim_20GB_30D_PK_V2,Pakistan,Pakistan 20GB - 30 days,20000,30,65664,esim_20GB_30D_PK_V2,true
+esim_50GB_30D_PK_V2,Pakistan,Pakistan 50GB - 30 days,50000,30,147978,esim_50GB_30D_PK_V2,true
+esim_100GB_30D_PK_V2,Pakistan,Pakistan 100GB - 30 days,100000,30,247194,esim_100GB_30D_PK_V2,true
+esim_1GB_7D_PS_V2,Palestine,Palestine 1GB - 7 days,1000,7,36126,esim_1GB_7D_PS_V2,true
+esim_2GB_15D_PS_V2,Palestine,Palestine 2GB - 15 days,2000,15,71262,esim_2GB_15D_PS_V2,true
+esim_3GB_30D_PS_V2,Palestine,Palestine 3GB - 30 days,3000,30,100368,esim_3GB_30D_PS_V2,true
+esim_5GB_30D_PS_V2,Palestine,Palestine 5GB - 30 days,5000,30,166626,esim_5GB_30D_PS_V2,true
+esim_1GB_7D_PA_V2,Panama,Panama 1GB - 7 days,1000,7,5454,esim_1GB_7D_PA_V2,true
+esim_2GB_15D_PA_V2,Panama,Panama 2GB - 15 days,2000,15,9108,esim_2GB_15D_PA_V2,true
+esim_3GB_30D_PA_V2,Panama,Panama 3GB - 30 days,3000,30,12312,esim_3GB_30D_PA_V2,true
+esim_5GB_30D_PA_V2,Panama,Panama 5GB - 30 days,5000,30,18486,esim_5GB_30D_PA_V2,true
+esim_10GB_30D_PA_V2,Panama,Panama 10GB - 30 days,10000,30,28764,esim_10GB_30D_PA_V2,true
+esim_20GB_30D_PA_V2,Panama,Panama 20GB - 30 days,20000,30,61128,esim_20GB_30D_PA_V2,true
+esim_50GB_30D_PA_V2,Panama,Panama 50GB - 30 days,50000,30,104112,esim_50GB_30D_PA_V2,true
+esim_100GB_30D_PA_V2,Panama,Panama 100GB - 30 days,100000,30,239256,esim_100GB_30D_PA_V2,true
+esim_1GB_7D_PG_V2,Papua New Guinea,Papua New Guinea 1GB - 7 days,1000,7,28008,esim_1GB_7D_PG_V2,true
+esim_2GB_15D_PG_V2,Papua New Guinea,Papua New Guinea 2GB - 15 days,2000,15,55044,esim_2GB_15D_PG_V2,true
+esim_3GB_30D_PG_V2,Papua New Guinea,Papua New Guinea 3GB - 30 days,3000,30,77436,esim_3GB_30D_PG_V2,true
+esim_5GB_30D_PG_V2,Papua New Guinea,Papua New Guinea 5GB - 30 days,5000,30,128394,esim_5GB_30D_PG_V2,true
+esim_10GB_30D_PG_V2,Papua New Guinea,Papua New Guinea 10GB - 30 days,10000,30,236502,esim_10GB_30D_PG_V2,true
+esim_1GB_7D_PY_V2,Paraguay,Paraguay 1GB - 7 days,1000,7,7002,esim_1GB_7D_PY_V2,true
+esim_2GB_15D_PY_V2,Paraguay,Paraguay 2GB - 15 days,2000,15,11664,esim_2GB_15D_PY_V2,true
+esim_3GB_30D_PY_V2,Paraguay,Paraguay 3GB - 30 days,3000,30,14832,esim_3GB_30D_PY_V2,true
+esim_5GB_30D_PY_V2,Paraguay,Paraguay 5GB - 30 days,5000,30,23400,esim_5GB_30D_PY_V2,true
+esim_10GB_30D_PY_V2,Paraguay,Paraguay 10GB - 30 days,10000,30,36468,esim_10GB_30D_PY_V2,true
+esim_20GB_30D_PY_V2,Paraguay,Paraguay 20GB - 30 days,20000,30,78120,esim_20GB_30D_PY_V2,true
+esim_50GB_30D_PY_V2,Paraguay,Paraguay 50GB - 30 days,50000,30,137718,esim_50GB_30D_PY_V2,true
+esim_100GB_30D_PY_V2,Paraguay,Paraguay 100GB - 30 days,100000,30,268524,esim_100GB_30D_PY_V2,true
+esim_1GB_7D_PE_V2,Peru,Peru 1GB - 7 days,1000,7,5490,esim_1GB_7D_PE_V2,true
+esim_2GB_15D_PE_V2,Peru,Peru 2GB - 15 days,2000,15,8946,esim_2GB_15D_PE_V2,true
+esim_3GB_30D_PE_V2,Peru,Peru 3GB - 30 days,3000,30,11898,esim_3GB_30D_PE_V2,true
+esim_5GB_30D_PE_V2,Peru,Peru 5GB - 30 days,5000,30,17622,esim_5GB_30D_PE_V2,true
+esim_10GB_30D_PE_V2,Peru,Peru 10GB - 30 days,10000,30,27144,esim_10GB_30D_PE_V2,true
+esim_20GB_30D_PE_V2,Peru,Peru 20GB - 30 days,20000,30,44082,esim_20GB_30D_PE_V2,true
+esim_50GB_30D_PE_V2,Peru,Peru 50GB - 30 days,50000,30,96984,esim_50GB_30D_PE_V2,true
+esim_100GB_30D_PE_V2,Peru,Peru 100GB - 30 days,100000,30,171072,esim_100GB_30D_PE_V2,true
+esim_1GB_7D_PH_V2,Philippines,Philippines 1GB - 7 days,1000,7,5922,esim_1GB_7D_PH_V2,true
+esim_2GB_15D_PH_V2,Philippines,Philippines 2GB - 15 days,2000,15,9306,esim_2GB_15D_PH_V2,true
+esim_3GB_30D_PH_V2,Philippines,Philippines 3GB - 30 days,3000,30,12258,esim_3GB_30D_PH_V2,true
+esim_5GB_30D_PH_V2,Philippines,Philippines 5GB - 30 days,5000,30,19926,esim_5GB_30D_PH_V2,true
+esim_10GB_30D_PH_V2,Philippines,Philippines 10GB - 30 days,10000,30,27486,esim_10GB_30D_PH_V2,true
+esim_20GB_30D_PH_V2,Philippines,Philippines 20GB - 30 days,20000,30,44406,esim_20GB_30D_PH_V2,true
+esim_50GB_30D_PH_V2,Philippines,Philippines 50GB - 30 days,50000,30,97254,esim_50GB_30D_PH_V2,true
+esim_100GB_30D_PH_V2,Philippines,Philippines 100GB - 30 days,100000,30,171252,esim_100GB_30D_PH_V2,true
+esim_1GB_7D_PL_V2,Poland,Poland 1GB - 7 days,1000,7,2196,esim_1GB_7D_PL_V2,true
+esim_2GB_15D_PL_V2,Poland,Poland 2GB - 15 days,2000,15,3978,esim_2GB_15D_PL_V2,true
+esim_3GB_30D_PL_V2,Poland,Poland 3GB - 30 days,3000,30,5112,esim_3GB_30D_PL_V2,true
+esim_5GB_30D_PL_V2,Poland,Poland 5GB - 30 days,5000,30,7200,esim_5GB_30D_PL_V2,true
+esim_10GB_30D_PL_V2,Poland,Poland 10GB - 30 days,10000,30,11592,esim_10GB_30D_PL_V2,true
+esim_20GB_30D_PL_V2,Poland,Poland 20GB - 30 days,20000,30,19332,esim_20GB_30D_PL_V2,true
+esim_50GB_30D_PL_V2,Poland,Poland 50GB - 30 days,50000,30,42588,esim_50GB_30D_PL_V2,true
+esim_100GB_30D_PL_V2,Poland,Poland 100GB - 30 days,100000,30,84348,esim_100GB_30D_PL_V2,true
+esim_1GB_7D_PT_V2,Portugal,Portugal 1GB - 7 days,1000,7,2196,esim_1GB_7D_PT_V2,true
+esim_2GB_15D_PT_V2,Portugal,Portugal 2GB - 15 days,2000,15,3978,esim_2GB_15D_PT_V2,true
+esim_3GB_30D_PT_V2,Portugal,Portugal 3GB - 30 days,3000,30,5112,esim_3GB_30D_PT_V2,true
+esim_5GB_30D_PT_V2,Portugal,Portugal 5GB - 30 days,5000,30,7200,esim_5GB_30D_PT_V2,true
+esim_10GB_30D_PT_V2,Portugal,Portugal 10GB - 30 days,10000,30,11592,esim_10GB_30D_PT_V2,true
+esim_20GB_30D_PT_V2,Portugal,Portugal 20GB - 30 days,20000,30,19332,esim_20GB_30D_PT_V2,true
+esim_50GB_30D_PT_V2,Portugal,Portugal 50GB - 30 days,50000,30,42588,esim_50GB_30D_PT_V2,true
+esim_100GB_30D_PT_V2,Portugal,Portugal 100GB - 30 days,100000,30,82998,esim_100GB_30D_PT_V2,true
+esim_1GB_7D_PR_V2,Puerto Rico,Puerto Rico 1GB - 7 days,1000,7,4410,esim_1GB_7D_PR_V2,true
+esim_2GB_15D_PR_V2,Puerto Rico,Puerto Rico 2GB - 15 days,2000,15,7470,esim_2GB_15D_PR_V2,true
+esim_3GB_30D_PR_V2,Puerto Rico,Puerto Rico 3GB - 30 days,3000,30,10026,esim_3GB_30D_PR_V2,true
+esim_5GB_30D_PR_V2,Puerto Rico,Puerto Rico 5GB - 30 days,5000,30,15822,esim_5GB_30D_PR_V2,true
+esim_10GB_30D_PR_V2,Puerto Rico,Puerto Rico 10GB - 30 days,10000,30,28116,esim_10GB_30D_PR_V2,true
+esim_20GB_30D_PR_V2,Puerto Rico,Puerto Rico 20GB - 30 days,20000,30,49644,esim_20GB_30D_PR_V2,true
+esim_50GB_30D_PR_V2,Puerto Rico,Puerto Rico 50GB - 30 days,50000,30,111132,esim_50GB_30D_PR_V2,true
+esim_100GB_30D_PR_V2,Puerto Rico,Puerto Rico 100GB - 30 days,100000,30,207000,esim_100GB_30D_PR_V2,true
+esim_1GB_7D_QA_V2,Qatar,Qatar 1GB - 7 days,1000,7,3906,esim_1GB_7D_QA_V2,true
+esim_2GB_15D_QA_V2,Qatar,Qatar 2GB - 15 days,2000,15,7272,esim_2GB_15D_QA_V2,true
+esim_3GB_30D_QA_V2,Qatar,Qatar 3GB - 30 days,3000,30,9576,esim_3GB_30D_QA_V2,true
+esim_5GB_30D_QA_V2,Qatar,Qatar 5GB - 30 days,5000,30,14148,esim_5GB_30D_QA_V2,true
+esim_10GB_30D_QA_V2,Qatar,Qatar 10GB - 30 days,10000,30,21456,esim_10GB_30D_QA_V2,true
+esim_20GB_30D_QA_V2,Qatar,Qatar 20GB - 30 days,20000,30,34902,esim_20GB_30D_QA_V2,true
+esim_50GB_30D_QA_V2,Qatar,Qatar 50GB - 30 days,50000,30,101088,esim_50GB_30D_QA_V2,true
+esim_100GB_30D_QA_V2,Qatar,Qatar 100GB - 30 days,100000,30,135630,esim_100GB_30D_QA_V2,true
+esim_1GB_7D_RE_V2,Reunion,Reunion 1GB - 7 days,1000,7,3276,esim_1GB_7D_RE_V2,true
+esim_2GB_15D_RE_V2,Reunion,Reunion 2GB - 15 days,2000,15,5562,esim_2GB_15D_RE_V2,true
+esim_3GB_30D_RE_V2,Reunion,Reunion 3GB - 30 days,3000,30,7452,esim_3GB_30D_RE_V2,true
+esim_5GB_30D_RE_V2,Reunion,Reunion 5GB - 30 days,5000,30,11772,esim_5GB_30D_RE_V2,true
+esim_10GB_30D_RE_V2,Reunion,Reunion 10GB - 30 days,10000,30,20916,esim_10GB_30D_RE_V2,true
+esim_20GB_30D_RE_V2,Reunion,Reunion 20GB - 30 days,20000,30,36918,esim_20GB_30D_RE_V2,true
+esim_50GB_30D_RE_V2,Reunion,Reunion 50GB - 30 days,50000,30,82656,esim_50GB_30D_RE_V2,true
+esim_100GB_30D_RE_V2,Reunion,Reunion 100GB - 30 days,100000,30,114894,esim_100GB_30D_RE_V2,true
+esim_1GB_7D_RO_V2,Romania,Romania 1GB - 7 days,1000,7,2646,esim_1GB_7D_RO_V2,true
+esim_2GB_15D_RO_V2,Romania,Romania 2GB - 15 days,2000,15,4662,esim_2GB_15D_RO_V2,true
+esim_3GB_30D_RO_V2,Romania,Romania 3GB - 30 days,3000,30,6012,esim_3GB_30D_RO_V2,true
+esim_5GB_30D_RO_V2,Romania,Romania 5GB - 30 days,5000,30,8316,esim_5GB_30D_RO_V2,true
+esim_10GB_30D_RO_V2,Romania,Romania 10GB - 30 days,10000,30,13140,esim_10GB_30D_RO_V2,true
+esim_20GB_30D_RO_V2,Romania,Romania 20GB - 30 days,20000,30,21960,esim_20GB_30D_RO_V2,true
+esim_50GB_30D_RO_V2,Romania,Romania 50GB - 30 days,50000,30,56160,esim_50GB_30D_RO_V2,true
+esim_100GB_30D_RO_V2,Romania,Romania 100GB - 30 days,100000,30,97470,esim_100GB_30D_RO_V2,true
+esim_1GB_7D_RU_V2,Russian Federation,Russian Federation 1GB - 7 days,1000,7,4734,esim_1GB_7D_RU_V2,true
+esim_2GB_15D_RU_V2,Russian Federation,Russian Federation 2GB - 15 days,2000,15,8478,esim_2GB_15D_RU_V2,true
+esim_3GB_30D_RU_V2,Russian Federation,Russian Federation 3GB - 30 days,3000,30,11574,esim_3GB_30D_RU_V2,true
+esim_5GB_30D_RU_V2,Russian Federation,Russian Federation 5GB - 30 days,5000,30,18630,esim_5GB_30D_RU_V2,true
+esim_10GB_30D_RU_V2,Russian Federation,Russian Federation 10GB - 30 days,10000,30,33588,esim_10GB_30D_RU_V2,true
+esim_20GB_30D_RU_V2,Russian Federation,Russian Federation 20GB - 30 days,20000,30,59796,esim_20GB_30D_RU_V2,true
+esim_50GB_30D_RU_V2,Russian Federation,Russian Federation 50GB - 30 days,50000,30,134640,esim_50GB_30D_RU_V2,true
+esim_100GB_30D_RU_V2,Russian Federation,Russian Federation 100GB - 30 days,100000,30,240894,esim_100GB_30D_RU_V2,true
+esim_1GB_7D_RW_V2,Rwanda,Rwanda 1GB - 7 days,1000,7,28602,esim_1GB_7D_RW_V2,true
+esim_2GB_15D_RW_V2,Rwanda,Rwanda 2GB - 15 days,2000,15,55674,esim_2GB_15D_RW_V2,true
+esim_3GB_30D_RW_V2,Rwanda,Rwanda 3GB - 30 days,3000,30,78120,esim_3GB_30D_RW_V2,true
+esim_5GB_30D_RW_V2,Rwanda,Rwanda 5GB - 30 days,5000,30,129186,esim_5GB_30D_RW_V2,true
+esim_10GB_30D_RW_V2,Rwanda,Rwanda 10GB - 30 days,10000,30,237510,esim_10GB_30D_RW_V2,true
+esim_1GB_7D_BL_V2,Saint Barthelemy,Saint Barthelemy 1GB - 7 days,1000,7,6390,esim_1GB_7D_BL_V2,true
+esim_2GB_15D_BL_V2,Saint Barthelemy,Saint Barthelemy 2GB - 15 days,2000,15,11790,esim_2GB_15D_BL_V2,true
+esim_3GB_30D_BL_V2,Saint Barthelemy,Saint Barthelemy 3GB - 30 days,3000,30,16272,esim_3GB_30D_BL_V2,true
+esim_5GB_30D_BL_V2,Saint Barthelemy,Saint Barthelemy 5GB - 30 days,5000,30,26460,esim_5GB_30D_BL_V2,true
+esim_10GB_30D_BL_V2,Saint Barthelemy,Saint Barthelemy 10GB - 30 days,10000,30,48096,esim_10GB_30D_BL_V2,true
+esim_20GB_30D_BL_V2,Saint Barthelemy,Saint Barthelemy 20GB - 30 days,20000,30,85932,esim_20GB_30D_BL_V2,true
+esim_50GB_30D_BL_V2,Saint Barthelemy,Saint Barthelemy 50GB - 30 days,50000,30,194040,esim_50GB_30D_BL_V2,true
+esim_1GB_7D_KN_V2,Saint Kitts And Nevis,Saint Kitts And Nevis 1GB - 7 days,1000,7,11772,esim_1GB_7D_KN_V2,true
+esim_2GB_15D_KN_V2,Saint Kitts And Nevis,Saint Kitts And Nevis 2GB - 15 days,2000,15,20934,esim_2GB_15D_KN_V2,true
+esim_3GB_30D_KN_V2,Saint Kitts And Nevis,Saint Kitts And Nevis 3GB - 30 days,3000,30,29502,esim_3GB_30D_KN_V2,true
+esim_5GB_30D_KN_V2,Saint Kitts And Nevis,Saint Kitts And Nevis 5GB - 30 days,5000,30,42660,esim_5GB_30D_KN_V2,true
+esim_10GB_30D_KN_V2,Saint Kitts And Nevis,Saint Kitts And Nevis 10GB - 30 days,10000,30,73782,esim_10GB_30D_KN_V2,true
+esim_20GB_30D_KN_V2,Saint Kitts And Nevis,Saint Kitts And Nevis 20GB - 30 days,20000,30,124182,esim_20GB_30D_KN_V2,true
+esim_1GB_7D_LC_V2,Saint Lucia,Saint Lucia 1GB - 7 days,1000,7,11772,esim_1GB_7D_LC_V2,true
+esim_2GB_15D_LC_V2,Saint Lucia,Saint Lucia 2GB - 15 days,2000,15,20934,esim_2GB_15D_LC_V2,true
+esim_3GB_30D_LC_V2,Saint Lucia,Saint Lucia 3GB - 30 days,3000,30,29502,esim_3GB_30D_LC_V2,true
+esim_5GB_30D_LC_V2,Saint Lucia,Saint Lucia 5GB - 30 days,5000,30,42660,esim_5GB_30D_LC_V2,true
+esim_10GB_30D_LC_V2,Saint Lucia,Saint Lucia 10GB - 30 days,10000,30,73782,esim_10GB_30D_LC_V2,true
+esim_20GB_30D_LC_V2,Saint Lucia,Saint Lucia 20GB - 30 days,20000,30,124182,esim_20GB_30D_LC_V2,true
+esim_1GB_7D_MF_V2,Saint Martin,Saint Martin 1GB - 7 days,1000,7,6390,esim_1GB_7D_MF_V2,true
+esim_2GB_15D_MF_V2,Saint Martin,Saint Martin 2GB - 15 days,2000,15,11790,esim_2GB_15D_MF_V2,true
+esim_3GB_30D_MF_V2,Saint Martin,Saint Martin 3GB - 30 days,3000,30,16272,esim_3GB_30D_MF_V2,true
+esim_5GB_30D_MF_V2,Saint Martin,Saint Martin 5GB - 30 days,5000,30,26460,esim_5GB_30D_MF_V2,true
+esim_10GB_30D_MF_V2,Saint Martin,Saint Martin 10GB - 30 days,10000,30,48096,esim_10GB_30D_MF_V2,true
+esim_20GB_30D_MF_V2,Saint Martin,Saint Martin 20GB - 30 days,20000,30,85932,esim_20GB_30D_MF_V2,true
+esim_50GB_30D_MF_V2,Saint Martin,Saint Martin 50GB - 30 days,50000,30,194040,esim_50GB_30D_MF_V2,true
+esim_1GB_7D_VC_V2,Saint Vincent And The Grenadines,Saint Vincent And The Grenadines 1GB - 7 days,1000,7,11772,esim_1GB_7D_VC_V2,true
+esim_2GB_15D_VC_V2,Saint Vincent And The Grenadines,Saint Vincent And The Grenadines 2GB - 15 days,2000,15,20934,esim_2GB_15D_VC_V2,true
+esim_3GB_30D_VC_V2,Saint Vincent And The Grenadines,Saint Vincent And The Grenadines 3GB - 30 days,3000,30,29502,esim_3GB_30D_VC_V2,true
+esim_5GB_30D_VC_V2,Saint Vincent And The Grenadines,Saint Vincent And The Grenadines 5GB - 30 days,5000,30,42660,esim_5GB_30D_VC_V2,true
+esim_10GB_30D_VC_V2,Saint Vincent And The Grenadines,Saint Vincent And The Grenadines 10GB - 30 days,10000,30,73782,esim_10GB_30D_VC_V2,true
+esim_20GB_30D_VC_V2,Saint Vincent And The Grenadines,Saint Vincent And The Grenadines 20GB - 30 days,20000,30,124182,esim_20GB_30D_VC_V2,true
+esim_1GB_7D_WS_V2,Samoa,Samoa 1GB - 7 days,1000,7,28008,esim_1GB_7D_WS_V2,true
+esim_2GB_15D_WS_V2,Samoa,Samoa 2GB - 15 days,2000,15,55044,esim_2GB_15D_WS_V2,true
+esim_3GB_30D_WS_V2,Samoa,Samoa 3GB - 30 days,3000,30,77436,esim_3GB_30D_WS_V2,true
+esim_5GB_30D_WS_V2,Samoa,Samoa 5GB - 30 days,5000,30,128394,esim_5GB_30D_WS_V2,true
+esim_10GB_30D_WS_V2,Samoa,Samoa 10GB - 30 days,10000,30,236502,esim_10GB_30D_WS_V2,true
+esim_1GB_7D_SA_V2,Saudi Arabia,Saudi Arabia 1GB - 7 days,1000,7,3582,esim_1GB_7D_SA_V2,true
+esim_2GB_15D_SA_V2,Saudi Arabia,Saudi Arabia 2GB - 15 days,2000,15,6480,esim_2GB_15D_SA_V2,true
+esim_3GB_30D_SA_V2,Saudi Arabia,Saudi Arabia 3GB - 30 days,3000,30,9180,esim_3GB_30D_SA_V2,true
+esim_5GB_30D_SA_V2,Saudi Arabia,Saudi Arabia 5GB - 30 days,5000,30,12726,esim_5GB_30D_SA_V2,true
+esim_10GB_30D_SA_V2,Saudi Arabia,Saudi Arabia 10GB - 30 days,10000,30,23040,esim_10GB_30D_SA_V2,true
+esim_20GB_30D_SA_V2,Saudi Arabia,Saudi Arabia 20GB - 30 days,20000,30,37098,esim_20GB_30D_SA_V2,true
+esim_50GB_30D_SA_V2,Saudi Arabia,Saudi Arabia 50GB - 30 days,50000,30,91998,esim_50GB_30D_SA_V2,true
+esim_100GB_30D_SA_V2,Saudi Arabia,Saudi Arabia 100GB - 30 days,100000,30,179982,esim_100GB_30D_SA_V2,true
+esim_1GB_7D_SN_V2,Senegal,Senegal 1GB - 7 days,1000,7,21510,esim_1GB_7D_SN_V2,true
+esim_2GB_15D_SN_V2,Senegal,Senegal 2GB - 15 days,2000,15,41526,esim_2GB_15D_SN_V2,true
+esim_3GB_30D_SN_V2,Senegal,Senegal 3GB - 30 days,3000,30,58104,esim_3GB_30D_SN_V2,true
+esim_5GB_30D_SN_V2,Senegal,Senegal 5GB - 30 days,5000,30,95886,esim_5GB_30D_SN_V2,true
+esim_10GB_30D_SN_V2,Senegal,Senegal 10GB - 30 days,10000,30,176004,esim_10GB_30D_SN_V2,true
+esim_20GB_30D_SN_V2,Senegal,Senegal 20GB - 30 days,20000,30,316206,esim_20GB_30D_SN_V2,true
+esim_1GB_7D_RS_V2,Serbia,Serbia 1GB - 7 days,1000,7,3528,esim_1GB_7D_RS_V2,true
+esim_2GB_15D_RS_V2,Serbia,Serbia 2GB - 15 days,2000,15,5814,esim_2GB_15D_RS_V2,true
+esim_3GB_30D_RS_V2,Serbia,Serbia 3GB - 30 days,3000,30,7830,esim_3GB_30D_RS_V2,true
+esim_5GB_30D_RS_V2,Serbia,Serbia 5GB - 30 days,5000,30,11700,esim_5GB_30D_RS_V2,true
+esim_10GB_30D_RS_V2,Serbia,Serbia 10GB - 30 days,10000,30,18144,esim_10GB_30D_RS_V2,true
+esim_20GB_30D_RS_V2,Serbia,Serbia 20GB - 30 days,20000,30,29610,esim_20GB_30D_RS_V2,true
+esim_50GB_30D_RS_V2,Serbia,Serbia 50GB - 30 days,50000,30,65466,esim_50GB_30D_RS_V2,true
+esim_100GB_30D_RS_V2,Serbia,Serbia 100GB - 30 days,100000,30,129114,esim_100GB_30D_RS_V2,true
+esim_1GB_7D_SC_V2,Seychelles,Seychelles 1GB - 7 days,1000,7,14508,esim_1GB_7D_SC_V2,true
+esim_2GB_15D_SC_V2,Seychelles,Seychelles 2GB - 15 days,2000,15,28008,esim_2GB_15D_SC_V2,true
+esim_3GB_30D_SC_V2,Seychelles,Seychelles 3GB - 30 days,3000,30,39204,esim_3GB_30D_SC_V2,true
+esim_5GB_30D_SC_V2,Seychelles,Seychelles 5GB - 30 days,5000,30,64692,esim_5GB_30D_SC_V2,true
+esim_10GB_30D_SC_V2,Seychelles,Seychelles 10GB - 30 days,10000,30,118746,esim_10GB_30D_SC_V2,true
+esim_20GB_30D_SC_V2,Seychelles,Seychelles 20GB - 30 days,20000,30,213336,esim_20GB_30D_SC_V2,true
+esim_1GB_7D_SG_V2,Singapore,Singapore 1GB - 7 days,1000,7,3690,esim_1GB_7D_SG_V2,true
+esim_2GB_15D_SG_V2,Singapore,Singapore 2GB - 15 days,2000,15,5292,esim_2GB_15D_SG_V2,true
+esim_3GB_30D_SG_V2,Singapore,Singapore 3GB - 30 days,3000,30,6534,esim_3GB_30D_SG_V2,true
+esim_5GB_30D_SG_V2,Singapore,Singapore 5GB - 30 days,5000,30,8910,esim_5GB_30D_SG_V2,true
+esim_10GB_30D_SG_V2,Singapore,Singapore 10GB - 30 days,10000,30,12870,esim_10GB_30D_SG_V2,true
+esim_20GB_30D_SG_V2,Singapore,Singapore 20GB - 30 days,20000,30,19926,esim_20GB_30D_SG_V2,true
+esim_50GB_30D_SG_V2,Singapore,Singapore 50GB - 30 days,50000,30,41958,esim_50GB_30D_SG_V2,true
+esim_100GB_30D_SG_V2,Singapore,Singapore 100GB - 30 days,100000,30,72792,esim_100GB_30D_SG_V2,true
+esim_1GB_7D_SK_V2,Slovakia,Slovakia 1GB - 7 days,1000,7,2340,esim_1GB_7D_SK_V2,true
+esim_2GB_15D_SK_V2,Slovakia,Slovakia 2GB - 15 days,2000,15,4140,esim_2GB_15D_SK_V2,true
+esim_3GB_30D_SK_V2,Slovakia,Slovakia 3GB - 30 days,3000,30,5310,esim_3GB_30D_SK_V2,true
+esim_5GB_30D_SK_V2,Slovakia,Slovakia 5GB - 30 days,5000,30,7344,esim_5GB_30D_SK_V2,true
+esim_10GB_30D_SK_V2,Slovakia,Slovakia 10GB - 30 days,10000,30,11592,esim_10GB_30D_SK_V2,true
+esim_20GB_30D_SK_V2,Slovakia,Slovakia 20GB - 30 days,20000,30,21420,esim_20GB_30D_SK_V2,true
+esim_50GB_30D_SK_V2,Slovakia,Slovakia 50GB - 30 days,50000,30,43452,esim_50GB_30D_SK_V2,true
+esim_100GB_30D_SK_V2,Slovakia,Slovakia 100GB - 30 days,100000,30,86022,esim_100GB_30D_SK_V2,true
+esim_1GB_7D_SI_V2,Slovenia,Slovenia 1GB - 7 days,1000,7,2340,esim_1GB_7D_SI_V2,true
+esim_2GB_15D_SI_V2,Slovenia,Slovenia 2GB - 15 days,2000,15,4140,esim_2GB_15D_SI_V2,true
+esim_3GB_30D_SI_V2,Slovenia,Slovenia 3GB - 30 days,3000,30,5310,esim_3GB_30D_SI_V2,true
+esim_5GB_30D_SI_V2,Slovenia,Slovenia 5GB - 30 days,5000,30,7344,esim_5GB_30D_SI_V2,true
+esim_10GB_30D_SI_V2,Slovenia,Slovenia 10GB - 30 days,10000,30,11592,esim_10GB_30D_SI_V2,true
+esim_20GB_30D_SI_V2,Slovenia,Slovenia 20GB - 30 days,20000,30,21456,esim_20GB_30D_SI_V2,true
+esim_50GB_30D_SI_V2,Slovenia,Slovenia 50GB - 30 days,50000,30,43452,esim_50GB_30D_SI_V2,true
+esim_100GB_30D_SI_V2,Slovenia,Slovenia 100GB - 30 days,100000,30,86022,esim_100GB_30D_SI_V2,true
+esim_1GB_7D_ZA_V2,South Africa,South Africa 1GB - 7 days,1000,7,6048,esim_1GB_7D_ZA_V2,true
+esim_2GB_15D_ZA_V2,South Africa,South Africa 2GB - 15 days,2000,15,10224,esim_2GB_15D_ZA_V2,true
+esim_3GB_30D_ZA_V2,South Africa,South Africa 3GB - 30 days,3000,30,13878,esim_3GB_30D_ZA_V2,true
+esim_5GB_30D_ZA_V2,South Africa,South Africa 5GB - 30 days,5000,30,20934,esim_5GB_30D_ZA_V2,true
+esim_10GB_30D_ZA_V2,South Africa,South Africa 10GB - 30 days,10000,30,32670,esim_10GB_30D_ZA_V2,true
+esim_20GB_30D_ZA_V2,South Africa,South Africa 20GB - 30 days,20000,30,53550,esim_20GB_30D_ZA_V2,true
+esim_50GB_30D_ZA_V2,South Africa,South Africa 50GB - 30 days,50000,30,154440,esim_50GB_30D_ZA_V2,true
+esim_100GB_30D_ZA_V2,South Africa,South Africa 100GB - 30 days,100000,30,210150,esim_100GB_30D_ZA_V2,true
+esim_1GB_7D_ES_V2,Spain,Spain 1GB - 7 days,1000,7,2196,esim_1GB_7D_ES_V2,true
+esim_2GB_15D_ES_V2,Spain,Spain 2GB - 15 days,2000,15,3978,esim_2GB_15D_ES_V2,true
+esim_3GB_30D_ES_V2,Spain,Spain 3GB - 30 days,3000,30,5112,esim_3GB_30D_ES_V2,true
+esim_5GB_30D_ES_V2,Spain,Spain 5GB - 30 days,5000,30,7398,esim_5GB_30D_ES_V2,true
+esim_10GB_30D_ES_V2,Spain,Spain 10GB - 30 days,10000,30,12690,esim_10GB_30D_ES_V2,true
+esim_20GB_30D_ES_V2,Spain,Spain 20GB - 30 days,20000,30,21798,esim_20GB_30D_ES_V2,true
+esim_50GB_30D_ES_V2,Spain,Spain 50GB - 30 days,50000,30,42588,esim_50GB_30D_ES_V2,true
+esim_100GB_30D_ES_V2,Spain,Spain 100GB - 30 days,100000,30,84348,esim_100GB_30D_ES_V2,true
+esim_1GB_7D_LK_V2,Sri Lanka,Sri Lanka 1GB - 7 days,1000,7,5382,esim_1GB_7D_LK_V2,true
+esim_2GB_15D_LK_V2,Sri Lanka,Sri Lanka 2GB - 15 days,2000,15,8604,esim_2GB_15D_LK_V2,true
+esim_3GB_30D_LK_V2,Sri Lanka,Sri Lanka 3GB - 30 days,3000,30,11448,esim_3GB_30D_LK_V2,true
+esim_5GB_30D_LK_V2,Sri Lanka,Sri Lanka 5GB - 30 days,5000,30,16902,esim_5GB_30D_LK_V2,true
+esim_10GB_30D_LK_V2,Sri Lanka,Sri Lanka 10GB - 30 days,10000,30,25992,esim_10GB_30D_LK_V2,true
+esim_20GB_30D_LK_V2,Sri Lanka,Sri Lanka 20GB - 30 days,20000,30,48168,esim_20GB_30D_LK_V2,true
+esim_50GB_30D_LK_V2,Sri Lanka,Sri Lanka 50GB - 30 days,50000,30,92664,esim_50GB_30D_LK_V2,true
+esim_100GB_30D_LK_V2,Sri Lanka,Sri Lanka 100GB - 30 days,100000,30,163386,esim_100GB_30D_LK_V2,true
+esim_1GB_7D_SD_V2,Sudan,Sudan 1GB - 7 days,1000,7,21780,esim_1GB_7D_SD_V2,true
+esim_2GB_15D_SD_V2,Sudan,Sudan 2GB - 15 days,2000,15,42048,esim_2GB_15D_SD_V2,true
+esim_3GB_30D_SD_V2,Sudan,Sudan 3GB - 30 days,3000,30,58860,esim_3GB_30D_SD_V2,true
+esim_5GB_30D_SD_V2,Sudan,Sudan 5GB - 30 days,5000,30,97128,esim_5GB_30D_SD_V2,true
+esim_10GB_30D_SD_V2,Sudan,Sudan 10GB - 30 days,10000,30,178290,esim_10GB_30D_SD_V2,true
+esim_20GB_30D_SD_V2,Sudan,Sudan 20GB - 30 days,20000,30,320328,esim_20GB_30D_SD_V2,true
+esim_1GB_7D_SR_V2,Suriname,Suriname 1GB - 7 days,1000,7,14364,esim_1GB_7D_SR_V2,true
+esim_2GB_15D_SR_V2,Suriname,Suriname 2GB - 15 days,2000,15,25524,esim_2GB_15D_SR_V2,true
+esim_3GB_30D_SR_V2,Suriname,Suriname 3GB - 30 days,3000,30,35982,esim_3GB_30D_SR_V2,true
+esim_5GB_30D_SR_V2,Suriname,Suriname 5GB - 30 days,5000,30,52020,esim_5GB_30D_SR_V2,true
+esim_10GB_30D_SR_V2,Suriname,Suriname 10GB - 30 days,10000,30,89982,esim_10GB_30D_SR_V2,true
+esim_20GB_30D_SR_V2,Suriname,Suriname 20GB - 30 days,20000,30,151434,esim_20GB_30D_SR_V2,true
+esim_1GB_7D_SZ_V2,Swaziland,Swaziland 1GB - 7 days,1000,7,18666,esim_1GB_7D_SZ_V2,true
+esim_2GB_15D_SZ_V2,Swaziland,Swaziland 2GB - 15 days,2000,15,36324,esim_2GB_15D_SZ_V2,true
+esim_3GB_30D_SZ_V2,Swaziland,Swaziland 3GB - 30 days,3000,30,50976,esim_3GB_30D_SZ_V2,true
+esim_5GB_30D_SZ_V2,Swaziland,Swaziland 5GB - 30 days,5000,30,84294,esim_5GB_30D_SZ_V2,true
+esim_10GB_30D_SZ_V2,Swaziland,Swaziland 10GB - 30 days,10000,30,154980,esim_10GB_30D_SZ_V2,true
+esim_1GB_7D_SE_V2,Sweden,Sweden 1GB - 7 days,1000,7,2340,esim_1GB_7D_SE_V2,true
+esim_2GB_15D_SE_V2,Sweden,Sweden 2GB - 15 days,2000,15,4140,esim_2GB_15D_SE_V2,true
+esim_3GB_30D_SE_V2,Sweden,Sweden 3GB - 30 days,3000,30,5310,esim_3GB_30D_SE_V2,true
+esim_5GB_30D_SE_V2,Sweden,Sweden 5GB - 30 days,5000,30,7344,esim_5GB_30D_SE_V2,true
+esim_10GB_30D_SE_V2,Sweden,Sweden 10GB - 30 days,10000,30,11592,esim_10GB_30D_SE_V2,true
+esim_20GB_30D_SE_V2,Sweden,Sweden 20GB - 30 days,20000,30,19386,esim_20GB_30D_SE_V2,true
+esim_50GB_30D_SE_V2,Sweden,Sweden 50GB - 30 days,50000,30,48060,esim_50GB_30D_SE_V2,true
+esim_100GB_30D_SE_V2,Sweden,Sweden 100GB - 30 days,100000,30,86022,esim_100GB_30D_SE_V2,true
+esim_1GB_7D_CH_V2,Switzerland,Switzerland 1GB - 7 days,1000,7,2430,esim_1GB_7D_CH_V2,true
+esim_2GB_15D_CH_V2,Switzerland,Switzerland 2GB - 15 days,2000,15,3888,esim_2GB_15D_CH_V2,true
+esim_3GB_30D_CH_V2,Switzerland,Switzerland 3GB - 30 days,3000,30,5076,esim_3GB_30D_CH_V2,true
+esim_5GB_30D_CH_V2,Switzerland,Switzerland 5GB - 30 days,5000,30,7038,esim_5GB_30D_CH_V2,true
+esim_10GB_30D_CH_V2,Switzerland,Switzerland 10GB - 30 days,10000,30,11934,esim_10GB_30D_CH_V2,true
+esim_20GB_30D_CH_V2,Switzerland,Switzerland 20GB - 30 days,20000,30,20340,esim_20GB_30D_CH_V2,true
+esim_50GB_30D_CH_V2,Switzerland,Switzerland 50GB - 30 days,50000,30,51138,esim_50GB_30D_CH_V2,true
+esim_100GB_30D_CH_V2,Switzerland,Switzerland 100GB - 30 days,100000,30,114516,esim_100GB_30D_CH_V2,true
+esim_1GB_7D_TW_V2,Taiwan-Province of China,Taiwan-Province of China 1GB - 7 days,1000,7,5670,esim_1GB_7D_TW_V2,true
+esim_2GB_15D_TW_V2,Taiwan-Province of China,Taiwan-Province of China 2GB - 15 days,2000,15,9972,esim_2GB_15D_TW_V2,true
+esim_3GB_30D_TW_V2,Taiwan-Province of China,Taiwan-Province of China 3GB - 30 days,3000,30,13554,esim_3GB_30D_TW_V2,true
+esim_5GB_30D_TW_V2,Taiwan-Province of China,Taiwan-Province of China 5GB - 30 days,5000,30,21672,esim_5GB_30D_TW_V2,true
+esim_10GB_30D_TW_V2,Taiwan-Province of China,Taiwan-Province of China 10GB - 30 days,10000,30,38898,esim_10GB_30D_TW_V2,true
+esim_20GB_30D_TW_V2,Taiwan-Province of China,Taiwan-Province of China 20GB - 30 days,20000,30,75132,esim_20GB_30D_TW_V2,true
+esim_50GB_30D_TW_V2,Taiwan-Province of China,Taiwan-Province of China 50GB - 30 days,50000,30,155160,esim_50GB_30D_TW_V2,true
+esim_100GB_30D_TW_V2,Taiwan-Province of China,Taiwan-Province of China 100GB - 30 days,100000,30,280476,esim_100GB_30D_TW_V2,true
+esim_1GB_7D_TJ_V2,Tajikistan,Tajikistan 1GB - 7 days,1000,7,49392,esim_1GB_7D_TJ_V2,true
+esim_2GB_15D_TJ_V2,Tajikistan,Tajikistan 2GB - 15 days,2000,15,91494,esim_2GB_15D_TJ_V2,true
+esim_3GB_30D_TJ_V2,Tajikistan,Tajikistan 3GB - 30 days,3000,30,128322,esim_3GB_30D_TJ_V2,true
+esim_5GB_30D_TJ_V2,Tajikistan,Tajikistan 5GB - 30 days,5000,30,199350,esim_5GB_30D_TJ_V2,true
+esim_1GB_7D_TZ_V2,"Tanzania, United Republic of","Tanzania, United Republic of 1GB - 7 days",1000,7,11412,esim_1GB_7D_TZ_V2,true
+esim_2GB_15D_TZ_V2,"Tanzania, United Republic of","Tanzania, United Republic of 2GB - 15 days",2000,15,19674,esim_2GB_15D_TZ_V2,true
+esim_3GB_30D_TZ_V2,"Tanzania, United Republic of","Tanzania, United Republic of 3GB - 30 days",3000,30,26892,esim_3GB_30D_TZ_V2,true
+esim_5GB_30D_TZ_V2,"Tanzania, United Republic of","Tanzania, United Republic of 5GB - 30 days",5000,30,40824,esim_5GB_30D_TZ_V2,true
+esim_10GB_30D_TZ_V2,"Tanzania, United Republic of","Tanzania, United Republic of 10GB - 30 days",10000,30,65340,esim_10GB_30D_TZ_V2,true
+esim_20GB_30D_TZ_V2,"Tanzania, United Republic of","Tanzania, United Republic of 20GB - 30 days",20000,30,117054,esim_20GB_30D_TZ_V2,true
+esim_50GB_30D_TZ_V2,"Tanzania, United Republic of","Tanzania, United Republic of 50GB - 30 days",50000,30,234396,esim_50GB_30D_TZ_V2,true
+esim_100GB_30D_TZ_V2,"Tanzania, United Republic of","Tanzania, United Republic of 100GB - 30 days",100000,30,415062,esim_100GB_30D_TZ_V2,true
+esim_1GB_7D_TH_V2,Thailand,Thailand 1GB - 7 days,1000,7,3582,esim_1GB_7D_TH_V2,true
+esim_2GB_15D_TH_V2,Thailand,Thailand 2GB - 15 days,2000,15,6372,esim_2GB_15D_TH_V2,true
+esim_3GB_30D_TH_V2,Thailand,Thailand 3GB - 30 days,3000,30,8586,esim_3GB_30D_TH_V2,true
+esim_5GB_30D_TH_V2,Thailand,Thailand 5GB - 30 days,5000,30,13248,esim_5GB_30D_TH_V2,true
+esim_10GB_30D_TH_V2,Thailand,Thailand 10GB - 30 days,10000,30,22950,esim_10GB_30D_TH_V2,true
+esim_20GB_30D_TH_V2,Thailand,Thailand 20GB - 30 days,20000,30,40032,esim_20GB_30D_TH_V2,true
+esim_50GB_30D_TH_V2,Thailand,Thailand 50GB - 30 days,50000,30,90090,esim_50GB_30D_TH_V2,true
+esim_100GB_30D_TH_V2,Thailand,Thailand 100GB - 30 days,100000,30,156600,esim_100GB_30D_TH_V2,true
+esim_1GB_7D_TG_V2,Togo,Togo 1GB - 7 days,1000,7,47556,esim_1GB_7D_TG_V2,true
+esim_2GB_15D_TG_V2,Togo,Togo 2GB - 15 days,2000,15,94122,esim_2GB_15D_TG_V2,true
+esim_3GB_30D_TG_V2,Togo,Togo 3GB - 30 days,3000,30,132714,esim_3GB_30D_TG_V2,true
+esim_5GB_30D_TG_V2,Togo,Togo 5GB - 30 days,5000,30,220536,esim_5GB_30D_TG_V2,true
+esim_1GB_7D_TO_V2,Tonga,Tonga 1GB - 7 days,1000,7,34254,esim_1GB_7D_TO_V2,true
+esim_2GB_15D_TO_V2,Tonga,Tonga 2GB - 15 days,2000,15,67518,esim_2GB_15D_TO_V2,true
+esim_3GB_30D_TO_V2,Tonga,Tonga 3GB - 30 days,3000,30,95076,esim_3GB_30D_TO_V2,true
+esim_5GB_30D_TO_V2,Tonga,Tonga 5GB - 30 days,5000,30,157806,esim_5GB_30D_TO_V2,true
+esim_1GB_7D_TT_V2,Trinidad And Tobago,Trinidad And Tobago 1GB - 7 days,1000,7,11772,esim_1GB_7D_TT_V2,true
+esim_2GB_15D_TT_V2,Trinidad And Tobago,Trinidad And Tobago 2GB - 15 days,2000,15,20934,esim_2GB_15D_TT_V2,true
+esim_3GB_30D_TT_V2,Trinidad And Tobago,Trinidad And Tobago 3GB - 30 days,3000,30,29502,esim_3GB_30D_TT_V2,true
+esim_5GB_30D_TT_V2,Trinidad And Tobago,Trinidad And Tobago 5GB - 30 days,5000,30,42660,esim_5GB_30D_TT_V2,true
+esim_10GB_30D_TT_V2,Trinidad And Tobago,Trinidad And Tobago 10GB - 30 days,10000,30,73782,esim_10GB_30D_TT_V2,true
+esim_20GB_30D_TT_V2,Trinidad And Tobago,Trinidad And Tobago 20GB - 30 days,20000,30,124182,esim_20GB_30D_TT_V2,true
+esim_1GB_7D_TN_V2,Tunisia,Tunisia 1GB - 7 days,1000,7,2952,esim_1GB_7D_TN_V2,true
+esim_2GB_15D_TN_V2,Tunisia,Tunisia 2GB - 15 days,2000,15,5004,esim_2GB_15D_TN_V2,true
+esim_3GB_30D_TN_V2,Tunisia,Tunisia 3GB - 30 days,3000,30,6714,esim_3GB_30D_TN_V2,true
+esim_5GB_30D_TN_V2,Tunisia,Tunisia 5GB - 30 days,5000,30,11772,esim_5GB_30D_TN_V2,true
+esim_10GB_30D_TN_V2,Tunisia,Tunisia 10GB - 30 days,10000,30,20916,esim_10GB_30D_TN_V2,true
+esim_20GB_30D_TN_V2,Tunisia,Tunisia 20GB - 30 days,20000,30,36918,esim_20GB_30D_TN_V2,true
+esim_50GB_30D_TN_V2,Tunisia,Tunisia 50GB - 30 days,50000,30,93996,esim_50GB_30D_TN_V2,true
+esim_100GB_30D_TN_V2,Tunisia,Tunisia 100GB - 30 days,100000,30,127494,esim_100GB_30D_TN_V2,true
+esim_1GB_7D_TR_V2,Turkey,Turkey 1GB - 7 days,1000,7,2376,esim_1GB_7D_TR_V2,true
+esim_2GB_15D_TR_V2,Turkey,Turkey 2GB - 15 days,2000,15,3780,esim_2GB_15D_TR_V2,true
+esim_3GB_30D_TR_V2,Turkey,Turkey 3GB - 30 days,3000,30,4878,esim_3GB_30D_TR_V2,true
+esim_5GB_30D_TR_V2,Turkey,Turkey 5GB - 30 days,5000,30,6768,esim_5GB_30D_TR_V2,true
+esim_10GB_30D_TR_V2,Turkey,Turkey 10GB - 30 days,10000,30,9936,esim_10GB_30D_TR_V2,true
+esim_20GB_30D_TR_V2,Turkey,Turkey 20GB - 30 days,20000,30,15750,esim_20GB_30D_TR_V2,true
+esim_50GB_30D_TR_V2,Turkey,Turkey 50GB - 30 days,50000,30,33120,esim_50GB_30D_TR_V2,true
+esim_100GB_30D_TR_V2,Turkey,Turkey 100GB - 30 days,100000,30,59454,esim_100GB_30D_TR_V2,true
+esim_1GB_7D_TC_V2,Turks And Caicos Islands,Turks And Caicos Islands 1GB - 7 days,1000,7,11772,esim_1GB_7D_TC_V2,true
+esim_2GB_15D_TC_V2,Turks And Caicos Islands,Turks And Caicos Islands 2GB - 15 days,2000,15,20934,esim_2GB_15D_TC_V2,true
+esim_3GB_30D_TC_V2,Turks And Caicos Islands,Turks And Caicos Islands 3GB - 30 days,3000,30,29502,esim_3GB_30D_TC_V2,true
+esim_5GB_30D_TC_V2,Turks And Caicos Islands,Turks And Caicos Islands 5GB - 30 days,5000,30,42660,esim_5GB_30D_TC_V2,true
+esim_10GB_30D_TC_V2,Turks And Caicos Islands,Turks And Caicos Islands 10GB - 30 days,10000,30,73782,esim_10GB_30D_TC_V2,true
+esim_20GB_30D_TC_V2,Turks And Caicos Islands,Turks And Caicos Islands 20GB - 30 days,20000,30,124182,esim_20GB_30D_TC_V2,true
+esim_1GB_7D_UG_V2,Uganda,Uganda 1GB - 7 days,1000,7,14040,esim_1GB_7D_UG_V2,true
+esim_2GB_15D_UG_V2,Uganda,Uganda 2GB - 15 days,2000,15,26604,esim_2GB_15D_UG_V2,true
+esim_3GB_30D_UG_V2,Uganda,Uganda 3GB - 30 days,3000,30,36990,esim_3GB_30D_UG_V2,true
+esim_5GB_30D_UG_V2,Uganda,Uganda 5GB - 30 days,5000,30,60660,esim_5GB_30D_UG_V2,true
+esim_10GB_30D_UG_V2,Uganda,Uganda 10GB - 30 days,10000,30,110862,esim_10GB_30D_UG_V2,true
+esim_20GB_30D_UG_V2,Uganda,Uganda 20GB - 30 days,20000,30,198684,esim_20GB_30D_UG_V2,true
+esim_1GB_7D_UA_V2,Ukraine,Ukraine 1GB - 7 days,1000,7,3276,esim_1GB_7D_UA_V2,true
+esim_2GB_15D_UA_V2,Ukraine,Ukraine 2GB - 15 days,2000,15,5562,esim_2GB_15D_UA_V2,true
+esim_3GB_30D_UA_V2,Ukraine,Ukraine 3GB - 30 days,3000,30,7452,esim_3GB_30D_UA_V2,true
+esim_5GB_30D_UA_V2,Ukraine,Ukraine 5GB - 30 days,5000,30,11772,esim_5GB_30D_UA_V2,true
+esim_10GB_30D_UA_V2,Ukraine,Ukraine 10GB - 30 days,10000,30,20916,esim_10GB_30D_UA_V2,true
+esim_20GB_30D_UA_V2,Ukraine,Ukraine 20GB - 30 days,20000,30,36918,esim_20GB_30D_UA_V2,true
+esim_50GB_30D_UA_V2,Ukraine,Ukraine 50GB - 30 days,50000,30,90756,esim_50GB_30D_UA_V2,true
+esim_100GB_30D_UA_V2,Ukraine,Ukraine 100GB - 30 days,100000,30,141354,esim_100GB_30D_UA_V2,true
+esim_1GB_7D_AE_V2,United Arab Emirates,United Arab Emirates 1GB - 7 days,1000,7,4068,esim_1GB_7D_AE_V2,true
+esim_2GB_15D_AE_V2,United Arab Emirates,United Arab Emirates 2GB - 15 days,2000,15,7038,esim_2GB_15D_AE_V2,true
+esim_3GB_30D_AE_V2,United Arab Emirates,United Arab Emirates 3GB - 30 days,3000,30,9486,esim_3GB_30D_AE_V2,true
+esim_5GB_30D_AE_V2,United Arab Emirates,United Arab Emirates 5GB - 30 days,5000,30,15102,esim_5GB_30D_AE_V2,true
+esim_10GB_30D_AE_V2,United Arab Emirates,United Arab Emirates 10GB - 30 days,10000,30,26982,esim_10GB_30D_AE_V2,true
+esim_20GB_30D_AE_V2,United Arab Emirates,United Arab Emirates 20GB - 30 days,20000,30,47790,esim_20GB_30D_AE_V2,true
+esim_50GB_30D_AE_V2,United Arab Emirates,United Arab Emirates 50GB - 30 days,50000,30,107262,esim_50GB_30D_AE_V2,true
+esim_100GB_30D_AE_V2,United Arab Emirates,United Arab Emirates 100GB - 30 days,100000,30,140094,esim_100GB_30D_AE_V2,true
+esim_1GB_7D_GB_V2,United Kingdom,United Kingdom 1GB - 7 days,1000,7,2448,esim_1GB_7D_GB_V2,true
+esim_2GB_15D_GB_V2,United Kingdom,United Kingdom 2GB - 15 days,2000,15,3888,esim_2GB_15D_GB_V2,true
+esim_3GB_30D_GB_V2,United Kingdom,United Kingdom 3GB - 30 days,3000,30,5094,esim_3GB_30D_GB_V2,true
+esim_5GB_30D_GB_V2,United Kingdom,United Kingdom 5GB - 30 days,5000,30,7848,esim_5GB_30D_GB_V2,true
+esim_10GB_30D_GB_V2,United Kingdom,United Kingdom 10GB - 30 days,10000,30,13662,esim_10GB_30D_GB_V2,true
+esim_20GB_30D_GB_V2,United Kingdom,United Kingdom 20GB - 30 days,20000,30,23850,esim_20GB_30D_GB_V2,true
+esim_50GB_30D_GB_V2,United Kingdom,United Kingdom 50GB - 30 days,50000,30,68220,esim_50GB_30D_GB_V2,true
+esim_100GB_30D_GB_V2,United Kingdom,United Kingdom 100GB - 30 days,100000,30,103266,esim_100GB_30D_GB_V2,true
+esim_1GB_7D_US_V2,United States of America,United States of America 1GB - 7 days,1000,7,3132,esim_1GB_7D_US_V2,true
+esim_2GB_15D_US_V2,United States of America,United States of America 2GB - 15 days,2000,15,5364,esim_2GB_15D_US_V2,true
+esim_3GB_30D_US_V2,United States of America,United States of America 3GB - 30 days,3000,30,7200,esim_3GB_30D_US_V2,true
+esim_5GB_30D_US_V2,United States of America,United States of America 5GB - 30 days,5000,30,11484,esim_5GB_30D_US_V2,true
+esim_10GB_30D_US_V2,United States of America,United States of America 10GB - 30 days,10000,30,20034,esim_10GB_30D_US_V2,true
+esim_20GB_30D_US_V2,United States of America,United States of America 20GB - 30 days,20000,30,35784,esim_20GB_30D_US_V2,true
+esim_50GB_30D_US_V2,United States of America,United States of America 50GB - 30 days,50000,30,81198,esim_50GB_30D_US_V2,true
+esim_100GB_30D_US_V2,United States of America,United States of America 100GB - 30 days,100000,30,153954,esim_100GB_30D_US_V2,true
+esim_1GB_7D_UY_V2,Uruguay,Uruguay 1GB - 7 days,1000,7,6012,esim_1GB_7D_UY_V2,true
+esim_2GB_15D_UY_V2,Uruguay,Uruguay 2GB - 15 days,2000,15,11052,esim_2GB_15D_UY_V2,true
+esim_3GB_30D_UY_V2,Uruguay,Uruguay 3GB - 30 days,3000,30,15210,esim_3GB_30D_UY_V2,true
+esim_5GB_30D_UY_V2,Uruguay,Uruguay 5GB - 30 days,5000,30,24696,esim_5GB_30D_UY_V2,true
+esim_10GB_30D_UY_V2,Uruguay,Uruguay 10GB - 30 days,10000,30,44820,esim_10GB_30D_UY_V2,true
+esim_20GB_30D_UY_V2,Uruguay,Uruguay 20GB - 30 days,20000,30,80046,esim_20GB_30D_UY_V2,true
+esim_50GB_30D_UY_V2,Uruguay,Uruguay 50GB - 30 days,50000,30,180666,esim_50GB_30D_UY_V2,true
+esim_1GB_7D_UZ_V2,Uzbekistan,Uzbekistan 1GB - 7 days,1000,7,3186,esim_1GB_7D_UZ_V2,true
+esim_2GB_15D_UZ_V2,Uzbekistan,Uzbekistan 2GB - 15 days,2000,15,4482,esim_2GB_15D_UZ_V2,true
+esim_3GB_30D_UZ_V2,Uzbekistan,Uzbekistan 3GB - 30 days,3000,30,5598,esim_3GB_30D_UZ_V2,true
+esim_5GB_30D_UZ_V2,Uzbekistan,Uzbekistan 5GB - 30 days,5000,30,7776,esim_5GB_30D_UZ_V2,true
+esim_10GB_30D_UZ_V2,Uzbekistan,Uzbekistan 10GB - 30 days,10000,30,11394,esim_10GB_30D_UZ_V2,true
+esim_20GB_30D_UZ_V2,Uzbekistan,Uzbekistan 20GB - 30 days,20000,30,17838,esim_20GB_30D_UZ_V2,true
+esim_50GB_30D_UZ_V2,Uzbekistan,Uzbekistan 50GB - 30 days,50000,30,37962,esim_50GB_30D_UZ_V2,true
+esim_100GB_30D_UZ_V2,Uzbekistan,Uzbekistan 100GB - 30 days,100000,30,66150,esim_100GB_30D_UZ_V2,true
+esim_1GB_7D_VU_V2,Vanuatu,Vanuatu 1GB - 7 days,1000,7,46872,esim_1GB_7D_VU_V2,true
+esim_2GB_15D_VU_V2,Vanuatu,Vanuatu 2GB - 15 days,2000,15,92124,esim_2GB_15D_VU_V2,true
+esim_3GB_30D_VU_V2,Vanuatu,Vanuatu 3GB - 30 days,3000,30,129582,esim_3GB_30D_VU_V2,true
+esim_5GB_30D_VU_V2,Vanuatu,Vanuatu 5GB - 30 days,5000,30,214866,esim_5GB_30D_VU_V2,true
+esim_10GB_30D_VU_V2,Vanuatu,Vanuatu 10GB - 30 days,10000,30,395784,esim_10GB_30D_VU_V2,true
+esim_1GB_7D_VA_V2,Vatican City,Vatican City 1GB - 7 days,1000,7,2106,esim_1GB_7D_VA_V2,true
+esim_2GB_15D_VA_V2,Vatican City,Vatican City 2GB - 15 days,2000,15,3492,esim_2GB_15D_VA_V2,true
+esim_3GB_30D_VA_V2,Vatican City,Vatican City 3GB - 30 days,3000,30,4572,esim_3GB_30D_VA_V2,true
+esim_5GB_30D_VA_V2,Vatican City,Vatican City 5GB - 30 days,5000,30,6336,esim_5GB_30D_VA_V2,true
+esim_10GB_30D_VA_V2,Vatican City,Vatican City 10GB - 30 days,10000,30,10728,esim_10GB_30D_VA_V2,true
+esim_20GB_30D_VA_V2,Vatican City,Vatican City 20GB - 30 days,20000,30,18252,esim_20GB_30D_VA_V2,true
+esim_50GB_30D_VA_V2,Vatican City,Vatican City 50GB - 30 days,50000,30,40032,esim_50GB_30D_VA_V2,true
+esim_100GB_30D_VA_V2,Vatican City,Vatican City 100GB - 30 days,100000,30,77544,esim_100GB_30D_VA_V2,true
+esim_1GB_7D_VN_V2,VietNam,VietNam 1GB - 7 days,1000,7,3582,esim_1GB_7D_VN_V2,true
+esim_2GB_15D_VN_V2,VietNam,VietNam 2GB - 15 days,2000,15,5562,esim_2GB_15D_VN_V2,true
+esim_3GB_30D_VN_V2,VietNam,VietNam 3GB - 30 days,3000,30,7308,esim_3GB_30D_VN_V2,true
+esim_5GB_30D_VN_V2,VietNam,VietNam 5GB - 30 days,5000,30,10656,esim_5GB_30D_VN_V2,true
+esim_10GB_30D_VN_V2,VietNam,VietNam 10GB - 30 days,10000,30,16236,esim_10GB_30D_VN_V2,true
+esim_20GB_30D_VN_V2,VietNam,VietNam 20GB - 30 days,20000,30,30888,esim_20GB_30D_VN_V2,true
+esim_50GB_30D_VN_V2,VietNam,VietNam 50GB - 30 days,50000,30,74178,esim_50GB_30D_VN_V2,true
+esim_100GB_30D_VN_V2,VietNam,VietNam 100GB - 30 days,100000,30,130680,esim_100GB_30D_VN_V2,true
+esim_1GB_7D_VG_V2,Virgin Islands - British,Virgin Islands - British 1GB - 7 days,1000,7,11772,esim_1GB_7D_VG_V2,true
+esim_2GB_15D_VG_V2,Virgin Islands - British,Virgin Islands - British 2GB - 15 days,2000,15,20934,esim_2GB_15D_VG_V2,true
+esim_3GB_30D_VG_V2,Virgin Islands - British,Virgin Islands - British 3GB - 30 days,3000,30,29502,esim_3GB_30D_VG_V2,true
+esim_5GB_30D_VG_V2,Virgin Islands - British,Virgin Islands - British 5GB - 30 days,5000,30,42660,esim_5GB_30D_VG_V2,true
+esim_10GB_30D_VG_V2,Virgin Islands - British,Virgin Islands - British 10GB - 30 days,10000,30,73782,esim_10GB_30D_VG_V2,true
+esim_20GB_30D_VG_V2,Virgin Islands - British,Virgin Islands - British 20GB - 30 days,20000,30,124182,esim_20GB_30D_VG_V2,true
+esim_1GB_7D_VI_V2,Virgin Islands - United States,Virgin Islands - United States 1GB - 7 days,1000,7,6012,esim_1GB_7D_VI_V2,true
+esim_2GB_15D_VI_V2,Virgin Islands - United States,Virgin Islands - United States 2GB - 15 days,2000,15,11052,esim_2GB_15D_VI_V2,true
+esim_3GB_30D_VI_V2,Virgin Islands - United States,Virgin Islands - United States 3GB - 30 days,3000,30,15210,esim_3GB_30D_VI_V2,true
+esim_5GB_30D_VI_V2,Virgin Islands - United States,Virgin Islands - United States 5GB - 30 days,5000,30,24696,esim_5GB_30D_VI_V2,true
+esim_10GB_30D_VI_V2,Virgin Islands - United States,Virgin Islands - United States 10GB - 30 days,10000,30,44820,esim_10GB_30D_VI_V2,true
+esim_20GB_30D_VI_V2,Virgin Islands - United States,Virgin Islands - United States 20GB - 30 days,20000,30,80046,esim_20GB_30D_VI_V2,true
+esim_50GB_30D_VI_V2,Virgin Islands - United States,Virgin Islands - United States 50GB - 30 days,50000,30,180666,esim_50GB_30D_VI_V2,true
+esim_1GB_7D_ZM_V2,Zambia,Zambia 1GB - 7 days,1000,7,12420,esim_1GB_7D_ZM_V2,true
+esim_2GB_15D_ZM_V2,Zambia,Zambia 2GB - 15 days,2000,15,25740,esim_2GB_15D_ZM_V2,true
+esim_3GB_30D_ZM_V2,Zambia,Zambia 3GB - 30 days,3000,30,33336,esim_3GB_30D_ZM_V2,true
+esim_5GB_30D_ZM_V2,Zambia,Zambia 5GB - 30 days,5000,30,54900,esim_5GB_30D_ZM_V2,true
+esim_10GB_30D_ZM_V2,Zambia,Zambia 10GB - 30 days,10000,30,100638,esim_10GB_30D_ZM_V2,true
+esim_20GB_30D_ZM_V2,Zambia,Zambia 20GB - 30 days,20000,30,180666,esim_20GB_30D_ZM_V2,true
